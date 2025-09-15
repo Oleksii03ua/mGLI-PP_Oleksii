@@ -1,0 +1,53 @@
+======== SLURM JOB INFO ========
+Sat Sep  6 19:18:13 EDT 2025
+Job ID      : 58353851
+Node list   : r813u09n06
+CPUs        : 16
+Mem (MB)    : 65536
+Submit dir  : /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs
+===============================
+Using python: /home/op98/venvs/mgli-py312/bin/python
+Python 3.12.3
+numpy OK
+Bio OK
+torch OK
+Starting mGLI directory run…
+Discovered 2836 PDB files in /home/op98/protein_design/dataset/PP
+PDB 1a22: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 978
+calculation,done
+[SKIP] 1a22: unsupported operand type(s) for +=: 'float' and 'list'
+[SKIP] 1a2k: PDB 1a2k: not found in CSV or missing partner columns.
+[SKIP] 1a3b: PDB 1a3b: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1a4y: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+157 830
+calculation,done
+[SKIP] 1a4y: unsupported operand type(s) for +=: 'float' and 'list'
+PDB 1acb: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+65 393
+calculation,done
+[SKIP] 1acb: unsupported operand type(s) for +=: 'float' and 'list'
+[SKIP] 1ahw: PDB 1ahw: not found in CSV or missing partner columns.
+PDB 1ak4: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+81 396
+calculation,done
+[SKIP] 1ak4: unsupported operand type(s) for +=: 'float' and 'list'
+[SKIP] 1akj: PDB 1akj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1an1: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+54 264
+calculation,done
+[SKIP] 1an1: unsupported operand type(s) for +=: 'float' and 'list'
+PDB 1atn: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+94 946

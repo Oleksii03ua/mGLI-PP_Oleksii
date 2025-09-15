@@ -1,0 +1,6 @@
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+
+real	11m27.622s
+user	0m0.012s
+sys	0m0.003s

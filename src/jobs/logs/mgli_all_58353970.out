@@ -1,0 +1,3678 @@
+======== SLURM JOB INFO ========
+Sat Sep  6 19:25:50 EDT 2025
+Job ID      : 58353970
+Node list   : r813u03n07
+CPUs        : 16
+Mem (MB)    : 65536
+Submit dir  : /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs
+===============================
+Using python: /home/op98/venvs/mgli-py312/bin/python
+Python 3.12.3
+numpy OK
+Bio OK
+torch OK
+Starting mGLI directory run…
+Discovered 2836 PDB files in /home/op98/protein_design/dataset/PP
+PDB 1a22: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 978
+calculation,done
+[OK]  1a22 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1a22_mGLI.pt  (285.40s)
+[SKIP] 1a2k: PDB 1a2k: not found in CSV or missing partner columns.
+[SKIP] 1a3b: PDB 1a3b: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1a4y: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+157 830
+calculation,done
+[OK]  1a4y -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1a4y_mGLI.pt  (281.29s)
+PDB 1acb: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+65 393
+calculation,done
+[OK]  1acb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1acb_mGLI.pt  (65.35s)
+[SKIP] 1ahw: PDB 1ahw: not found in CSV or missing partner columns.
+PDB 1ak4: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+81 396
+calculation,done
+[OK]  1ak4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ak4_mGLI.pt  (95.55s)
+[SKIP] 1akj: PDB 1akj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1an1: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+54 264
+calculation,done
+[OK]  1an1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1an1_mGLI.pt  (34.49s)
+PDB 1atn: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+94 946
+calculation,done
+[OK]  1atn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1atn_mGLI.pt  (327.92s)
+[SKIP] 1avg: PDB 1avg: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1avx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 608
+calculation,done
+[OK]  1avx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1avx_mGLI.pt  (149.90s)
+PDB 1avz: partner1:['B'] / partner2:['C']
+struct,done
+calculator,ready
+33 379
+calculation,done
+[OK]  1avz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1avz_mGLI.pt  (30.77s)
+PDB 1axi: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+160 887
+calculation,done
+[OK]  1axi -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1axi_mGLI.pt  (254.04s)
+PDB 1ay7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 495
+calculation,done
+[OK]  1ay7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ay7_mGLI.pt  (73.55s)
+[SKIP] 1azz: PDB 1azz: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1b27: PDB 1b27: not found in CSV or missing partner columns.
+[SKIP] 1b2s: PDB 1b2s: not found in CSV or missing partner columns.
+[SKIP] 1b2u: PDB 1b2u: not found in CSV or missing partner columns.
+[SKIP] 1b3s: PDB 1b3s: not found in CSV or missing partner columns.
+PDB 1b6c: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+150 847
+calculation,done
+[OK]  1b6c -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1b6c_mGLI.pt  (234.88s)
+[SKIP] 1bj1: PDB 1bj1: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1bql: PDB 1bql: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1brs: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+85 511
+calculation,done
+[OK]  1brs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1brs_mGLI.pt  (76.45s)
+[SKIP] 1bth: PDB 1bth: not found in CSV or missing partner columns.
+PDB 1buh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+103 489
+calculation,done
+[OK]  1buh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1buh_mGLI.pt  (113.58s)
+[SKIP] 1bvk: PDB 1bvk: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1bvn: partner1:['P'] / partner2:['T']
+struct,done
+calculator,ready
+117 507
+calculation,done
+[OK]  1bvn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1bvn_mGLI.pt  (152.81s)
+PDB 1c9p: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+63 315
+calculation,done
+[OK]  1c9p -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1c9p_mGLI.pt  (45.51s)
+[SKIP] 1c9t: PDB 1c9t: not found in CSV or missing partner columns.
+[SKIP] 1ca0: PDB 1ca0: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1cbw: PDB 1cbw: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1clv: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+60 246
+calculation,done
+[OK]  1clv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1clv_mGLI.pt  (51.67s)
+PDB 1cmx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 485
+calculation,done
+[OK]  1cmx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1cmx_mGLI.pt  (95.79s)
+PDB 1cn4: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+107 622
+calculation,done
+[OK]  1cn4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1cn4_mGLI.pt  (155.94s)
+[SKIP] 1cz8: PDB 1cz8: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1d6r: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+67 335
+calculation,done
+[OK]  1d6r -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1d6r_mGLI.pt  (52.56s)
+[SKIP] 1de4: PDB 1de4: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1dee: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+196 1351
+calculation,done
+[OK]  1dee -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dee_mGLI.pt  (429.45s)
+PDB 1dfj: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+211 1592
+calculation,done
+[OK]  1dfj -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dfj_mGLI.pt  (524.29s)
+PDB 1dhk: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+208 1187
+calculation,done
+[OK]  1dhk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dhk_mGLI.pt  (545.73s)
+[SKIP] 1dit: PDB 1dit: not found in CSV or missing partner columns.
+PDB 1djs: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+113 865
+calculation,done
+[OK]  1djs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1djs_mGLI.pt  (184.93s)
+PDB 1dp5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+57 242
+calculation,done
+[OK]  1dp5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dp5_mGLI.pt  (39.24s)
+PDB 1dpj: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+51 223
+calculation,done
+[OK]  1dpj -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dpj_mGLI.pt  (34.34s)
+[SKIP] 1dqj: PDB 1dqj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1du3: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+124 644
+calculation,done
+[OK]  1du3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1du3_mGLI.pt  (129.35s)
+PDB 1dzb: partner1:['A'] / partner2:['X']
+struct,done
+calculator,ready
+106 644
+calculation,done
+[OK]  1dzb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1dzb_mGLI.pt  (147.11s)
+[SKIP] 1e3u: PDB 1e3u: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1e4k: PDB 1e4k: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1e6e: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+109 647
+calculation,done
+[OK]  1e6e -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1e6e_mGLI.pt  (198.59s)
+[SKIP] 1e6j: PDB 1e6j: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1e96: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 691
+calculation,done
+[OK]  1e96 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1e96_mGLI.pt  (153.42s)
+PDB 1eaw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+61 397
+calculation,done
+[OK]  1eaw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1eaw_mGLI.pt  (60.36s)
+[SKIP] 1eer: PDB 1eer: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1ees: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+96 707
+calculation,done
+[OK]  1ees -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ees_mGLI.pt  (114.59s)
+PDB 1efn: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+64 450
+calculation,done
+[OK]  1efn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1efn_mGLI.pt  (50.68s)
+[SKIP] 1efx: PDB 1efx: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1eja: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+63 366
+calculation,done
+[OK]  1eja -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1eja_mGLI.pt  (50.67s)
+PDB 1emv: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+91 607
+calculation,done
+[OK]  1emv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1emv_mGLI.pt  (89.91s)
+[SKIP] 1eo8: PDB 1eo8: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1es0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+162 1289
+calculation,done
+[OK]  1es0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1es0_mGLI.pt  (343.38s)
+PDB 1ewy: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+110 537
+calculation,done
+[OK]  1ewy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ewy_mGLI.pt  (138.10s)
+PDB 1ezs: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+109 1052
+calculation,done
+[OK]  1ezs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ezs_mGLI.pt  (201.23s)
+PDB 1ezu: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+106 551
+calculation,done
+[OK]  1ezu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ezu_mGLI.pt  (140.01s)
+PDB 1f34: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+169 887
+calculation,done
+[OK]  1f34 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1f34_mGLI.pt  (282.59s)
+PDB 1f3v: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+117 716
+calculation,done
+[OK]  1f3v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1f3v_mGLI.pt  (157.75s)
+PDB 1f5r: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+58 278
+calculation,done
+[OK]  1f5r -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1f5r_mGLI.pt  (47.39s)
+PDB 1f7z: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+50 276
+calculation,done
+[OK]  1f7z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1f7z_mGLI.pt  (43.51s)
+[SKIP] 1fak: PDB 1fak: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1fc2: partner1:['C'] / partner2:['D']
+struct,done
+calculator,ready
+68 658
+calculation,done
+[OK]  1fc2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1fc2_mGLI.pt  (76.73s)
+[SKIP] 1fe8: PDB 1fe8: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1ffw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+95 412
+calculation,done
+[OK]  1ffw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ffw_mGLI.pt  (64.49s)
+[SKIP] 1ffx: PDB 1ffx: not found in CSV or missing partner columns.
+[SKIP] 1fg9: PDB 1fg9: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1fle: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+65 314
+calculation,done
+[OK]  1fle -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1fle_mGLI.pt  (47.15s)
+[SKIP] 1flt: PDB 1flt: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1fmo: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+45 157
+calculation,done
+[OK]  1fmo -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1fmo_mGLI.pt  (25.09s)
+PDB 1fqj: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+152 737
+calculation,done
+[OK]  1fqj -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1fqj_mGLI.pt  (237.49s)
+[SKIP] 1fsk: PDB 1fsk: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1fy8: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+66 281
+calculation,done
+[OK]  1fy8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1fy8_mGLI.pt  (50.03s)
+PDB 1g0v: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+55 223
+calculation,done
+[OK]  1g0v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1g0v_mGLI.pt  (35.84s)
+PDB 1g5j: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+94 433
+calculation,done
+[OK]  1g5j -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1g5j_mGLI.pt  (64.69s)
+PDB 1g6v: partner1:['A'] / partner2:['K']
+struct,done
+calculator,ready
+76 464
+calculation,done
+[OK]  1g6v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1g6v_mGLI.pt  (116.13s)
+PDB 1g9i: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+39 155
+calculation,done
+[OK]  1g9i -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1g9i_mGLI.pt  (17.17s)
+[SKIP] 1gcq: PDB 1gcq: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1gl0: partner1:['I'] / partner2:['E']
+struct,done
+calculator,ready
+108 1003
+calculation,done
+[OK]  1gl0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gl0_mGLI.pt  (148.69s)
+PDB 1gl1: partner1:['I'] / partner2:['A']
+struct,done
+calculator,ready
+109 970
+calculation,done
+[OK]  1gl1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gl1_mGLI.pt  (143.47s)
+PDB 1gla: partner1:['F'] / partner2:['G']
+struct,done
+calculator,ready
+98 617
+calculation,done
+[OK]  1gla -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gla_mGLI.pt  (242.59s)
+PDB 1gng: partner1:['A'] / partner2:['X']
+struct,done
+calculator,ready
+52 204
+calculation,done
+[OK]  1gng -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gng_mGLI.pt  (34.79s)
+PDB 1go4: partner1:['A'] / partner2:['G']
+struct,done
+calculator,ready
+121 387
+calculation,done
+[OK]  1go4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1go4_mGLI.pt  (102.09s)
+PDB 1gpw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 877
+calculation,done
+[OK]  1gpw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gpw_mGLI.pt  (235.51s)
+PDB 1grn: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+133 965
+calculation,done
+[OK]  1grn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1grn_mGLI.pt  (249.48s)
+PDB 1gua: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+91 430
+calculation,done
+[OK]  1gua -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gua_mGLI.pt  (76.15s)
+PDB 1gxd: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+146 632
+calculation,done
+[OK]  1gxd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1gxd_mGLI.pt  (395.08s)
+PDB 1h0t: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 843
+calculation,done
+[OK]  1h0t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1h0t_mGLI.pt  (107.09s)
+PDB 1h1v: partner1:['A'] / partner2:['G']
+struct,done
+calculator,ready
+163 963
+calculation,done
+[OK]  1h1v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1h1v_mGLI.pt  (458.96s)
+PDB 1h59: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+36 340
+calculation,done
+[OK]  1h59 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1h59_mGLI.pt  (20.00s)
+PDB 1hcf: partner1:['A'] / partner2:['X']
+struct,done
+calculator,ready
+57 587
+calculation,done
+[OK]  1hcf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1hcf_mGLI.pt  (67.89s)
+PDB 1he8: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+121 693
+calculation,done
+[OK]  1he8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1he8_mGLI.pt  (398.22s)
+[SKIP] 1hez: PDB 1hez: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1hia: PDB 1hia: not found in CSV or missing partner columns.
+[SKIP] 1hqr: PDB 1hqr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1hrt: partner1:['H'] / partner2:['I']
+struct,done
+calculator,ready
+95 474
+calculation,done
+[OK]  1hrt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1hrt_mGLI.pt  (94.19s)
+[SKIP] 1hxy: PDB 1hxy: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1i2m: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+175 1432
+calculation,done
+[OK]  1i2m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1i2m_mGLI.pt  (458.22s)
+[SKIP] 1i3o: PDB 1i3o: not found in CSV or missing partner columns.
+[SKIP] 1i4d: PDB 1i4d: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1i4e: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+85 1029
+calculation,done
+[OK]  1i4e -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1i4e_mGLI.pt  (280.82s)
+[SKIP] 1i51: PDB 1i51: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1i5k: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+65 220
+calculation,done
+[OK]  1i5k -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1i5k_mGLI.pt  (22.56s)
+[SKIP] 1i8k: PDB 1i8k: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1i8l: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+95 501
+calculation,done
+[OK]  1i8l -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1i8l_mGLI.pt  (106.31s)
+PDB 1ib1: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+159 772
+calculation,done
+[OK]  1ib1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ib1_mGLI.pt  (240.44s)
+PDB 1ibr: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+320 1977
+calculation,done
+[OK]  1ibr -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ibr_mGLI.pt  (944.32s)
+[SKIP] 1icf: PDB 1icf: not found in CSV or missing partner columns.
+[SKIP] 1id5: PDB 1id5: not found in CSV or missing partner columns.
+[SKIP] 1ihs: PDB 1ihs: not found in CSV or missing partner columns.
+[SKIP] 1ijk: PDB 1ijk: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1iqd: PDB 1iqd: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1j2j: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+68 339
+calculation,done
+[OK]  1j2j -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1j2j_mGLI.pt  (43.75s)
+PDB 1j7d: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+85 830
+calculation,done
+[OK]  1j7d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1j7d_mGLI.pt  (134.95s)
+PDB 1j7v: partner1:['L'] / partner2:['R']
+struct,done
+calculator,ready
+129 817
+calculation,done
+[OK]  1j7v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1j7v_mGLI.pt  (203.67s)
+PDB 1jgn: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+73 346
+calculation,done
+[OK]  1jgn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jgn_mGLI.pt  (40.17s)
+PDB 1jh4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+90 335
+calculation,done
+[OK]  1jh4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jh4_mGLI.pt  (45.23s)
+PDB 1jiw: partner1:['P'] / partner2:['I']
+struct,done
+calculator,ready
+137 561
+calculation,done
+[OK]  1jiw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jiw_mGLI.pt  (195.10s)
+[SKIP] 1jmo: PDB 1jmo: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1jps: PDB 1jps: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1jrh: PDB 1jrh: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1jsp: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+71 881
+calculation,done
+[OK]  1jsp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jsp_mGLI.pt  (93.63s)
+PDB 1jtd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+146 1005
+calculation,done
+[OK]  1jtd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jtd_mGLI.pt  (330.06s)
+PDB 1jtg: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+140 1003
+calculation,done
+[OK]  1jtg -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jtg_mGLI.pt  (264.66s)
+PDB 1jwh: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+91 575
+calculation,done
+[OK]  1jwh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1jwh_mGLI.pt  (235.87s)
+[SKIP] 1k2d: PDB 1k2d: not found in CSV or missing partner columns.
+[SKIP] 1k5d: PDB 1k5d: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1k93: PDB 1k93: not found in CSV or missing partner columns.
+PDB 1kac: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+84 586
+calculation,done
+[OK]  1kac -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1kac_mGLI.pt  (110.19s)
+PDB 1kbh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 944
+calculation,done
+[OK]  1kbh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1kbh_mGLI.pt  (127.23s)
+[SKIP] 1kgy: PDB 1kgy: not found in CSV or missing partner columns.
+[SKIP] 1kig: PDB 1kig: not found in CSV or missing partner columns.
+[SKIP] 1kkl: PDB 1kkl: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1ktk: PDB 1ktk: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1ktz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+67 480
+calculation,done
+[OK]  1ktz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ktz_mGLI.pt  (60.22s)
+PDB 1kxp: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+235 1536
+calculation,done
+[OK]  1kxp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1kxp_mGLI.pt  (786.57s)
+PDB 1kxq: partner1:['A'] / partner2:['H']
+struct,done
+calculator,ready
+123 607
+calculation,done
+[OK]  1kxq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1kxq_mGLI.pt  (227.61s)
+[SKIP] 1kxt: PDB 1kxt: not found in CSV or missing partner columns.
+PDB 1kxv: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+125 643
+calculation,done
+[OK]  1kxv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1kxv_mGLI.pt  (226.98s)
+PDB 1l0x: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+106 657
+calculation,done
+[OK]  1l0x -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1l0x_mGLI.pt  (198.29s)
+PDB 1l0y: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+105 659
+calculation,done
+[OK]  1l0y -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1l0y_mGLI.pt  (196.62s)
+[SKIP] 1l2w: PDB 1l2w: not found in CSV or missing partner columns.
+PDB 1l4d: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 649
+calculation,done
+[OK]  1l4d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1l4d_mGLI.pt  (131.89s)
+PDB 1l4z: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+94 644
+calculation,done
+[OK]  1l4z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1l4z_mGLI.pt  (142.85s)
+PDB 1l8c: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 766
+calculation,done
+[OK]  1l8c -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1l8c_mGLI.pt  (97.60s)
+PDB 1ldt: partner1:['T'] / partner2:['L']
+struct,done
+calculator,ready
+64 298
+calculation,done
+[OK]  1ldt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ldt_mGLI.pt  (42.59s)
+PDB 1lfd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+86 632
+calculation,done
+[OK]  1lfd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lfd_mGLI.pt  (98.43s)
+PDB 1lj2: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+37 159
+calculation,done
+[OK]  1lj2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lj2_mGLI.pt  (12.34s)
+[SKIP] 1lm8: PDB 1lm8: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1lp1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+58 426
+calculation,done
+[OK]  1lp1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lp1_mGLI.pt  (35.74s)
+[SKIP] 1lqb: PDB 1lqb: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1lqs: PDB 1lqs: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1lw6: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+83 383
+calculation,done
+[OK]  1lw6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lw6_mGLI.pt  (75.14s)
+PDB 1lx5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+112 716
+calculation,done
+[OK]  1lx5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lx5_mGLI.pt  (121.90s)
+PDB 1lzw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 770
+calculation,done
+[OK]  1lzw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1lzw_mGLI.pt  (122.39s)
+PDB 1m10: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+180 1110
+calculation,done
+[OK]  1m10 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1m10_mGLI.pt  (361.77s)
+PDB 1m1e: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+155 477
+calculation,done
+[OK]  1m1e -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1m1e_mGLI.pt  (158.33s)
+PDB 1m5n: partner1:['S'] / partner2:['Q']
+struct,done
+calculator,ready
+97 211
+calculation,done
+[OK]  1m5n -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1m5n_mGLI.pt  (54.05s)
+PDB 1mah: partner1:['A'] / partner2:['F']
+struct,done
+calculator,ready
+74 414
+calculation,done
+[OK]  1mah -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1mah_mGLI.pt  (107.37s)
+PDB 1mcv: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+43 201
+calculation,done
+[OK]  1mcv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1mcv_mGLI.pt  (23.82s)
+[SKIP] 1mhh: PDB 1mhh: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1mi5: PDB 1mi5: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1mlc: PDB 1mlc: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1mq8: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+86 574
+calculation,done
+[OK]  1mq8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1mq8_mGLI.pt  (130.63s)
+[SKIP] 1mtn: PDB 1mtn: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1mxe: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+43 211
+calculation,done
+[OK]  1mxe -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1mxe_mGLI.pt  (19.48s)
+PDB 1mzw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+45 225
+calculation,done
+[OK]  1mzw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1mzw_mGLI.pt  (23.63s)
+[SKIP] 1n64: PDB 1n64: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1nb5: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+68 480
+calculation,done
+[OK]  1nb5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nb5_mGLI.pt  (89.42s)
+[SKIP] 1nca: PDB 1nca: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1nez: PDB 1nez: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1nf3: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+88 596
+calculation,done
+[OK]  1nf3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nf3_mGLI.pt  (114.28s)
+[SKIP] 1nl0: PDB 1nl0: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1nm5: PDB 1nm5: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1nma: PDB 1nma: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1nsn: PDB 1nsn: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1nvu: partner1:['Q'] / partner2:['S']
+struct,done
+calculator,ready
+187 1443
+calculation,done
+[OK]  1nvu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nvu_mGLI.pt  (516.79s)
+PDB 1nw9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+138 881
+calculation,done
+[OK]  1nw9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nw9_mGLI.pt  (195.98s)
+PDB 1nys: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 497
+calculation,done
+[OK]  1nys -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nys_mGLI.pt  (79.51s)
+PDB 1nyu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+106 486
+calculation,done
+[OK]  1nyu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1nyu_mGLI.pt  (81.93s)
+[SKIP] 1o94: PDB 1o94: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1o95: PDB 1o95: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1o9a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+71 381
+calculation,done
+[OK]  1o9a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1o9a_mGLI.pt  (44.04s)
+[SKIP] 1ob1: PDB 1ob1: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1oc0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+70 281
+calculation,done
+[OK]  1oc0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1oc0_mGLI.pt  (53.95s)
+PDB 1oey: partner1:['A'] / partner2:['J']
+struct,done
+calculator,ready
+79 477
+calculation,done
+[OK]  1oey -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1oey_mGLI.pt  (67.26s)
+PDB 1ogy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+203 889
+calculation,done
+[OK]  1ogy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ogy_mGLI.pt  (439.40s)
+PDB 1op9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+62 578
+calculation,done
+[OK]  1op9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1op9_mGLI.pt  (77.94s)
+PDB 1oph: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+121 1000
+calculation,done
+[OK]  1oph -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1oph_mGLI.pt  (321.62s)
+[SKIP] 1oqe: PDB 1oqe: not found in CSV or missing partner columns.
+PDB 1otr: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+105 936
+calculation,done
+[OK]  1otr -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1otr_mGLI.pt  (136.69s)
+PDB 1oyh: partner1:['I'] / partner2:['L']
+struct,done
+calculator,ready
+114 905
+calculation,done
+[OK]  1oyh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1oyh_mGLI.pt  (510.93s)
+PDB 1oyv: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+115 628
+calculation,done
+[OK]  1oyv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1oyv_mGLI.pt  (142.98s)
+PDB 1ozs: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+53 332
+calculation,done
+[OK]  1ozs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ozs_mGLI.pt  (29.06s)
+[SKIP] 1p0s: PDB 1p0s: not found in CSV or missing partner columns.
+[SKIP] 1p1z: PDB 1p1z: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1p22: PDB 1p22: not found in CSV or missing partner columns.
+PDB 1p27: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+142 667
+calculation,done
+[OK]  1p27 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1p27_mGLI.pt  (146.84s)
+[SKIP] 1p2c: PDB 1p2c: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1p3q: PDB 1p3q: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1p4b: PDB 1p4b: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1p4l: PDB 1p4l: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1p69: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+89 585
+calculation,done
+[OK]  1p69 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1p69_mGLI.pt  (111.19s)
+PDB 1p6a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 598
+calculation,done
+[OK]  1p6a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1p6a_mGLI.pt  (114.41s)
+PDB 1p9d: partner1:['S'] / partner2:['U']
+struct,done
+calculator,ready
+95 1087
+calculation,done
+[OK]  1p9d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1p9d_mGLI.pt  (137.65s)
+[SKIP] 1p9m: PDB 1p9m: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1pd7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+48 402
+calculation,done
+[OK]  1pd7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pd7_mGLI.pt  (32.16s)
+PDB 1pjm: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+120 2084
+calculation,done
+[OK]  1pjm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pjm_mGLI.pt  (321.07s)
+PDB 1pjn: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+128 2087
+calculation,done
+[OK]  1pjn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pjn_mGLI.pt  (333.99s)
+PDB 1pk1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+69 376
+calculation,done
+[OK]  1pk1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pk1_mGLI.pt  (41.99s)
+PDB 1ppe: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+39 222
+calculation,done
+[OK]  1ppe -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ppe_mGLI.pt  (23.39s)
+[SKIP] 1psb: PDB 1psb: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1pvh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+102 648
+calculation,done
+[OK]  1pvh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pvh_mGLI.pt  (156.77s)
+PDB 1pxv: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+109 748
+calculation,done
+[OK]  1pxv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1pxv_mGLI.pt  (149.33s)
+PDB 1q0w: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 960
+calculation,done
+[OK]  1q0w -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1q0w_mGLI.pt  (116.89s)
+PDB 1q5w: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 941
+calculation,done
+[OK]  1q5w -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1q5w_mGLI.pt  (118.98s)
+PDB 1q68: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 423
+calculation,done
+[OK]  1q68 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1q68_mGLI.pt  (49.02s)
+PDB 1q69: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+46 396
+calculation,done
+[OK]  1q69 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1q69_mGLI.pt  (27.18s)
+PDB 1qa9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+76 513
+calculation,done
+[OK]  1qa9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1qa9_mGLI.pt  (69.33s)
+[SKIP] 1qfu: PDB 1qfu: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1qfw: PDB 1qfw: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1qse: PDB 1qse: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1qty: PDB 1qty: not found in CSV or missing partner columns.
+[SKIP] 1qur: PDB 1qur: not found in CSV or missing partner columns.
+PDB 1r0r: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+71 332
+calculation,done
+[OK]  1r0r -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1r0r_mGLI.pt  (55.69s)
+PDB 1r6q: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+12 47
+calculation,done
+[OK]  1r6q -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1r6q_mGLI.pt  (47.24s)
+PDB 1r8u: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+144 1552
+calculation,done
+[OK]  1r8u -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1r8u_mGLI.pt  (315.95s)
+PDB 1ri8: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 627
+calculation,done
+[OK]  1ri8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ri8_mGLI.pt  (119.41s)
+PDB 1rjc: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+128 700
+calculation,done
+[OK]  1rjc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1rjc_mGLI.pt  (140.01s)
+PDB 1rkc: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+48 203
+calculation,done
+[OK]  1rkc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1rkc_mGLI.pt  (26.79s)
+PDB 1rke: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+101 851
+calculation,done
+[OK]  1rke -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1rke_mGLI.pt  (206.96s)
+[SKIP] 1rlb: PDB 1rlb: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1rpq: PDB 1rpq: not found in CSV or missing partner columns.
+[SKIP] 1rv6: PDB 1rv6: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1rvj: PDB 1rvj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1ry7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+152 915
+calculation,done
+[OK]  1ry7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ry7_mGLI.pt  (238.94s)
+PDB 1s1q: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 466
+calculation,done
+[OK]  1s1q -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1s1q_mGLI.pt  (76.76s)
+PDB 1s4y: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+106 491
+calculation,done
+[OK]  1s4y -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1s4y_mGLI.pt  (88.22s)
+PDB 1sb0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 430
+calculation,done
+[OK]  1sb0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1sb0_mGLI.pt  (54.47s)
+[SKIP] 1sbb: PDB 1sbb: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1sg1: PDB 1sg1: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1shy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+127 782
+calculation,done
+[OK]  1shy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1shy_mGLI.pt  (386.98s)
+PDB 1shz: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+153 772
+calculation,done
+[OK]  1shz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1shz_mGLI.pt  (296.26s)
+PDB 1smf: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+11 76
+calculation,done
+[OK]  1smf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1smf_mGLI.pt  (5.13s)
+PDB 1sq0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+179 1123
+calculation,done
+[OK]  1sq0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1sq0_mGLI.pt  (358.54s)
+PDB 1sv0: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+73 450
+calculation,done
+[OK]  1sv0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1sv0_mGLI.pt  (55.55s)
+[SKIP] 1sy6: PDB 1sy6: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1syq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+41 169
+calculation,done
+[OK]  1syq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1syq_mGLI.pt  (20.97s)
+PDB 1t01: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+35 169
+calculation,done
+[OK]  1t01 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t01_mGLI.pt  (19.61s)
+PDB 1t0p: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+74 531
+calculation,done
+[OK]  1t0p -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t0p_mGLI.pt  (79.03s)
+PDB 1t44: partner1:['G'] / partner2:['A']
+struct,done
+calculator,ready
+216 1658
+calculation,done
+[OK]  1t44 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t44_mGLI.pt  (551.31s)
+PDB 1t5z: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+29 98
+calculation,done
+[OK]  1t5z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t5z_mGLI.pt  (10.59s)
+PDB 1t63: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+35 119
+calculation,done
+[OK]  1t63 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t63_mGLI.pt  (13.94s)
+PDB 1t6b: partner1:['X'] / partner2:['Y']
+struct,done
+calculator,ready
+101 688
+calculation,done
+[OK]  1t6b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1t6b_mGLI.pt  (345.45s)
+PDB 1ta3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+166 1236
+calculation,done
+[OK]  1ta3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ta3_mGLI.pt  (436.90s)
+PDB 1taw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+54 284
+calculation,done
+[OK]  1taw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1taw_mGLI.pt  (43.30s)
+PDB 1tba: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+243 2488
+calculation,done
+[OK]  1tba -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tba_mGLI.pt  (810.13s)
+[SKIP] 1tbq: PDB 1tbq: not found in CSV or missing partner columns.
+[SKIP] 1tbr: PDB 1tbr: not found in CSV or missing partner columns.
+PDB 1tdq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+111 762
+calculation,done
+[OK]  1tdq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tdq_mGLI.pt  (184.70s)
+PDB 1te1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 922
+calculation,done
+[OK]  1te1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1te1_mGLI.pt  (250.88s)
+PDB 1th1: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+138 365
+calculation,done
+[OK]  1th1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1th1_mGLI.pt  (109.90s)
+PDB 1tlh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+157 1094
+calculation,done
+[OK]  1tlh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tlh_mGLI.pt  (238.03s)
+PDB 1tm1: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+94 389
+calculation,done
+[OK]  1tm1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tm1_mGLI.pt  (82.09s)
+PDB 1tm3: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+85 385
+calculation,done
+[OK]  1tm3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tm3_mGLI.pt  (76.18s)
+PDB 1tm4: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+91 379
+calculation,done
+[OK]  1tm4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tm4_mGLI.pt  (79.10s)
+PDB 1tm5: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+89 385
+calculation,done
+[OK]  1tm5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tm5_mGLI.pt  (77.78s)
+PDB 1tm7: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+91 393
+calculation,done
+[OK]  1tm7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1tm7_mGLI.pt  (81.10s)
+PDB 1to1: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+83 380
+calculation,done
+[OK]  1to1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1to1_mGLI.pt  (74.31s)
+[SKIP] 1toc: PDB 1toc: not found in CSV or missing partner columns.
+[SKIP] 1tt5: PDB 1tt5: not found in CSV or missing partner columns.
+PDB 1ty4: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+72 184
+calculation,done
+[OK]  1ty4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ty4_mGLI.pt  (24.35s)
+[SKIP] 1tzh: PDB 1tzh: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1tzi: PDB 1tzi: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1tzn: PDB 1tzn: not found in CSV or missing partner columns.
+PDB 1u0i: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+27 351
+calculation,done
+[OK]  1u0i -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1u0i_mGLI.pt  (13.69s)
+PDB 1u0s: partner1:['Y'] / partner2:['A']
+struct,done
+calculator,ready
+118 489
+calculation,done
+[OK]  1u0s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1u0s_mGLI.pt  (88.70s)
+PDB 1u5s: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+102 654
+calculation,done
+[OK]  1u5s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1u5s_mGLI.pt  (99.77s)
+[SKIP] 1u7f: PDB 1u7f: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1u7v: PDB 1u7v: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1uad: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+92 494
+calculation,done
+[OK]  1uad -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1uad_mGLI.pt  (88.41s)
+PDB 1uel: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+69 519
+calculation,done
+[OK]  1uel -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1uel_mGLI.pt  (60.12s)
+[SKIP] 1uex: PDB 1uex: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1ugh: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+122 623
+calculation,done
+[OK]  1ugh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ugh_mGLI.pt  (134.54s)
+PDB 1ul1: partner1:['A'] / partner2:['X']
+struct,done
+calculator,ready
+149 1000
+calculation,done
+[OK]  1ul1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ul1_mGLI.pt  (353.97s)
+PDB 1us7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+139 691
+calculation,done
+[OK]  1us7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1us7_mGLI.pt  (207.73s)
+PDB 1usu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+134 831
+calculation,done
+[OK]  1usu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1usu_mGLI.pt  (206.19s)
+[SKIP] 1usv: PDB 1usv: not found in CSV or missing partner columns.
+PDB 1uug: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+123 724
+calculation,done
+[OK]  1uug -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1uug_mGLI.pt  (156.64s)
+PDB 1uuz: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+109 786
+calculation,done
+[OK]  1uuz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1uuz_mGLI.pt  (143.05s)
+[SKIP] 1uwx: PDB 1uwx: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1v18: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 281
+calculation,done
+[OK]  1v18 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1v18_mGLI.pt  (68.90s)
+[SKIP] 1v7p: PDB 1v7p: not found in CSV or missing partner columns.
+PDB 1vet: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+127 705
+calculation,done
+[OK]  1vet -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vet_mGLI.pt  (138.07s)
+PDB 1veu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+131 685
+calculation,done
+[OK]  1veu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1veu_mGLI.pt  (137.42s)
+[SKIP] 1vfb: PDB 1vfb: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1vg0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+148 864
+calculation,done
+[OK]  1vg0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vg0_mGLI.pt  (355.77s)
+PDB 1vpp: partner1:['V'] / partner2:['X']
+struct,done
+calculator,ready
+40 145
+calculation,done
+[OK]  1vpp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vpp_mGLI.pt  (11.81s)
+PDB 1vrc: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+72 706
+calculation,done
+[OK]  1vrc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vrc_mGLI.pt  (94.05s)
+PDB 1vrk: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+34 147
+calculation,done
+[OK]  1vrk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vrk_mGLI.pt  (12.31s)
+[SKIP] 1vsq: PDB 1vsq: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1vyh: partner1:['C'] / partner2:['A']
+struct,done
+calculator,ready
+102 559
+calculation,done
+[OK]  1vyh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vyh_mGLI.pt  (223.93s)
+PDB 1vyt: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+46 217
+calculation,done
+[OK]  1vyt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1vyt_mGLI.pt  (30.24s)
+PDB 1w1w: partner1:['B'] / partner2:['F']
+struct,done
+calculator,ready
+113 477
+calculation,done
+[OK]  1w1w -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1w1w_mGLI.pt  (116.69s)
+[SKIP] 1w72: PDB 1w72: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1wa7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+54 333
+calculation,done
+[OK]  1wa7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wa7_mGLI.pt  (28.45s)
+PDB 1wa8: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+149 1353
+calculation,done
+[OK]  1wa8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wa8_mGLI.pt  (296.81s)
+PDB 1wdw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+130 1023
+calculation,done
+[OK]  1wdw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wdw_mGLI.pt  (372.93s)
+[SKIP] 1wej: PDB 1wej: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1wlp: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+143 1670
+calculation,done
+[OK]  1wlp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wlp_mGLI.pt  (321.62s)
+PDB 1wpx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+183 960
+calculation,done
+[OK]  1wpx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wpx_mGLI.pt  (413.82s)
+PDB 1wq1: partner1:['R'] / partner2:['G']
+struct,done
+calculator,ready
+185 1446
+calculation,done
+[OK]  1wq1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wq1_mGLI.pt  (446.97s)
+PDB 1wqj: partner1:['B'] / partner2:['I']
+struct,done
+calculator,ready
+47 393
+calculation,done
+[OK]  1wqj -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wqj_mGLI.pt  (32.56s)
+PDB 1wr1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 654
+calculation,done
+[OK]  1wr1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wr1_mGLI.pt  (83.94s)
+[SKIP] 1wr6: PDB 1wr6: not found in CSV or missing partner columns.
+PDB 1wrd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 436
+calculation,done
+[OK]  1wrd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wrd_mGLI.pt  (59.47s)
+PDB 1wve: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+118 471
+calculation,done
+[OK]  1wve -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1wve_mGLI.pt  (149.63s)
+[SKIP] 1x1u: PDB 1x1u: not found in CSV or missing partner columns.
+[SKIP] 1x1w: PDB 1x1w: not found in CSV or missing partner columns.
+[SKIP] 1x1x: PDB 1x1x: not found in CSV or missing partner columns.
+[SKIP] 1x1y: PDB 1x1y: not found in CSV or missing partner columns.
+PDB 1x75: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+80 381
+calculation,done
+[OK]  1x75 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1x75_mGLI.pt  (62.47s)
+PDB 1xd3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 489
+calculation,done
+[OK]  1xd3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xd3_mGLI.pt  (98.89s)
+PDB 1xdt: partner1:['T'] / partner2:['R']
+struct,done
+calculator,ready
+79 323
+calculation,done
+[OK]  1xdt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xdt_mGLI.pt  (79.67s)
+PDB 1xg2: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+153 911
+calculation,done
+[OK]  1xg2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xg2_mGLI.pt  (268.51s)
+PDB 1xj7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+27 77
+calculation,done
+[OK]  1xj7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xj7_mGLI.pt  (8.40s)
+PDB 1xqh: partner1:['E'] / partner2:['F']
+struct,done
+calculator,ready
+20 36
+calculation,done
+[OK]  1xqh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xqh_mGLI.pt  (3.62s)
+PDB 1xqs: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+126 696
+calculation,done
+[OK]  1xqs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xqs_mGLI.pt  (204.90s)
+PDB 1xr0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+142 1657
+calculation,done
+[OK]  1xr0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xr0_mGLI.pt  (327.75s)
+PDB 1xt9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 555
+calculation,done
+[OK]  1xt9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xt9_mGLI.pt  (95.17s)
+PDB 1xu1: partner1:['A'] / partner2:['R']
+struct,done
+calculator,ready
+47 289
+calculation,done
+[OK]  1xu1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xu1_mGLI.pt  (28.74s)
+[SKIP] 1xwd: PDB 1xwd: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1xx9: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+109 536
+calculation,done
+[OK]  1xx9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1xx9_mGLI.pt  (146.66s)
+[SKIP] 1xxd: PDB 1xxd: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1xxf: PDB 1xxf: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1y1k: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+84 387
+calculation,done
+[OK]  1y1k -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y1k_mGLI.pt  (77.40s)
+PDB 1y33: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+88 389
+calculation,done
+[OK]  1y33 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y33_mGLI.pt  (79.63s)
+PDB 1y34: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+92 391
+calculation,done
+[OK]  1y34 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y34_mGLI.pt  (80.74s)
+PDB 1y3b: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+88 385
+calculation,done
+[OK]  1y3b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y3b_mGLI.pt  (77.60s)
+PDB 1y3c: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+87 389
+calculation,done
+[OK]  1y3c -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y3c_mGLI.pt  (78.03s)
+PDB 1y3d: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+91 384
+calculation,done
+[OK]  1y3d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y3d_mGLI.pt  (80.30s)
+PDB 1y48: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+91 386
+calculation,done
+[OK]  1y48 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y48_mGLI.pt  (78.67s)
+PDB 1y4a: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+90 385
+calculation,done
+[OK]  1y4a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y4a_mGLI.pt  (77.37s)
+PDB 1y4d: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+88 376
+calculation,done
+[OK]  1y4d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y4d_mGLI.pt  (76.38s)
+PDB 1y6k: partner1:['L'] / partner2:['R']
+struct,done
+calculator,ready
+122 804
+calculation,done
+[OK]  1y6k -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y6k_mGLI.pt  (190.03s)
+PDB 1y6m: partner1:['L'] / partner2:['R']
+struct,done
+calculator,ready
+111 789
+calculation,done
+[OK]  1y6m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y6m_mGLI.pt  (177.23s)
+PDB 1y6n: partner1:['L'] / partner2:['R']
+struct,done
+calculator,ready
+116 802
+calculation,done
+[OK]  1y6n -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y6n_mGLI.pt  (177.79s)
+PDB 1y76: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+79 476
+calculation,done
+[OK]  1y76 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y76_mGLI.pt  (59.36s)
+PDB 1y8n: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+63 394
+calculation,done
+[OK]  1y8n -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1y8n_mGLI.pt  (112.05s)
+PDB 1yc0: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+63 325
+calculation,done
+[OK]  1yc0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yc0_mGLI.pt  (63.46s)
+PDB 1ycs: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+112 696
+calculation,done
+[OK]  1ycs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ycs_mGLI.pt  (177.54s)
+PDB 1yd8: partner1:['U'] / partner2:['H']
+struct,done
+calculator,ready
+69 535
+calculation,done
+[OK]  1yd8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yd8_mGLI.pt  (60.26s)
+PDB 1ydi: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+49 197
+calculation,done
+[OK]  1ydi -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1ydi_mGLI.pt  (26.47s)
+[SKIP] 1yk0: PDB 1yk0: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1yk1: PDB 1yk1: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1yrt: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+114 551
+calculation,done
+[OK]  1yrt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yrt_mGLI.pt  (129.09s)
+PDB 1yru: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+108 551
+calculation,done
+[OK]  1yru -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yru_mGLI.pt  (125.56s)
+PDB 1yvb: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+68 442
+calculation,done
+[OK]  1yvb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yvb_mGLI.pt  (99.82s)
+PDB 1yx5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+114 990
+calculation,done
+[OK]  1yx5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yx5_mGLI.pt  (167.33s)
+PDB 1yx6: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+122 996
+calculation,done
+[OK]  1yx6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1yx6_mGLI.pt  (181.88s)
+[SKIP] 1yy9: PDB 1yy9: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1yyl: PDB 1yyl: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 1yym: PDB 1yym: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1z0k: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 475
+calculation,done
+[OK]  1z0k -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1z0k_mGLI.pt  (79.58s)
+[SKIP] 1z5s: PDB 1z5s: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1z7x: partner1:['X'] / partner2:['W']
+struct,done
+calculator,ready
+186 1695
+calculation,done
+[OK]  1z7x -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1z7x_mGLI.pt  (494.83s)
+PDB 1z92: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+93 718
+calculation,done
+[OK]  1z92 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1z92_mGLI.pt  (116.89s)
+[SKIP] 1za3: PDB 1za3: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1zc3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+9 29
+calculation,done
+[OK]  1zc3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zc3_mGLI.pt  (47.55s)
+PDB 1zc4: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+113 692
+calculation,done
+[OK]  1zc4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zc4_mGLI.pt  (140.42s)
+[SKIP] 1ze3: PDB 1ze3: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1zgu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+103 1002
+calculation,done
+[OK]  1zgu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zgu_mGLI.pt  (159.53s)
+PDB 1zhi: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+93 527
+calculation,done
+[OK]  1zhi -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zhi_mGLI.pt  (121.27s)
+PDB 1zjd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+62 342
+calculation,done
+[OK]  1zjd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zjd_mGLI.pt  (55.37s)
+PDB 1zli: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+109 521
+calculation,done
+[OK]  1zli -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zli_mGLI.pt  (118.01s)
+PDB 1zm4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+113 598
+calculation,done
+[OK]  1zm4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zm4_mGLI.pt  (457.20s)
+[SKIP] 1zmy: PDB 1zmy: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1zr0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+50 283
+calculation,done
+[OK]  1zr0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zr0_mGLI.pt  (47.72s)
+PDB 1zsg: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+75 344
+calculation,done
+[OK]  1zsg -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zsg_mGLI.pt  (39.63s)
+PDB 1zv5: partner1:['L'] / partner2:['A']
+struct,done
+calculator,ready
+81 588
+calculation,done
+[OK]  1zv5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zv5_mGLI.pt  (88.32s)
+PDB 1zvh: partner1:['L'] / partner2:['A']
+struct,done
+calculator,ready
+59 391
+calculation,done
+[OK]  1zvh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zvh_mGLI.pt  (60.19s)
+PDB 1zvy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+81 579
+calculation,done
+[OK]  1zvy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/1zvy_mGLI.pt  (89.74s)
+PDB 2a24: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+110 1473
+calculation,done
+[OK]  2a24 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2a24_mGLI.pt  (254.81s)
+[SKIP] 2a6d: PDB 2a6d: not found in CSV or missing partner columns.
+[SKIP] 2a6i: PDB 2a6i: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2a6k: PDB 2a6k: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2a78: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+101 668
+calculation,done
+[OK]  2a78 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2a78_mGLI.pt  (165.17s)
+PDB 2a7u: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+110 1320
+calculation,done
+[OK]  2a7u -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2a7u_mGLI.pt  (195.38s)
+[SKIP] 2a9h: PDB 2a9h: not found in CSV or missing partner columns.
+PDB 2a9k: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+108 671
+calculation,done
+[OK]  2a9k -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2a9k_mGLI.pt  (171.28s)
+PDB 2abz: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+75 337
+calculation,done
+[OK]  2abz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2abz_mGLI.pt  (72.02s)
+[SKIP] 2aep: PDB 2aep: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2aeq: PDB 2aeq: not found in CSV or missing partner columns.
+PDB 2ajf: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+86 715
+calculation,done
+[OK]  2ajf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ajf_mGLI.pt  (323.31s)
+[SKIP] 2ak4: PDB 2ak4: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2aq1: PDB 2aq1: not found in CSV or missing partner columns.
+PDB 2aq2: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+122 752
+calculation,done
+[OK]  2aq2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2aq2_mGLI.pt  (168.81s)
+PDB 2aq3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+111 714
+calculation,done
+[OK]  2aq3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2aq3_mGLI.pt  (148.33s)
+PDB 2arp: partner1:['A'] / partner2:['F']
+struct,done
+calculator,ready
+145 900
+calculation,done
+[OK]  2arp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2arp_mGLI.pt  (191.26s)
+[SKIP] 2ass: PDB 2ass: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2ast: PDB 2ast: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2aw2: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 423
+calculation,done
+[OK]  2aw2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2aw2_mGLI.pt  (64.03s)
+[SKIP] 2aze: PDB 2aze: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2b0z: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+102 422
+calculation,done
+[OK]  2b0z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b0z_mGLI.pt  (125.64s)
+PDB 2b10: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+109 544
+calculation,done
+[OK]  2b10 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b10_mGLI.pt  (142.52s)
+PDB 2b11: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+107 538
+calculation,done
+[OK]  2b11 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b11_mGLI.pt  (141.45s)
+PDB 2b12: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+102 392
+calculation,done
+[OK]  2b12 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b12_mGLI.pt  (121.43s)
+PDB 2b2w: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+54 312
+calculation,done
+[OK]  2b2w -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b2w_mGLI.pt  (56.66s)
+[SKIP] 2b2x: PDB 2b2x: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2b42: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+155 926
+calculation,done
+[OK]  2b42 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b42_mGLI.pt  (319.47s)
+[SKIP] 2b4j: PDB 2b4j: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2b5i: PDB 2b5i: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2b7c: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+153 687
+calculation,done
+[OK]  2b7c -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b7c_mGLI.pt  (214.18s)
+PDB 2b87: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 902
+calculation,done
+[OK]  2b87 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2b87_mGLI.pt  (118.13s)
+[SKIP] 2bdn: PDB 2bdn: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2be6: PDB 2be6: not found in CSV or missing partner columns.
+[SKIP] 2bnq: PDB 2bnq: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2bnr: PDB 2bnr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2bo9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+167 990
+calculation,done
+[OK]  2bo9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2bo9_mGLI.pt  (358.42s)
+PDB 2bp7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+208 1239
+calculation,done
+[OK]  2bp7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2bp7_mGLI.pt  (614.69s)
+PDB 2bqz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+35 87
+calculation,done
+[OK]  2bqz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2bqz_mGLI.pt  (7.68s)
+PDB 2btf: partner1:['A'] / partner2:['P']
+struct,done
+calculator,ready
+147 719
+calculation,done
+[OK]  2btf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2btf_mGLI.pt  (238.24s)
+[SKIP] 2bwe: PDB 2bwe: not found in CSV or missing partner columns.
+PDB 2byk: partner1:['B'] / partner2:['A']
+struct,done
+calculator,ready
+108 560
+calculation,done
+[OK]  2byk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2byk_mGLI.pt  (86.03s)
+PDB 2bym: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 634
+calculation,done
+[OK]  2bym -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2bym_mGLI.pt  (76.65s)
+PDB 2c0l: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 536
+calculation,done
+[OK]  2c0l -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c0l_mGLI.pt  (155.67s)
+PDB 2c1m: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+141 378
+calculation,done
+[OK]  2c1m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c1m_mGLI.pt  (106.34s)
+PDB 2c1t: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+107 278
+calculation,done
+[OK]  2c1t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c1t_mGLI.pt  (68.63s)
+PDB 2c5d: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+104 627
+calculation,done
+[OK]  2c5d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c5d_mGLI.pt  (236.16s)
+PDB 2c7m: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 480
+calculation,done
+[OK]  2c7m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c7m_mGLI.pt  (67.17s)
+PDB 2c7n: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 494
+calculation,done
+[OK]  2c7n -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2c7n_mGLI.pt  (65.11s)
+PDB 2cjs: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+64 414
+calculation,done
+[OK]  2cjs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2cjs_mGLI.pt  (50.86s)
+[SKIP] 2cmr: PDB 2cmr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2cpk: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+44 157
+calculation,done
+[OK]  2cpk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2cpk_mGLI.pt  (24.24s)
+[SKIP] 2d10: PDB 2d10: not found in CSV or missing partner columns.
+[SKIP] 2d1k: PDB 2d1k: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2dd8: PDB 2dd8: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2den: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+104 977
+calculation,done
+[OK]  2den -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2den_mGLI.pt  (141.65s)
+PDB 2djy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+40 226
+calculation,done
+[OK]  2djy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2djy_mGLI.pt  (13.80s)
+PDB 2dsp: partner1:['B'] / partner2:['I']
+struct,done
+calculator,ready
+55 439
+calculation,done
+[OK]  2dsp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2dsp_mGLI.pt  (39.76s)
+[SKIP] 2dsq: PDB 2dsq: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2dsr: PDB 2dsr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2dx5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+66 381
+calculation,done
+[OK]  2dx5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2dx5_mGLI.pt  (48.65s)
+PDB 2efd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+154 708
+calculation,done
+[OK]  2efd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2efd_mGLI.pt  (214.48s)
+PDB 2efh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+135 701
+calculation,done
+[OK]  2efh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2efh_mGLI.pt  (197.47s)
+[SKIP] 2erj: PDB 2erj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2es4: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+296 1728
+calculation,done
+[OK]  2es4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2es4_mGLI.pt  (775.90s)
+PDB 2f31: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+47 146
+calculation,done
+[OK]  2f31 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2f31_mGLI.pt  (17.33s)
+PDB 2f4m: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+142 491
+calculation,done
+[OK]  2f4m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2f4m_mGLI.pt  (128.47s)
+[SKIP] 2f5z: PDB 2f5z: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2f6a: PDB 2f6a: not found in CSV or missing partner columns.
+PDB 2f9z: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+116 670
+calculation,done
+[OK]  2f9z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2f9z_mGLI.pt  (153.43s)
+PDB 2fdb: partner1:['M'] / partner2:['P']
+struct,done
+calculator,ready
+120 1022
+calculation,done
+[OK]  2fdb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2fdb_mGLI.pt  (209.20s)
+PDB 2few: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+126 1001
+calculation,done
+[OK]  2few -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2few_mGLI.pt  (200.40s)
+[SKIP] 2fjg: PDB 2fjg: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2fjh: PDB 2fjh: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2fju: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+96 670
+calculation,done
+[OK]  2fju -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2fju_mGLI.pt  (367.13s)
+PDB 2ftl: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+54 293
+calculation,done
+[OK]  2ftl -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ftl_mGLI.pt  (45.05s)
+PDB 2ftm: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+54 286
+calculation,done
+[OK]  2ftm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ftm_mGLI.pt  (45.08s)
+PDB 2fu5: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+30 163
+calculation,done
+[OK]  2fu5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2fu5_mGLI.pt  (42.62s)
+PDB 2fuh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+109 894
+calculation,done
+[OK]  2fuh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2fuh_mGLI.pt  (154.10s)
+PDB 2fyl: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+109 1108
+calculation,done
+[OK]  2fyl -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2fyl_mGLI.pt  (179.96s)
+PDB 2g2u: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+140 989
+calculation,done
+[OK]  2g2u -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2g2u_mGLI.pt  (259.61s)
+PDB 2g2w: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+133 1001
+calculation,done
+[OK]  2g2w -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2g2w_mGLI.pt  (254.04s)
+PDB 2g45: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+58 347
+calculation,done
+[OK]  2g45 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2g45_mGLI.pt  (44.15s)
+PDB 2g81: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+85 350
+calculation,done
+[OK]  2g81 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2g81_mGLI.pt  (59.94s)
+[SKIP] 2g9h: PDB 2g9h: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2gh0: partner1:['C'] / partner2:['A']
+struct,done
+calculator,ready
+113 738
+calculation,done
+[OK]  2gh0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2gh0_mGLI.pt  (145.41s)
+[SKIP] 2gl7: PDB 2gl7: not found in CSV or missing partner columns.
+PDB 2gng: partner1:['A'] / partner2:['I']
+struct,done
+calculator,ready
+43 157
+calculation,done
+[OK]  2gng -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2gng_mGLI.pt  (25.02s)
+PDB 2gox: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 500
+calculation,done
+[OK]  2gox -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2gox_mGLI.pt  (112.47s)
+PDB 2gww: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+49 170
+calculation,done
+[OK]  2gww -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2gww_mGLI.pt  (23.03s)
+PDB 2h4m: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+72 161
+calculation,done
+[OK]  2h4m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2h4m_mGLI.pt  (50.97s)
+[SKIP] 2h62: PDB 2h62: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2h64: PDB 2h64: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2hd5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+153 593
+calculation,done
+[OK]  2hd5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hd5_mGLI.pt  (163.20s)
+PDB 2hev: partner1:['F'] / partner2:['R']
+struct,done
+calculator,ready
+110 626
+calculation,done
+[OK]  2hev -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hev_mGLI.pt  (121.25s)
+[SKIP] 2hfg: PDB 2hfg: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2hle: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+105 680
+calculation,done
+[OK]  2hle -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hle_mGLI.pt  (140.26s)
+PDB 2hqw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+42 178
+calculation,done
+[OK]  2hqw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hqw_mGLI.pt  (16.33s)
+PDB 2hrk: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 755
+calculation,done
+[OK]  2hrk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hrk_mGLI.pt  (159.67s)
+PDB 2hsq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+47 174
+calculation,done
+[OK]  2hsq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hsq_mGLI.pt  (23.16s)
+PDB 2hth: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+68 579
+calculation,done
+[OK]  2hth -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2hth_mGLI.pt  (72.12s)
+[SKIP] 2hwn: PDB 2hwn: not found in CSV or missing partner columns.
+PDB 2i25: partner1:['N'] / partner2:['L']
+struct,done
+calculator,ready
+88 709
+calculation,done
+[OK]  2i25 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2i25_mGLI.pt  (106.06s)
+[SKIP] 2i26: PDB 2i26: not found in CSV or missing partner columns.
+PDB 2i32: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+46 170
+calculation,done
+[OK]  2i32 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2i32_mGLI.pt  (16.96s)
+[SKIP] 2i3s: PDB 2i3s: not found in CSV or missing partner columns.
+[SKIP] 2i3t: PDB 2i3t: not found in CSV or missing partner columns.
+[SKIP] 2i5y: PDB 2i5y: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2i60: PDB 2i60: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2i9b: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+109 1356
+calculation,done
+[OK]  2i9b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2i9b_mGLI.pt  (249.24s)
+[SKIP] 2ibf: PDB 2ibf: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2iff: PDB 2iff: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2ifg: PDB 2ifg: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2ihs: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+33 124
+calculation,done
+[OK]  2ihs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ihs_mGLI.pt  (12.34s)
+PDB 2ij0: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+113 678
+calculation,done
+[OK]  2ij0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ij0_mGLI.pt  (143.01s)
+[SKIP] 2ijo: PDB 2ijo: not found in CSV or missing partner columns.
+[SKIP] 2iou: PDB 2iou: not found in CSV or missing partner columns.
+PDB 2iwg: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+113 821
+calculation,done
+[OK]  2iwg -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2iwg_mGLI.pt  (200.42s)
+PDB 2ixq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+57 402
+calculation,done
+[OK]  2ixq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ixq_mGLI.pt  (85.95s)
+[SKIP] 2iy0: PDB 2iy0: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2iy1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+121 607
+calculation,done
+[OK]  2iy1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2iy1_mGLI.pt  (136.22s)
+PDB 2iyb: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+64 438
+calculation,done
+[OK]  2iyb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2iyb_mGLI.pt  (49.03s)
+PDB 2j0t: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+97 527
+calculation,done
+[OK]  2j0t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2j0t_mGLI.pt  (103.41s)
+PDB 2j12: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 609
+calculation,done
+[OK]  2j12 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2j12_mGLI.pt  (112.30s)
+[SKIP] 2j1k: PDB 2j1k: not found in CSV or missing partner columns.
+[SKIP] 2j4w: PDB 2j4w: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2j59: partner1:['A'] / partner2:['M']
+struct,done
+calculator,ready
+107 631
+calculation,done
+[OK]  2j59 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2j59_mGLI.pt  (126.09s)
+[SKIP] 2j5l: PDB 2j5l: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2j6e: PDB 2j6e: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2j7p: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+190 1198
+calculation,done
+[OK]  2j7p -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2j7p_mGLI.pt  (436.95s)
+[SKIP] 2j8s: PDB 2j8s: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2j8u: PDB 2j8u: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2j8x: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+123 632
+calculation,done
+[OK]  2j8x -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2j8x_mGLI.pt  (139.30s)
+[SKIP] 2jcc: PDB 2jcc: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2jel: PDB 2jel: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2jgz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+157 1052
+calculation,done
+[OK]  2jgz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jgz_mGLI.pt  (374.68s)
+[SKIP] 2jix: PDB 2jix: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2jjs: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+96 614
+calculation,done
+[OK]  2jjs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jjs_mGLI.pt  (101.69s)
+PDB 2jjt: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+90 615
+calculation,done
+[OK]  2jjt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jjt_mGLI.pt  (95.11s)
+PDB 2jki: partner1:['A'] / partner2:['S']
+struct,done
+calculator,ready
+68 481
+calculation,done
+[OK]  2jki -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jki_mGLI.pt  (82.41s)
+PDB 2jod: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+107 593
+calculation,done
+[OK]  2jod -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jod_mGLI.pt  (94.52s)
+PDB 2jt4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+96 953
+calculation,done
+[OK]  2jt4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jt4_mGLI.pt  (138.51s)
+PDB 2jti: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+146 1154
+calculation,done
+[OK]  2jti -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jti_mGLI.pt  (293.31s)
+[SKIP] 2jtt: PDB 2jtt: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2ju0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+143 795
+calculation,done
+[OK]  2ju0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ju0_mGLI.pt  (169.74s)
+PDB 2jy6: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+57 596
+calculation,done
+[OK]  2jy6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2jy6_mGLI.pt  (54.32s)
+[SKIP] 2jzn: PDB 2jzn: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2k05: PDB 2k05: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2k2s: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+154 753
+calculation,done
+[OK]  2k2s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k2s_mGLI.pt  (166.64s)
+PDB 2k2u: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+100 464
+calculation,done
+[OK]  2k2u -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k2u_mGLI.pt  (71.06s)
+PDB 2k3s: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+46 477
+calculation,done
+[OK]  2k3s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k3s_mGLI.pt  (46.46s)
+PDB 2k3u: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+81 293
+calculation,done
+[OK]  2k3u -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k3u_mGLI.pt  (36.72s)
+PDB 2k42: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+100 523
+calculation,done
+[OK]  2k42 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k42_mGLI.pt  (73.69s)
+PDB 2k5b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+178 1530
+calculation,done
+[OK]  2k5b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k5b_mGLI.pt  (430.35s)
+PDB 2k6d: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 1036
+calculation,done
+[OK]  2k6d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k6d_mGLI.pt  (126.61s)
+PDB 2k79: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+150 1257
+calculation,done
+[OK]  2k79 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k79_mGLI.pt  (273.25s)
+PDB 2k7a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+146 1230
+calculation,done
+[OK]  2k7a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k7a_mGLI.pt  (266.89s)
+PDB 2k8b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+96 928
+calculation,done
+[OK]  2k8b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k8b_mGLI.pt  (139.04s)
+PDB 2k8c: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 909
+calculation,done
+[OK]  2k8c -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k8c_mGLI.pt  (143.21s)
+PDB 2k8f: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+98 580
+calculation,done
+[OK]  2k8f -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2k8f_mGLI.pt  (83.78s)
+PDB 2ka4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+106 881
+calculation,done
+[OK]  2ka4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ka4_mGLI.pt  (137.89s)
+PDB 2ka6: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+131 656
+calculation,done
+[OK]  2ka6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ka6_mGLI.pt  (121.72s)
+PDB 2kbw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+84 473
+calculation,done
+[OK]  2kbw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kbw_mGLI.pt  (64.44s)
+PDB 2kc8: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+79 555
+calculation,done
+[OK]  2kc8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kc8_mGLI.pt  (68.78s)
+PDB 2kde: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 419
+calculation,done
+[OK]  2kde -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kde_mGLI.pt  (59.75s)
+PDB 2kgx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+121 584
+calculation,done
+[OK]  2kgx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kgx_mGLI.pt  (119.93s)
+PDB 2khs: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 575
+calculation,done
+[OK]  2khs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2khs_mGLI.pt  (89.95s)
+[SKIP] 2ki4: PDB 2ki4: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2kj4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+91 527
+calculation,done
+[OK]  2kj4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kj4_mGLI.pt  (74.61s)
+PDB 2knb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 813
+calculation,done
+[OK]  2knb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2knb_mGLI.pt  (144.62s)
+PDB 2kqs: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+56 209
+calculation,done
+[OK]  2kqs -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kqs_mGLI.pt  (21.22s)
+PDB 2kri: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+60 325
+calculation,done
+[OK]  2kri -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kri_mGLI.pt  (30.35s)
+PDB 2kt5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+68 336
+calculation,done
+[OK]  2kt5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kt5_mGLI.pt  (45.84s)
+PDB 2ktf: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+59 516
+calculation,done
+[OK]  2ktf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ktf_mGLI.pt  (47.98s)
+PDB 2kvq: partner1:['E'] / partner2:['G']
+struct,done
+calculator,ready
+78 705
+calculation,done
+[OK]  2kvq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kvq_mGLI.pt  (84.10s)
+PDB 2kwi: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+135 866
+calculation,done
+[OK]  2kwi -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwi_mGLI.pt  (183.28s)
+PDB 2kwj: partner1:['B'] / partner2:['A']
+struct,done
+calculator,ready
+68 1508
+calculation,done
+[OK]  2kwj -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwj_mGLI.pt  (144.38s)
+PDB 2kwk: partner1:['B'] / partner2:['A']
+struct,done
+calculator,ready
+49 1323
+calculation,done
+[OK]  2kwk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwk_mGLI.pt  (92.18s)
+PDB 2kwo: partner1:['B'] / partner2:['A']
+struct,done
+calculator,ready
+76 1385
+calculation,done
+[OK]  2kwo -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwo_mGLI.pt  (145.24s)
+PDB 2kwu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+93 821
+calculation,done
+[OK]  2kwu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwu_mGLI.pt  (105.87s)
+PDB 2kwv: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+111 882
+calculation,done
+[OK]  2kwv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kwv_mGLI.pt  (136.28s)
+PDB 2kxh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+77 434
+calculation,done
+[OK]  2kxh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kxh_mGLI.pt  (58.45s)
+PDB 2kxw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+80 500
+calculation,done
+[OK]  2kxw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2kxw_mGLI.pt  (58.87s)
+[SKIP] 2kyg: PDB 2kyg: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2l0f: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+64 680
+calculation,done
+[OK]  2l0f -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l0f_mGLI.pt  (72.14s)
+PDB 2l0t: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+114 1154
+calculation,done
+[OK]  2l0t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l0t_mGLI.pt  (206.29s)
+PDB 2l14: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 752
+calculation,done
+[OK]  2l14 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l14_mGLI.pt  (103.11s)
+PDB 2l1l: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+120 1639
+calculation,done
+[OK]  2l1l -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l1l_mGLI.pt  (267.47s)
+PDB 2l29: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+122 821
+calculation,done
+[OK]  2l29 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l29_mGLI.pt  (159.97s)
+PDB 2l2l: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+89 597
+calculation,done
+[OK]  2l2l -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l2l_mGLI.pt  (73.87s)
+PDB 2l9s: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+147 1456
+calculation,done
+[OK]  2l9s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2l9s_mGLI.pt  (291.70s)
+PDB 2ld7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+164 1229
+calculation,done
+[OK]  2ld7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ld7_mGLI.pt  (290.10s)
+PDB 2leh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+69 390
+calculation,done
+[OK]  2leh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2leh_mGLI.pt  (48.28s)
+PDB 2lfw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+124 767
+calculation,done
+[OK]  2lfw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lfw_mGLI.pt  (151.42s)
+PDB 2lkm: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+194 2294
+calculation,done
+[OK]  2lkm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lkm_mGLI.pt  (607.44s)
+[SKIP] 2lnh: PDB 2lnh: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2lnk: PDB 2lnk: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2lox: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+68 312
+calculation,done
+[OK]  2lox -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lox_mGLI.pt  (35.16s)
+PDB 2lp0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+37 293
+calculation,done
+[OK]  2lp0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lp0_mGLI.pt  (17.71s)
+PDB 2lp4: partner1:['A'] / partner2:['Y']
+struct,done
+calculator,ready
+207 1710
+calculation,done
+[OK]  2lp4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lp4_mGLI.pt  (527.72s)
+PDB 2lpb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+95 516
+calculation,done
+[OK]  2lpb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lpb_mGLI.pt  (75.24s)
+PDB 2lqc: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+53 330
+calculation,done
+[OK]  2lqc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lqc_mGLI.pt  (27.32s)
+PDB 2lqh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+127 683
+calculation,done
+[OK]  2lqh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lqh_mGLI.pt  (125.93s)
+PDB 2luh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+135 885
+calculation,done
+[OK]  2luh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2luh_mGLI.pt  (182.34s)
+PDB 2lvo: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+81 780
+calculation,done
+[OK]  2lvo -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lvo_mGLI.pt  (99.24s)
+[SKIP] 2lvp: PDB 2lvp: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2lvq: PDB 2lvq: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2lww: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+150 982
+calculation,done
+[OK]  2lww -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lww_mGLI.pt  (213.20s)
+PDB 2lxm: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 490
+calculation,done
+[OK]  2lxm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lxm_mGLI.pt  (72.85s)
+[SKIP] 2lxp: PDB 2lxp: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2ly4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 553
+calculation,done
+[OK]  2ly4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ly4_mGLI.pt  (79.12s)
+PDB 2lz6: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+92 759
+calculation,done
+[OK]  2lz6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2lz6_mGLI.pt  (107.57s)
+PDB 2m04: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+94 412
+calculation,done
+[OK]  2m04 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m04_mGLI.pt  (63.20s)
+PDB 2m0g: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+169 1548
+calculation,done
+[OK]  2m0g -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m0g_mGLI.pt  (397.50s)
+PDB 2m0j: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+78 481
+calculation,done
+[OK]  2m0j -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m0j_mGLI.pt  (61.81s)
+PDB 2m49: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 803
+calculation,done
+[OK]  2m49 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m49_mGLI.pt  (126.96s)
+PDB 2m55: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+58 279
+calculation,done
+[OK]  2m55 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m55_mGLI.pt  (28.27s)
+PDB 2m5a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+90 879
+calculation,done
+[OK]  2m5a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m5a_mGLI.pt  (110.24s)
+PDB 2m5b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+68 281
+calculation,done
+[OK]  2m5b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m5b_mGLI.pt  (31.95s)
+PDB 2m86: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 1198
+calculation,done
+[OK]  2m86 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2m86_mGLI.pt  (195.48s)
+[SKIP] 2ma9: PDB 2ma9: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2mak: PDB 2mak: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2mbb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+111 967
+calculation,done
+[OK]  2mbb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mbb_mGLI.pt  (154.57s)
+PDB 2mcn: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+105 978
+calculation,done
+[OK]  2mcn -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mcn_mGLI.pt  (152.57s)
+PDB 2mej: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 875
+calculation,done
+[OK]  2mej -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mej_mGLI.pt  (205.49s)
+PDB 2mfq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+67 334
+calculation,done
+[OK]  2mfq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mfq_mGLI.pt  (36.64s)
+PDB 2mj5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+85 718
+calculation,done
+[OK]  2mj5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mj5_mGLI.pt  (94.24s)
+PDB 2mjw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+124 1098
+calculation,done
+[OK]  2mjw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mjw_mGLI.pt  (207.65s)
+[SKIP] 2mkc: PDB 2mkc: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2mlx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+293 1332
+calculation,done
+[OK]  2mlx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mlx_mGLI.pt  (601.44s)
+PDB 2mly: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+310 1593
+calculation,done
+[OK]  2mly -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mly_mGLI.pt  (824.52s)
+PDB 2mlz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+333 1537
+calculation,done
+[OK]  2mlz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mlz_mGLI.pt  (782.70s)
+PDB 2mnu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+50 425
+calculation,done
+[OK]  2mnu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mnu_mGLI.pt  (35.51s)
+PDB 2mp0: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+152 1460
+calculation,done
+[OK]  2mp0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mp0_mGLI.pt  (378.89s)
+PDB 2mre: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+61 497
+calculation,done
+[OK]  2mre -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mre_mGLI.pt  (49.35s)
+PDB 2mro: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+54 380
+calculation,done
+[OK]  2mro -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mro_mGLI.pt  (32.97s)
+[SKIP] 2mta: PDB 2mta: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2mur: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+114 1038
+calculation,done
+[OK]  2mur -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mur_mGLI.pt  (165.02s)
+PDB 2mv7: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+78 394
+calculation,done
+[OK]  2mv7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mv7_mGLI.pt  (44.52s)
+PDB 2mws: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+97 948
+calculation,done
+[OK]  2mws -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mws_mGLI.pt  (135.97s)
+PDB 2mzd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+62 376
+calculation,done
+[OK]  2mzd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2mzd_mGLI.pt  (36.77s)
+PDB 2n01: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+112 1437
+calculation,done
+[OK]  2n01 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n01_mGLI.pt  (219.76s)
+PDB 2n13: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+100 924
+calculation,done
+[OK]  2n13 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n13_mGLI.pt  (135.20s)
+PDB 2n1d: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+226 2318
+calculation,done
+[OK]  2n1d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n1d_mGLI.pt  (717.27s)
+PDB 2n2h: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+123 1670
+calculation,done
+[OK]  2n2h -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n2h_mGLI.pt  (281.43s)
+PDB 2n73: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+86 583
+calculation,done
+[OK]  2n73 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n73_mGLI.pt  (81.50s)
+PDB 2n8j: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+69 352
+calculation,done
+[OK]  2n8j -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2n8j_mGLI.pt  (39.29s)
+PDB 2nbv: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+138 906
+calculation,done
+[OK]  2nbv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2nbv_mGLI.pt  (188.99s)
+[SKIP] 2noj: PDB 2noj: not found in CSV or missing partner columns.
+PDB 2nqd: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+102 925
+calculation,done
+[OK]  2nqd -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2nqd_mGLI.pt  (168.45s)
+[SKIP] 2nup: PDB 2nup: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2nut: PDB 2nut: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2nyy: PDB 2nyy: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2nyz: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+63 392
+calculation,done
+[OK]  2nyz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2nyz_mGLI.pt  (81.10s)
+[SKIP] 2nz1: PDB 2nz1: not found in CSV or missing partner columns.
+[SKIP] 2nz9: PDB 2nz9: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2o3b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+103 546
+calculation,done
+[OK]  2o3b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2o3b_mGLI.pt  (138.74s)
+PDB 2o8v: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+86 526
+calculation,done
+[OK]  2o8v -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2o8v_mGLI.pt  (111.02s)
+PDB 2o98: partner1:['A'] / partner2:['P']
+struct,done
+calculator,ready
+88 346
+calculation,done
+[OK]  2o98 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2o98_mGLI.pt  (64.66s)
+[SKIP] 2odg: PDB 2odg: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2ody: PDB 2ody: not found in CSV or missing partner columns.
+PDB 2oin: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+20 108
+calculation,done
+[OK]  2oin -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2oin_mGLI.pt  (7.17s)
+[SKIP] 2oje: PDB 2oje: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2omt: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+162 748
+calculation,done
+[OK]  2omt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omt_mGLI.pt  (245.16s)
+PDB 2omu: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+159 767
+calculation,done
+[OK]  2omu -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omu_mGLI.pt  (245.21s)
+PDB 2omv: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+167 743
+calculation,done
+[OK]  2omv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omv_mGLI.pt  (248.17s)
+PDB 2omw: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 755
+calculation,done
+[OK]  2omw -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omw_mGLI.pt  (248.54s)
+PDB 2omx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 796
+calculation,done
+[OK]  2omx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omx_mGLI.pt  (261.49s)
+PDB 2omy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+169 757
+calculation,done
+[OK]  2omy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omy_mGLI.pt  (252.12s)
+PDB 2omz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+169 756
+calculation,done
+[OK]  2omz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2omz_mGLI.pt  (254.09s)
+PDB 2onl: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+222 1318
+calculation,done
+[OK]  2onl -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2onl_mGLI.pt  (611.11s)
+PDB 2oob: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+46 417
+calculation,done
+[OK]  2oob -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2oob_mGLI.pt  (30.05s)
+[SKIP] 2oor: PDB 2oor: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2oqj: PDB 2oqj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2ot3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+169 782
+calculation,done
+[OK]  2ot3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ot3_mGLI.pt  (242.14s)
+PDB 2ot8: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+59 135
+calculation,done
+[OK]  2ot8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ot8_mGLI.pt  (40.90s)
+[SKIP] 2otk: PDB 2otk: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2oul: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+76 511
+calculation,done
+[OK]  2oul -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2oul_mGLI.pt  (107.03s)
+PDB 2oza: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+321 2132
+calculation,done
+[OK]  2oza -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2oza_mGLI.pt  (1111.27s)
+[SKIP] 2p1l: PDB 2p1l: not found in CSV or missing partner columns.
+[SKIP] 2p3f: PDB 2p3f: not found in CSV or missing partner columns.
+PDB 2p42: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 503
+calculation,done
+[OK]  2p42 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p42_mGLI.pt  (81.26s)
+PDB 2p43: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+76 499
+calculation,done
+[OK]  2p43 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p43_mGLI.pt  (78.84s)
+PDB 2p44: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+73 498
+calculation,done
+[OK]  2p44 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p44_mGLI.pt  (74.27s)
+PDB 2p45: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+78 485
+calculation,done
+[OK]  2p45 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p45_mGLI.pt  (76.35s)
+PDB 2p46: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+80 483
+calculation,done
+[OK]  2p46 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p46_mGLI.pt  (77.80s)
+PDB 2p47: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+78 480
+calculation,done
+[OK]  2p47 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p47_mGLI.pt  (77.07s)
+PDB 2p48: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+75 474
+calculation,done
+[OK]  2p48 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p48_mGLI.pt  (74.68s)
+PDB 2p49: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+73 517
+calculation,done
+[OK]  2p49 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p49_mGLI.pt  (78.72s)
+PDB 2p4a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+80 511
+calculation,done
+[OK]  2p4a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p4a_mGLI.pt  (82.74s)
+[SKIP] 2p5e: PDB 2p5e: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2p5t: partner1:['B'] / partner2:['A']
+struct,done
+calculator,ready
+133 740
+calculation,done
+[OK]  2p5t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p5t_mGLI.pt  (168.73s)
+PDB 2p8q: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 344
+calculation,done
+[OK]  2p8q -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2p8q_mGLI.pt  (137.63s)
+PDB 2pcb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+85 470
+calculation,done
+[OK]  2pcb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pcb_mGLI.pt  (118.88s)
+PDB 2pcc: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+103 530
+calculation,done
+[OK]  2pcc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pcc_mGLI.pt  (138.03s)
+[SKIP] 2phe: PDB 2phe: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2pjy: PDB 2pjy: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2pkg: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+77 453
+calculation,done
+[OK]  2pkg -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pkg_mGLI.pt  (151.25s)
+PDB 2pms: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+93 723
+calculation,done
+[OK]  2pms -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pms_mGLI.pt  (158.75s)
+PDB 2pon: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+115 1859
+calculation,done
+[OK]  2pon -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pon_mGLI.pt  (287.17s)
+PDB 2pop: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+93 587
+calculation,done
+[OK]  2pop -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2pop_mGLI.pt  (120.65s)
+PDB 2psm: partner1:['A'] / partner2:['F']
+struct,done
+calculator,ready
+74 451
+calculation,done
+[OK]  2psm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2psm_mGLI.pt  (58.75s)
+PDB 2ptc: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+50 290
+calculation,done
+[OK]  2ptc -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ptc_mGLI.pt  (44.79s)
+PDB 2ptt: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+88 601
+calculation,done
+[OK]  2ptt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ptt_mGLI.pt  (90.99s)
+[SKIP] 2pw8: PDB 2pw8: not found in CSV or missing partner columns.
+PDB 2px9: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+147 1576
+calculation,done
+[OK]  2px9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2px9_mGLI.pt  (397.14s)
+[SKIP] 2pye: PDB 2pye: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2q0o: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+148 687
+calculation,done
+[OK]  2q0o -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2q0o_mGLI.pt  (167.02s)
+PDB 2q5d: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+118 323
+calculation,done
+[OK]  2q5d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2q5d_mGLI.pt  (124.86s)
+PDB 2q7n: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+133 538
+calculation,done
+[OK]  2q7n -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2q7n_mGLI.pt  (278.97s)
+PDB 2qc1: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 622
+calculation,done
+[OK]  2qc1 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qc1_mGLI.pt  (99.29s)
+PDB 2qej: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+124 698
+calculation,done
+[OK]  2qej -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qej_mGLI.pt  (195.31s)
+PDB 2qho: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+36 308
+calculation,done
+[OK]  2qho -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qho_mGLI.pt  (21.22s)
+PDB 2qiy: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+45 200
+calculation,done
+[OK]  2qiy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qiy_mGLI.pt  (18.37s)
+[SKIP] 2qj9: PDB 2qj9: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2qja: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+67 629
+calculation,done
+[OK]  2qja -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qja_mGLI.pt  (70.91s)
+[SKIP] 2qjb: PDB 2qjb: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2qna: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+95 261
+calculation,done
+[OK]  2qna -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qna_mGLI.pt  (85.31s)
+[SKIP] 2qr0: PDB 2qr0: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2qur: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+45 151
+calculation,done
+[OK]  2qur -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qur_mGLI.pt  (23.87s)
+PDB 2qxv: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+55 254
+calculation,done
+[OK]  2qxv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2qxv_mGLI.pt  (43.88s)
+[SKIP] 2r0k: PDB 2r0k: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2r0l: PDB 2r0l: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2r56: PDB 2r56: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2r9p: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+65 287
+calculation,done
+[OK]  2r9p -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2r9p_mGLI.pt  (51.20s)
+PDB 2ra3: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+51 305
+calculation,done
+[OK]  2ra3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ra3_mGLI.pt  (45.91s)
+PDB 2rf9: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+52 183
+calculation,done
+[OK]  2rf9 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rf9_mGLI.pt  (25.89s)
+[SKIP] 2rgn: PDB 2rgn: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2rmk: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+121 880
+calculation,done
+[OK]  2rmk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rmk_mGLI.pt  (177.48s)
+PDB 2rms: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+53 530
+calculation,done
+[OK]  2rms -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rms_mGLI.pt  (49.70s)
+PDB 2rnr: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+111 1478
+calculation,done
+[OK]  2rnr -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rnr_mGLI.pt  (238.07s)
+PDB 2roz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+136 1446
+calculation,done
+[OK]  2roz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2roz_mGLI.pt  (274.19s)
+PDB 2rr3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+110 508
+calculation,done
+[OK]  2rr3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rr3_mGLI.pt  (91.90s)
+PDB 2ru4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+167 1236
+calculation,done
+[OK]  2ru4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ru4_mGLI.pt  (297.65s)
+PDB 2ruk: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+105 1378
+calculation,done
+[OK]  2ruk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ruk_mGLI.pt  (205.01s)
+PDB 2rvb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+148 1558
+calculation,done
+[OK]  2rvb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2rvb_mGLI.pt  (319.98s)
+PDB 2sic: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+79 407
+calculation,done
+[OK]  2sic -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2sic_mGLI.pt  (93.57s)
+PDB 2sni: partner1:['E'] / partner2:['I']
+struct,done
+calculator,ready
+87 390
+calculation,done
+[OK]  2sni -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2sni_mGLI.pt  (77.06s)
+PDB 2tgp: partner1:['Z'] / partner2:['I']
+struct,done
+calculator,ready
+62 289
+calculation,done
+[OK]  2tgp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2tgp_mGLI.pt  (49.42s)
+PDB 2uuy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+45 302
+calculation,done
+[OK]  2uuy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2uuy_mGLI.pt  (40.53s)
+[SKIP] 2uwe: PDB 2uwe: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2uxn: PDB 2uxn: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2uyz: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+73 521
+calculation,done
+[OK]  2uyz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2uyz_mGLI.pt  (75.16s)
+[SKIP] 2uzi: PDB 2uzi: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2v1d: PDB 2v1d: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2v2w: PDB 2v2w: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2v3b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+79 367
+calculation,done
+[OK]  2v3b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v3b_mGLI.pt  (77.52s)
+PDB 2v4z: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+142 675
+calculation,done
+[OK]  2v4z -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v4z_mGLI.pt  (193.95s)
+PDB 2v51: partner1:['B'] / partner2:['F']
+struct,done
+calculator,ready
+67 210
+calculation,done
+[OK]  2v51 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v51_mGLI.pt  (37.75s)
+PDB 2v52: partner1:['B'] / partner2:['M']
+struct,done
+calculator,ready
+70 246
+calculation,done
+[OK]  2v52 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v52_mGLI.pt  (45.96s)
+PDB 2v5q: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+94 622
+calculation,done
+[OK]  2v5q -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v5q_mGLI.pt  (150.26s)
+PDB 2v6x: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+82 294
+calculation,done
+[OK]  2v6x -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v6x_mGLI.pt  (35.82s)
+PDB 2v8s: partner1:['E'] / partner2:['V']
+struct,done
+calculator,ready
+79 525
+calculation,done
+[OK]  2v8s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v8s_mGLI.pt  (81.07s)
+PDB 2v9t: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+123 883
+calculation,done
+[OK]  2v9t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2v9t_mGLI.pt  (180.19s)
+PDB 2vay: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+41 196
+calculation,done
+[OK]  2vay -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vay_mGLI.pt  (17.62s)
+PDB 2vda: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+118 421
+calculation,done
+[OK]  2vda -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vda_mGLI.pt  (122.44s)
+PDB 2vdb: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+99 400
+calculation,done
+[OK]  2vdb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vdb_mGLI.pt  (117.13s)
+PDB 2ve7: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+289 1695
+calculation,done
+[OK]  2ve7 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ve7_mGLI.pt  (726.51s)
+PDB 2ver: partner1:['A'] / partner2:['N']
+struct,done
+calculator,ready
+105 1006
+calculation,done
+[OK]  2ver -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2ver_mGLI.pt  (181.60s)
+[SKIP] 2vfx: PDB 2vfx: not found in CSV or missing partner columns.
+[SKIP] 2vir: PDB 2vir: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2vis: PDB 2vis: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2vlj: PDB 2vlj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2vln: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 603
+calculation,done
+[OK]  2vln -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vln_mGLI.pt  (87.32s)
+PDB 2vlo: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+83 608
+calculation,done
+[OK]  2vlo -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vlo_mGLI.pt  (85.73s)
+PDB 2vlp: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+89 622
+calculation,done
+[OK]  2vlp -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vlp_mGLI.pt  (89.76s)
+PDB 2vlq: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+91 608
+calculation,done
+[OK]  2vlq -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vlq_mGLI.pt  (90.27s)
+[SKIP] 2vlr: PDB 2vlr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2vof: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+55 189
+calculation,done
+[OK]  2vof -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vof_mGLI.pt  (20.00s)
+PDB 2vog: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+50 178
+calculation,done
+[OK]  2vog -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vog_mGLI.pt  (18.12s)
+PDB 2voh: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+58 188
+calculation,done
+[OK]  2voh -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2voh_mGLI.pt  (21.06s)
+PDB 2voi: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+53 180
+calculation,done
+[OK]  2voi -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2voi_mGLI.pt  (19.34s)
+PDB 2vsm: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+155 839
+calculation,done
+[OK]  2vsm -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vsm_mGLI.pt  (289.95s)
+[SKIP] 2vwe: PDB 2vwe: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2vxq: PDB 2vxq: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2vxs: PDB 2vxs: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2vxt: PDB 2vxt: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2vyr: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+85 555
+calculation,done
+[OK]  2vyr -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2vyr_mGLI.pt  (80.10s)
+PDB 2w19: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+90 404
+calculation,done
+[OK]  2w19 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2w19_mGLI.pt  (107.80s)
+PDB 2w2m: partner1:['A'] / partner2:['E']
+struct,done
+calculator,ready
+49 310
+calculation,done
+[OK]  2w2m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2w2m_mGLI.pt  (46.00s)
+[SKIP] 2w2n: PDB 2w2n: not found in CSV or missing partner columns.
+[SKIP] 2w2x: PDB 2w2x: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2w80: PDB 2w80: not found in CSV or missing partner columns.
+[SKIP] 2w81: PDB 2w81: not found in CSV or missing partner columns.
+[SKIP] 2w83: PDB 2w83: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2w84: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+45 279
+calculation,done
+[OK]  2w84 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2w84_mGLI.pt  (19.60s)
+[SKIP] 2w8b: PDB 2w8b: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2w9e: PDB 2w9e: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2wbj: PDB 2wbj: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2wby: PDB 2wby: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2wd5: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+206 1093
+calculation,done
+[OK]  2wd5 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wd5_mGLI.pt  (341.25s)
+PDB 2wel: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+119 1078
+calculation,done
+[OK]  2wel -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wel_mGLI.pt  (254.64s)
+PDB 2wfx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+85 597
+calculation,done
+[OK]  2wfx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wfx_mGLI.pt  (208.80s)
+PDB 2wg3: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+105 654
+calculation,done
+[OK]  2wg3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wg3_mGLI.pt  (228.96s)
+PDB 2wg4: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 604
+calculation,done
+[OK]  2wg4 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wg4_mGLI.pt  (206.74s)
+PDB 2wh6: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+53 191
+calculation,done
+[OK]  2wh6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wh6_mGLI.pt  (20.89s)
+[SKIP] 2wii: PDB 2wii: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2wjv: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+120 426
+calculation,done
+[OK]  2wjv -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wjv_mGLI.pt  (155.31s)
+PDB 2wo2: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+120 730
+calculation,done
+[OK]  2wo2 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wo2_mGLI.pt  (162.83s)
+PDB 2wo3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+125 743
+calculation,done
+[OK]  2wo3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wo3_mGLI.pt  (173.39s)
+PDB 2wp0: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+73 387
+calculation,done
+[OK]  2wp0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wp0_mGLI.pt  (71.44s)
+PDB 2wp3: partner1:['T'] / partner2:['O']
+struct,done
+calculator,ready
+70 517
+calculation,done
+[OK]  2wp3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wp3_mGLI.pt  (66.86s)
+PDB 2wpt: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+87 592
+calculation,done
+[OK]  2wpt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wpt_mGLI.pt  (83.49s)
+PDB 2wqz: partner1:['A'] / partner2:['D']
+struct,done
+calculator,ready
+99 488
+calculation,done
+[OK]  2wqz -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wqz_mGLI.pt  (270.86s)
+[SKIP] 2wss: PDB 2wss: not found in CSV or missing partner columns.
+[SKIP] 2wub: PDB 2wub: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2wuc: PDB 2wuc: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2wus: partner1:['A'] / partner2:['R']
+struct,done
+calculator,ready
+95 496
+calculation,done
+[OK]  2wus -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wus_mGLI.pt  (125.64s)
+[SKIP] 2wvw: PDB 2wvw: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2wwk: partner1:['T'] / partner2:['O']
+struct,done
+calculator,ready
+72 499
+calculation,done
+[OK]  2wwk -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wwk_mGLI.pt  (63.96s)
+PDB 2wwx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+162 1239
+calculation,done
+[OK]  2wwx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wwx_mGLI.pt  (321.36s)
+[SKIP] 2wx0: PDB 2wx0: not found in CSV or missing partner columns.
+[SKIP] 2wy2: PDB 2wy2: not found in CSV or missing partner columns.
+PDB 2wy3: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+143 739
+calculation,done
+[OK]  2wy3 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wy3_mGLI.pt  (181.59s)
+PDB 2wy8: partner1:['A'] / partner2:['Q']
+struct,done
+calculator,ready
+124 512
+calculation,done
+[OK]  2wy8 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2wy8_mGLI.pt  (118.19s)
+[SKIP] 2x1w: PDB 2x1w: not found in CSV or missing partner columns.
+PDB 2x1x: partner1:['E'] / partner2:['R']
+struct,done
+calculator,ready
+105 769
+calculation,done
+[OK]  2x1x -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2x1x_mGLI.pt  (142.02s)
+PDB 2x2d: partner1:['C'] / partner2:['D']
+struct,done
+calculator,ready
+68 315
+calculation,done
+[OK]  2x2d -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2x2d_mGLI.pt  (78.57s)
+[SKIP] 2x89: PDB 2x89: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2x9a: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+90 648
+calculation,done
+[OK]  2x9a -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2x9a_mGLI.pt  (84.23s)
+PDB 2xa0: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+56 211
+calculation,done
+[OK]  2xa0 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xa0_mGLI.pt  (22.85s)
+PDB 2xb6: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+103 496
+calculation,done
+[OK]  2xb6 -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xb6_mGLI.pt  (270.20s)
+PDB 2xbb: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+91 478
+calculation,done
+[OK]  2xbb -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xbb_mGLI.pt  (122.87s)
+PDB 2xdf: partner1:['A'] / partner2:['C']
+struct,done
+calculator,ready
+183 1121
+calculation,done
+[OK]  2xdf -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xdf_mGLI.pt  (379.04s)
+PDB 2xgy: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+95 731
+calculation,done
+[OK]  2xgy -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xgy_mGLI.pt  (135.36s)
+PDB 2xhe: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+255 1325
+calculation,done
+[OK]  2xhe -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xhe_mGLI.pt  (690.67s)
+PDB 2xns: partner1:['B'] / partner2:['D']
+struct,done
+calculator,ready
+78 320
+calculation,done
+[OK]  2xns -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xns_mGLI.pt  (59.63s)
+PDB 2xpx: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+48 178
+calculation,done
+[OK]  2xpx -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xpx_mGLI.pt  (18.36s)
+[SKIP] 2xqb: PDB 2xqb: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2xqr: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+136 735
+calculation,done
+[OK]  2xqr -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xqr_mGLI.pt  (291.88s)
+[SKIP] 2xqw: PDB 2xqw: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2xra: PDB 2xra: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2xtj: PDB 2xtj: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2xtt: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+167 2054
+calculation,done
+[OK]  2xtt -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xtt_mGLI.pt  (477.87s)
+[SKIP] 2xzd: PDB 2xzd: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2xze: partner1:['B'] / partner2:['R']
+struct,done
+calculator,ready
+58 161
+calculation,done
+[OK]  2xze -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2xze_mGLI.pt  (18.19s)
+[SKIP] 2y0b: PDB 2y0b: partner1 or partner2 has no amino-acid chain after filtering.
+[SKIP] 2y48: PDB 2y48: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2y5b: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 656
+calculation,done
+[OK]  2y5b -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2y5b_mGLI.pt  (215.51s)
+[SKIP] 2y6t: PDB 2y6t: not found in CSV or missing partner columns.
+PDB 2y8s: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+76 252
+calculation,done
+[OK]  2y8s -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2y8s_mGLI.pt  (51.00s)
+PDB 2y8t: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+73 252
+calculation,done
+[OK]  2y8t -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2y8t_mGLI.pt  (50.35s)
+PDB 2y9m: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+115 658
+calculation,done
+[OK]  2y9m -> /home/op98/protein_design/topology/mGLI-PP/src/data/data_files/pt/2y9m_mGLI.pt  (132.71s)
+[SKIP] 2ybr: PDB 2ybr: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 2ygg: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+142 975

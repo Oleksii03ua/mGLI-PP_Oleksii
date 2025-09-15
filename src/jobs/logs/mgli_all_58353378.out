@@ -1,0 +1,9 @@
+======== SLURM JOB INFO ========
+Sat Sep  6 18:47:21 EDT 2025
+Job ID      : 58353378
+Node list   : r813u09n06
+CPUs        : 16
+Mem (MB)    : 65536
+Submit dir  : /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs
+===============================
+Python at: 

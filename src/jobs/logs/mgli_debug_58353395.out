@@ -1,0 +1,7 @@
+==== ENV DUMP ====
+Sat Sep  6 18:49:32 EDT 2025
+SHELL: /bin/bash
+WHOAMI: op98
+HOSTNAME: r813u03n06.mccleary.ycrc.yale.edu
+PWD: /home/op98/protein_design/topology/mGLI-PP/src/jobs
+PATH: /home/op98/.local/bin:/home/op98/bin:/apps/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin

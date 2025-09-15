@@ -1,0 +1,12 @@
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+
+real	4m46.013s
+user	0m0.011s
+sys	0m0.004s

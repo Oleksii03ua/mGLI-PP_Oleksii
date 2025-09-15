@@ -1,0 +1,15 @@
++ echo '==== ENV DUMP ===='
++ date
++ echo 'SHELL: /bin/bash'
+++ whoami
++ echo 'WHOAMI: op98'
+++ hostname
++ echo 'HOSTNAME: r813u03n06.mccleary.ycrc.yale.edu'
+++ pwd
++ echo 'PWD: /home/op98/protein_design/topology/mGLI-PP/src/jobs'
++ echo 'PATH: /home/op98/.local/bin:/home/op98/bin:/apps/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin'
++ '[' -f /home/op98/.bashrc ']'
++ source /home/op98/.bashrc
+++ '[' -f /etc/bashrc ']'
+++ . /etc/bashrc
+/etc/bashrc: line 12: BASHRCSOURCED: unbound variable

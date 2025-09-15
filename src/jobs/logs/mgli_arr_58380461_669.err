@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "<stdin>", line 6, in <module>
+  File "/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py", line 267, in generate_mGLI_feature
+    protein_struct1, protein_struct2 = get_protein_struct_from_pdb(pdbid, pdb_path, CSV_PATH)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py", line 157, in get_protein_struct_from_pdb
+    raise ValueError(f"PDB {pid}: partner1 or partner2 has no amino-acid chain after filtering.")
+ValueError: PDB 3wn5: partner1 or partner2 has no amino-acid chain after filtering.
+srun: error: r813u03n01: task 0: Exited with exit code 1
+
+real	0m2.204s
+user	0m0.010s
+sys	0m0.005s

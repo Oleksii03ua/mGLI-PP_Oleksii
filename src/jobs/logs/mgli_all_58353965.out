@@ -1,0 +1,27 @@
+======== SLURM JOB INFO ========
+Sat Sep  6 19:23:12 EDT 2025
+Job ID      : 58353965
+Node list   : r813u09n12
+CPUs        : 16
+Mem (MB)    : 65536
+Submit dir  : /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs
+===============================
+Using python: /home/op98/venvs/mgli-py312/bin/python
+Python 3.12.3
+numpy OK
+Bio OK
+torch OK
+Starting mGLI directory run…
+Discovered 2836 PDB files in /home/op98/protein_design/dataset/PP
+PDB 1a22: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+165 978
+calculation,done
+[SKIP] 1a22: unsupported operand type(s) for +=: 'float' and 'list'
+[SKIP] 1a2k: PDB 1a2k: not found in CSV or missing partner columns.
+[SKIP] 1a3b: PDB 1a3b: partner1 or partner2 has no amino-acid chain after filtering.
+PDB 1a4y: partner1:['A'] / partner2:['B']
+struct,done
+calculator,ready
+157 830

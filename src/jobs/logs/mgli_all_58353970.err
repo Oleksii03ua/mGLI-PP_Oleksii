@@ -1,0 +1,213 @@
++ export PYTHONUNBUFFERED=1
++ PYTHONUNBUFFERED=1
++ echo '======== SLURM JOB INFO ========'
++ date
++ echo 'Job ID      : 58353970'
++ echo 'Node list   : r813u03n07'
++ echo 'CPUs        : 16'
++ echo 'Mem (MB)    : 65536'
++ echo 'Submit dir  : /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs'
++ echo ===============================
++ cd /vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs
++ mkdir -p logs
++ '[' -f /etc/profile.d/modules.sh ']'
++ source /etc/profile.d/modules.sh
++++ id -u
+++ '[' 28635 = 0 ']'
+++ source /apps/custom/lmod/lmod/init/profile
++++ '[' -z '' ']'
++++ LMOD_ALLOW_ROOT_USE=yes
++++ '[' -n '' ']'
++++ '[' yes '!=' yes ']'
++++ '[' -z /apps/custom/modulefiles ']'
++++ findExec READLINK_CMD /usr/bin/readlink readlink
++++ Nm=READLINK_CMD
++++ confPath=/usr/bin/readlink
++++ execNm=readlink
++++ eval READLINK_CMD=/usr/bin/readlink
+++++ READLINK_CMD=/usr/bin/readlink
++++ '[' '!' -x /usr/bin/readlink ']'
++++ unset Nm confPath execNm
++++ findExec PS_CMD /usr/bin/ps ps
++++ Nm=PS_CMD
++++ confPath=/usr/bin/ps
++++ execNm=ps
++++ eval PS_CMD=/usr/bin/ps
+++++ PS_CMD=/usr/bin/ps
++++ '[' '!' -x /usr/bin/ps ']'
++++ unset Nm confPath execNm
++++ findExec EXPR_CMD /usr/bin/expr expr
++++ Nm=EXPR_CMD
++++ confPath=/usr/bin/expr
++++ execNm=expr
++++ eval EXPR_CMD=/usr/bin/expr
+++++ EXPR_CMD=/usr/bin/expr
++++ '[' '!' -x /usr/bin/expr ']'
++++ unset Nm confPath execNm
++++ findExec BASENAME_CMD /usr/bin/basename basename
++++ Nm=BASENAME_CMD
++++ confPath=/usr/bin/basename
++++ execNm=basename
++++ eval BASENAME_CMD=/usr/bin/basename
+++++ BASENAME_CMD=/usr/bin/basename
++++ '[' '!' -x /usr/bin/basename ']'
++++ unset Nm confPath execNm
++++ unset -f findExec
++++ '[' -f /proc/1818359/exe ']'
+++++ /usr/bin/readlink /proc/1818359/exe
++++ my_shell=/usr/bin/bash
+++++ /usr/bin/expr /usr/bin/bash : '-*\(.*\)'
++++ my_shell=/usr/bin/bash
+++++ /usr/bin/basename /usr/bin/bash
++++ my_shell=bash
++++ case ${my_shell} in
++++ '[' -f /apps/custom/lmod/8.7.48/init/bash ']'
++++ . /apps/custom/lmod/8.7.48/init/bash
+++++ '[' -z '' ']'
+++++ case "$-" in
+++++ __lmod_vx=x
+++++ '[' -n x ']'
+++++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for this output (/apps/custom/lmod/8.7.48/init/bash)
+Shell debugging restarted
+++++ unset __lmod_vx
++++ unset my_shell PS_CMD EXPR_CMD BASENAME_CMD MODULEPATH_INIT LMOD_ALLOW_ROOT_USE READLINK_CMD
++ module load Python/3.12.3-GCCcore-13.3.0
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ source /home/op98/venvs/mgli-py312/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/op98/venvs/mgli-py312
+++ VIRTUAL_ENV=/home/op98/venvs/mgli-py312
+++ _OLD_VIRTUAL_PATH=/vast/palmer/apps/avx2/software/Python/3.12.3-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/OpenSSL/3/bin:/vast/palmer/apps/avx2/software/XZ/5.4.5-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/SQLite/3.45.3-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/Tcl/8.6.14-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/ncurses/6.5-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/bzip2/1.0.8-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/binutils/2.42-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/GCCcore/13.3.0/bin:/apps/bin:/home/op98/.local/bin:/home/op98/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+++ PATH=/home/op98/venvs/mgli-py312/bin:/vast/palmer/apps/avx2/software/Python/3.12.3-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/OpenSSL/3/bin:/vast/palmer/apps/avx2/software/XZ/5.4.5-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/SQLite/3.45.3-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/Tcl/8.6.14-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/ncurses/6.5-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/bzip2/1.0.8-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/binutils/2.42-GCCcore-13.3.0/bin:/vast/palmer/apps/avx2/software/GCCcore/13.3.0/bin:/apps/bin:/home/op98/.local/bin:/home/op98/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(mgli-py312) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(mgli-py312) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export OMP_NUM_THREADS=16
++ OMP_NUM_THREADS=16
++ export MKL_NUM_THREADS=16
++ MKL_NUM_THREADS=16
++ export OPENBLAS_NUM_THREADS=16
++ OPENBLAS_NUM_THREADS=16
++ export NUMEXPR_NUM_THREADS=16
++ NUMEXPR_NUM_THREADS=16
+++ command -v python
++ echo 'Using python: /home/op98/venvs/mgli-py312/bin/python'
++ python -V
++ python -
++ echo 'Starting mGLI directory run…'
++ srun -c 16 python mGLI.py
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:47: RuntimeWarning: invalid value encountered in arcsin
+  area1 = np.arcsin(np.dot(n[0], n[1]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:48: RuntimeWarning: invalid value encountered in arcsin
+  area2 = np.arcsin(np.dot(n[1], n[2]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:49: RuntimeWarning: invalid value encountered in arcsin
+  area3 = np.arcsin(np.dot(n[2], n[3]))
+/vast/palmer/home.mccleary/op98/protein_design/topology/mGLI-PP/src/jobs/mGLI.py:50: RuntimeWarning: invalid value encountered in arcsin
+  area4 = np.arcsin(np.dot(n[3], n[0]))
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 58353970.0 ON r813u03n07 CANCELLED AT 2025-09-07T19:26:08 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 58353970 ON r813u03n07 CANCELLED AT 2025-09-07T19:26:08 DUE TO TIME LIMIT ***
