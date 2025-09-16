@@ -8,7 +8,7 @@
 #SBATCH --cpus-per-task=2
 #SBATCH --array=1-2852%10 
 #SBATCH --mail-type=BEGIN,END,FAIL
-#SBATCH --mail-user=4752279178@vtext.com
+#SBATCH --mail-user=9316361274@vtext.com
 
 module load miniconda         
 conda activate protein_design    
