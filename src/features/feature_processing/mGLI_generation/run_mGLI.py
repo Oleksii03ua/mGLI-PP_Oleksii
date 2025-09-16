@@ -10,7 +10,7 @@ if __name__=="__main__":
     # generate outputs
     feats, _ = generate_mGLI_feature(pdbid)
     # create output directories
-    outdir = '/home/op98/protein_design/dataset/PP'
+    outdir = ''/home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_files/pt2''
     os.makedirs(outdir, exist_ok=True)
     # save feature vector as tensor
     t = torch.tensor(feats, dtype=torch.float32)
