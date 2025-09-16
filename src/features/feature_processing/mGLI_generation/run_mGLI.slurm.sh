@@ -13,7 +13,7 @@
 module load miniconda         
 conda activate protein_design    
 
-cd /home/op98/protein_design/topology/mGLI-PP
+cd /home/op98/protein_design/topology/mGLI-PP/src/features/feature_processing/mGLI_generation
 
 PDB_LIST=/home/op98/protein_design/topology/mGLI-PP/src/data/data_files/ids.txt
 COMPLETED_LIST=/home/op98/protein_design/topology/mGLI-PP/src/data/data_files/completed_ids.txt
