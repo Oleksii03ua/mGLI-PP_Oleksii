@@ -5,3 +5,10 @@ notebooks/runs/
 model/
 .ipynb_checkpoints/
 __pycache__/
+
+# local-only ML artifacts (do not push)
+*.joblib
+notebooks/runs/
+model/
+.ipynb_checkpoints/
+__pycache__/
