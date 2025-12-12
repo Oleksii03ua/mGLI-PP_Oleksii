@@ -1,0 +1,65 @@
+[INFO] Host: r813u09n11.mccleary.ycrc.yale.edu  Date: Tue Oct 14 21:22:19 EDT 2025
+[INFO] Working dir: /home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing
+[INFO] Using venv: /home/op98/venvs/sasa
+/home/op98/venvs/sasa/bin/python
+Python 3.11.11
+Python OK on r813u09n11.mccleary.ycrc.yale.edu
+Imports OK
+[INFO] Found 2839 PDBs under /home/op98/protein_design/dataset/PP/PP2
+[1/2839] 1a22.ent.pdb
+[2/2839] 1a2k.ent.pdb
+[3/2839] 1a3b.ent.pdb
+[4/2839] 1a4y.ent.pdb
+[5/2839] 1acb.ent.pdb
+[6/2839] 1ahw.ent.pdb
+[7/2839] 1ak4.ent.pdb
+[8/2839] 1akj.ent.pdb
+[9/2839] 1an1.ent.pdb
+[10/2839] 1atn.ent.pdb
+[11/2839] 1ava.ent.pdb
+[12/2839] 1avg.ent.pdb
+[13/2839] 1avx.ent.pdb
+[14/2839] 1avz.ent.pdb
+[15/2839] 1axi.ent.pdb
+[16/2839] 1ay7.ent.pdb
+[17/2839] 1azz.ent.pdb
+[18/2839] 1b27.ent.pdb
+[19/2839] 1b2s.ent.pdb
+[20/2839] 1b2u.ent.pdb
+[21/2839] 1b3s.ent.pdb
+[22/2839] 1b6c.ent.pdb
+[23/2839] 1bj1.ent.pdb
+[24/2839] 1bql.ent.pdb
+[25/2839] 1brs.ent.pdb
+[26/2839] 1bth.ent.pdb
+[27/2839] 1buh.ent.pdb
+[28/2839] 1bvk.ent.pdb
+[29/2839] 1bvn.ent.pdb
+[30/2839] 1c9p.ent.pdb
+[31/2839] 1c9t.ent.pdb
+[32/2839] 1ca0.ent.pdb
+[33/2839] 1cbw.ent.pdb
+[34/2839] 1clv.ent.pdb
+[35/2839] 1cmx.ent.pdb
+[36/2839] 1cn4.ent.pdb
+[37/2839] 1cz8.ent.pdb
+[38/2839] 1d6r.ent.pdb
+[39/2839] 1de4.ent.pdb
+[40/2839] 1dee.ent.pdb
+[41/2839] 1dfj.ent.pdb
+[42/2839] 1dhk.ent.pdb
+[43/2839] 1dit.ent.pdb
+[44/2839] 1djs.ent.pdb
+[45/2839] 1dp5.ent.pdb
+[46/2839] 1dpj.ent.pdb
+[47/2839] 1dqj.ent.pdb
+[48/2839] 1du3.ent.pdb
+[49/2839] 1dzb.ent.pdb
+[50/2839] 1e3u.ent.pdb
+[51/2839] 1e4k.ent.pdb
+[52/2839] 1e6e.ent.pdb
+[53/2839] 1e6j.ent.pdb
+[54/2839] 1e96.ent.pdb
+[55/2839] 1eaw.ent.pdb
+[56/2839] 1eer.ent.pdb
+[57/2839] 1ees.ent.pdb

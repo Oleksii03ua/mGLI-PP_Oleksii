@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/vast/palmer/home.mccleary/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing/sasa_all.py", line 6, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'

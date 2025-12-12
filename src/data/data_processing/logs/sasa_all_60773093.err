@@ -1,0 +1,36 @@
++ export PYTHONUNBUFFERED=1
++ PYTHONUNBUFFERED=1
++ export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 NUMEXPR_NUM_THREADS=1
++ OMP_NUM_THREADS=1
++ OPENBLAS_NUM_THREADS=1
++ MKL_NUM_THREADS=1
++ NUMEXPR_NUM_THREADS=1
++ SCRIPT_DIR=/home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing
++ VENV=/home/op98/venvs/sasa
++ mkdir -p /home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing/logs
++ cd /home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing
++ source /home/op98/venvs/sasa/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/home/op98/venvs/sasa
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home/op98/.local/bin:/home/op98/bin:/apps/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+++ PATH=/home/op98/venvs/sasa/bin:/home/op98/.local/bin:/home/op98/bin:/apps/bin:/opt/slurm/current/bin:/opt/lenovo/onecli:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(sasa) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(sasa) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ python -c 'import Bio, Bio.PDB, pandas; print('\''Imports OK'\'')'
++ python /home/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing/sasa_all.py
+slurmstepd: error: *** JOB 60773093 ON r813u03n12 CANCELLED AT 2025-10-24T10:04:39 DUE TO TIME LIMIT ***

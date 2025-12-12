@@ -1,0 +1,2706 @@
+Imports OK
+[INFO] Writing to: /vast/palmer/home.mccleary/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing/all_pdb_sasa.txt
+[INFO] Found 2839 PDB files in /home/op98/protein_design/dataset/PP/PP2
+[INFO] Already have 420 rows (will skip).
+[INFO] Mode: PROTEIN-ONLY; timeout=300s; min_npoints=960
+[1/2839] 1a22.ent.pdb  (skip)
+[2/2839] 1a2k.ent.pdb  (skip)
+[3/2839] 1a3b.ent.pdb  (skip)
+[4/2839] 1a4y.ent.pdb  (skip)
+[5/2839] 1acb.ent.pdb  (skip)
+[6/2839] 1ahw.ent.pdb  (skip)
+[7/2839] 1ak4.ent.pdb  (skip)
+[8/2839] 1akj.ent.pdb  (skip)
+[9/2839] 1an1.ent.pdb  (skip)
+[10/2839] 1atn.ent.pdb  (skip)
+[11/2839] 1ava.ent.pdb  (skip)
+[12/2839] 1avg.ent.pdb  (skip)
+[13/2839] 1avx.ent.pdb  (skip)
+[14/2839] 1avz.ent.pdb  (skip)
+[15/2839] 1axi.ent.pdb  (skip)
+[16/2839] 1ay7.ent.pdb  (skip)
+[17/2839] 1azz.ent.pdb  (skip)
+[18/2839] 1b27.ent.pdb  (skip)
+[19/2839] 1b2s.ent.pdb  (skip)
+[20/2839] 1b2u.ent.pdb  (skip)
+[21/2839] 1b3s.ent.pdb  (skip)
+[22/2839] 1b6c.ent.pdb  (skip)
+[23/2839] 1bj1.ent.pdb  (skip)
+[24/2839] 1bql.ent.pdb  (skip)
+[25/2839] 1brs.ent.pdb  (skip)
+[26/2839] 1bth.ent.pdb  (skip)
+[27/2839] 1buh.ent.pdb  (skip)
+[28/2839] 1bvk.ent.pdb  (skip)
+[29/2839] 1bvn.ent.pdb  (skip)
+[30/2839] 1c9p.ent.pdb  (skip)
+[31/2839] 1c9t.ent.pdb  (skip)
+[32/2839] 1ca0.ent.pdb  (skip)
+[33/2839] 1cbw.ent.pdb  (skip)
+[34/2839] 1clv.ent.pdb  (skip)
+[35/2839] 1cmx.ent.pdb  (skip)
+[36/2839] 1cn4.ent.pdb  (skip)
+[37/2839] 1cz8.ent.pdb  (skip)
+[38/2839] 1d6r.ent.pdb  (skip)
+[39/2839] 1de4.ent.pdb  (skip)
+[40/2839] 1dee.ent.pdb  (skip)
+[41/2839] 1dfj.ent.pdb  (skip)
+[42/2839] 1dhk.ent.pdb  (skip)
+[43/2839] 1dit.ent.pdb  (skip)
+[44/2839] 1djs.ent.pdb  (skip)
+[45/2839] 1dp5.ent.pdb  (skip)
+[46/2839] 1dpj.ent.pdb  (skip)
+[47/2839] 1dqj.ent.pdb  (skip)
+[48/2839] 1du3.ent.pdb  (skip)
+[49/2839] 1dzb.ent.pdb  (skip)
+[50/2839] 1e3u.ent.pdb  (skip)
+[51/2839] 1e4k.ent.pdb  (skip)
+[52/2839] 1e6e.ent.pdb  (skip)
+[53/2839] 1e6j.ent.pdb  (skip)
+[54/2839] 1e96.ent.pdb  (skip)
+[55/2839] 1eaw.ent.pdb  (skip)
+[56/2839] 1eer.ent.pdb  (skip)
+[57/2839] 1ees.ent.pdb  (skip)
+[58/2839] 1efn.ent.pdb  (skip)
+[59/2839] 1efx.ent.pdb  (skip)
+[60/2839] 1eja.ent.pdb  (skip)
+[61/2839] 1emv.ent.pdb  (skip)
+[62/2839] 1eo8.ent.pdb  (skip)
+[63/2839] 1es0.ent.pdb  (skip)
+[64/2839] 1ewy.ent.pdb  (skip)
+[65/2839] 1ezs.ent.pdb  (skip)
+[66/2839] 1ezu.ent.pdb  (skip)
+[67/2839] 1f34.ent.pdb  (skip)
+[68/2839] 1f3v.ent.pdb  (skip)
+[69/2839] 1f5r.ent.pdb  (skip)
+[70/2839] 1f7z.ent.pdb  (skip)
+[71/2839] 1fak.ent.pdb  (skip)
+[72/2839] 1fc2.ent.pdb  (skip)
+[73/2839] 1fe8.ent.pdb  (skip)
+[74/2839] 1ffw.ent.pdb  (skip)
+[75/2839] 1ffx.ent.pdb  (skip)
+[76/2839] 1fg9.ent.pdb  (skip)
+[77/2839] 1fle.ent.pdb  (skip)
+[78/2839] 1flt.ent.pdb  (skip)
+[79/2839] 1fmo.ent.pdb  (skip)
+[80/2839] 1fqj.ent.pdb  (skip)
+[81/2839] 1fsk.ent.pdb  (skip)
+[82/2839] 1fy8.ent.pdb  (skip)
+[83/2839] 1g0v.ent.pdb  (skip)
+[84/2839] 1g5j.ent.pdb  (skip)
+[85/2839] 1g6v.ent.pdb  (skip)
+[86/2839] 1g9i.ent.pdb  (skip)
+[87/2839] 1gcq.ent.pdb  (skip)
+[88/2839] 1gl0.ent.pdb  (skip)
+[89/2839] 1gl1.ent.pdb  (skip)
+[90/2839] 1gla.ent.pdb  (skip)
+[91/2839] 1gng.ent.pdb  (skip)
+[92/2839] 1go4.ent.pdb  (skip)
+[93/2839] 1gpw.ent.pdb  (skip)
+[94/2839] 1grn.ent.pdb  (skip)
+[95/2839] 1gua.ent.pdb  (skip)
+[96/2839] 1gxd.ent.pdb  (skip)
+[97/2839] 1h0t.ent.pdb  (skip)
+[98/2839] 1h1v.ent.pdb  (skip)
+[99/2839] 1h59.ent.pdb  (skip)
+[100/2839] 1hcf.ent.pdb  (skip)
+[101/2839] 1he8.ent.pdb  (skip)
+[102/2839] 1hez.ent.pdb  (skip)
+[103/2839] 1hia.ent.pdb  (skip)
+[104/2839] 1hqr.ent.pdb  (skip)
+[105/2839] 1hrt.ent.pdb  (skip)
+[106/2839] 1hxy.ent.pdb  (skip)
+[107/2839] 1i2m.ent.pdb  (skip)
+[108/2839] 1i3o.ent.pdb  (skip)
+[109/2839] 1i4d.ent.pdb  (skip)
+[110/2839] 1i4e.ent.pdb  (skip)
+[111/2839] 1i51.ent.pdb  (skip)
+[112/2839] 1i5k.ent.pdb  (skip)
+[113/2839] 1i8k.ent.pdb  (skip)
+[114/2839] 1i8l.ent.pdb  (skip)
+[115/2839] 1ib1.ent.pdb  (skip)
+[116/2839] 1ibr.ent.pdb  (skip)
+[117/2839] 1icf.ent.pdb  (skip)
+[118/2839] 1id5.ent.pdb  (skip)
+[119/2839] 1ihs.ent.pdb  (skip)
+[120/2839] 1ijk.ent.pdb  (skip)
+[121/2839] 1iqd.ent.pdb  (skip)
+[122/2839] 1j2j.ent.pdb  (skip)
+[123/2839] 1j7d.ent.pdb  (skip)
+[124/2839] 1j7v.ent.pdb  (skip)
+[125/2839] 1jgn.ent.pdb  (skip)
+[126/2839] 1jh4.ent.pdb  (skip)
+[127/2839] 1jiw.ent.pdb  (skip)
+[128/2839] 1jmo.ent.pdb  (skip)
+[129/2839] 1jps.ent.pdb  (skip)
+[130/2839] 1jrh.ent.pdb  (skip)
+[131/2839] 1jsp.ent.pdb  (skip)
+[132/2839] 1jtd.ent.pdb  (skip)
+[133/2839] 1jtg.ent.pdb  (skip)
+[134/2839] 1jwh.ent.pdb  (skip)
+[135/2839] 1k2d.ent.pdb  (skip)
+[136/2839] 1k5d.ent.pdb  (skip)
+[137/2839] 1k93.ent.pdb  (skip)
+[138/2839] 1kac.ent.pdb  (skip)
+[139/2839] 1kbh.ent.pdb  (skip)
+[140/2839] 1kgy.ent.pdb  (skip)
+[141/2839] 1kig.ent.pdb  (skip)
+[142/2839] 1kkl.ent.pdb  (skip)
+[143/2839] 1ktk.ent.pdb  (skip)
+[144/2839] 1ktz.ent.pdb  (skip)
+[145/2839] 1kxp.ent.pdb  (skip)
+[146/2839] 1kxq.ent.pdb  (skip)
+[147/2839] 1kxt.ent.pdb  (skip)
+[148/2839] 1kxv.ent.pdb  (skip)
+[149/2839] 1l0x.ent.pdb  (skip)
+[150/2839] 1l2w.ent.pdb  (skip)
+[151/2839] 1l4d.ent.pdb  (skip)
+[152/2839] 1l4z.ent.pdb  (skip)
+[153/2839] 1l8c.ent.pdb  (skip)
+[154/2839] 1ldt.ent.pdb  (skip)
+[155/2839] 1lfd.ent.pdb  (skip)
+[156/2839] 1lj2.ent.pdb  (skip)
+[157/2839] 1lm8.ent.pdb  (skip)
+[158/2839] 1lp1.ent.pdb  (skip)
+[159/2839] 1lqb.ent.pdb  (skip)
+[160/2839] 1lqs.ent.pdb  (skip)
+[161/2839] 1lw6.ent.pdb  (skip)
+[162/2839] 1lx5.ent.pdb  (skip)
+[163/2839] 1lzw.ent.pdb  (skip)
+[164/2839] 1m10.ent.pdb  (skip)
+[165/2839] 1m1e.ent.pdb  (skip)
+[166/2839] 1m5n.ent.pdb  (skip)
+[167/2839] 1mah.ent.pdb  (skip)
+[168/2839] 1mcv.ent.pdb  (skip)
+[169/2839] 1mhh.ent.pdb  (skip)
+[170/2839] 1mi5.ent.pdb  (skip)
+[171/2839] 1mlc.ent.pdb  (skip)
+[172/2839] 1mq8.ent.pdb  (skip)
+[173/2839] 1mtn.ent.pdb  (skip)
+[174/2839] 1mxe.ent.pdb  (skip)
+[175/2839] 1mzw.ent.pdb  (skip)
+[176/2839] 1n64.ent.pdb  (skip)
+[177/2839] 1nb5.ent.pdb  (skip)
+[178/2839] 1nca.ent.pdb  (skip)
+[179/2839] 1nez.ent.pdb  (skip)
+[180/2839] 1nf3.ent.pdb  (skip)
+[181/2839] 1nl0.ent.pdb  (skip)
+[182/2839] 1nm5.ent.pdb  (skip)
+[183/2839] 1nma.ent.pdb  (skip)
+[184/2839] 1nsn.ent.pdb  (skip)
+[185/2839] 1nvu.ent.pdb  (skip)
+[186/2839] 1nw9.ent.pdb  (skip)
+[187/2839] 1nys.ent.pdb  (skip)
+[188/2839] 1nyu.ent.pdb  (skip)
+[189/2839] 1o94.ent.pdb  (skip)
+[190/2839] 1o95.ent.pdb  (skip)
+[191/2839] 1o9a.ent.pdb  (skip)
+[192/2839] 1ob1.ent.pdb  (skip)
+[193/2839] 1oc0.ent.pdb  (skip)
+[194/2839] 1oey.ent.pdb  (skip)
+[195/2839] 1ogy.ent.pdb  (skip)
+[196/2839] 1op9.ent.pdb  (skip)
+[197/2839] 1oph.ent.pdb  (skip)
+[198/2839] 1oqe.ent.pdb  (skip)
+[199/2839] 1otr.ent.pdb  (skip)
+[200/2839] 1oyh.ent.pdb  (skip)
+[201/2839] 1oyv.ent.pdb  (skip)
+[202/2839] 1ozs.ent.pdb  (skip)
+[203/2839] 1p0s.ent.pdb  (skip)
+[204/2839] 1p1z.ent.pdb  (skip)
+[205/2839] 1p22.ent.pdb  (skip)
+[206/2839] 1p27.ent.pdb  (skip)
+[207/2839] 1p2c.ent.pdb  (skip)
+[208/2839] 1p3q.ent.pdb  (skip)
+[209/2839] 1p4b.ent.pdb  (skip)
+[210/2839] 1p4l.ent.pdb  (skip)
+[211/2839] 1p69.ent.pdb  (skip)
+[212/2839] 1p6a.ent.pdb  (skip)
+[213/2839] 1p9d.ent.pdb  (skip)
+[214/2839] 1p9m.ent.pdb  (skip)
+[215/2839] 1pd7.ent.pdb  (skip)
+[216/2839] 1pjm.ent.pdb  (skip)
+[217/2839] 1pjn.ent.pdb  (skip)
+[218/2839] 1pk1.ent.pdb  (skip)
+[219/2839] 1ppe.ent.pdb  (skip)
+[220/2839] 1psb.ent.pdb  (skip)
+[221/2839] 1pvh.ent.pdb  (skip)
+[222/2839] 1pxv.ent.pdb  (skip)
+[223/2839] 1q0w.ent.pdb  (skip)
+[224/2839] 1q5w.ent.pdb  (skip)
+[225/2839] 1q68.ent.pdb  (skip)
+[226/2839] 1q69.ent.pdb  (skip)
+[227/2839] 1qa9.ent.pdb  (skip)
+[228/2839] 1qfu.ent.pdb  (skip)
+[229/2839] 1qfw.ent.pdb  (skip)
+[230/2839] 1qse.ent.pdb  (skip)
+[231/2839] 1qty.ent.pdb  (skip)
+[232/2839] 1qur.ent.pdb  (skip)
+[233/2839] 1r0r.ent.pdb  (skip)
+[234/2839] 1r6q.ent.pdb  (skip)
+[235/2839] 1r8u.ent.pdb  (skip)
+[236/2839] 1ri8.ent.pdb  (skip)
+[237/2839] 1rjc.ent.pdb  (skip)
+[238/2839] 1rkc.ent.pdb  (skip)
+[239/2839] 1rke.ent.pdb  (skip)
+[240/2839] 1rlb.ent.pdb  (skip)
+[241/2839] 1rpq.ent.pdb  (skip)
+[242/2839] 1rv6.ent.pdb  (skip)
+[243/2839] 1rvj.ent.pdb  (skip)
+[244/2839] 1ry7.ent.pdb  (skip)
+[245/2839] 1s1q.ent.pdb  (skip)
+[246/2839] 1s4y.ent.pdb  (skip)
+[247/2839] 1sb0.ent.pdb  (skip)
+[248/2839] 1sbb.ent.pdb  (skip)
+[249/2839] 1sg1.ent.pdb  (skip)
+[250/2839] 1shy.ent.pdb  (skip)
+[251/2839] 1shz.ent.pdb  (skip)
+[252/2839] 1smf.ent.pdb  (skip)
+[253/2839] 1sq0.ent.pdb  (skip)
+[254/2839] 1sv0.ent.pdb  (skip)
+[255/2839] 1sy6.ent.pdb  (skip)
+[256/2839] 1syq.ent.pdb  (skip)
+[257/2839] 1t01.ent.pdb  (skip)
+[258/2839] 1t0p.ent.pdb  (skip)
+[259/2839] 1t44.ent.pdb  (skip)
+[260/2839] 1t5z.ent.pdb  (skip)
+[261/2839] 1t63.ent.pdb  (skip)
+[262/2839] 1t6b.ent.pdb  (skip)
+[263/2839] 1ta3.ent.pdb  (skip)
+[264/2839] 1taw.ent.pdb  (skip)
+[265/2839] 1tba.ent.pdb  (skip)
+[266/2839] 1tbq.ent.pdb  (skip)
+[267/2839] 1tbr.ent.pdb  (skip)
+[268/2839] 1tdq.ent.pdb  (skip)
+[269/2839] 1te1.ent.pdb  (skip)
+[270/2839] 1th1.ent.pdb  (skip)
+[271/2839] 1tlh.ent.pdb  (skip)
+[272/2839] 1tm1.ent.pdb  (skip)
+[273/2839] 1tm3.ent.pdb  (skip)
+[274/2839] 1tm4.ent.pdb  (skip)
+[275/2839] 1tm5.ent.pdb  (skip)
+[276/2839] 1tm7.ent.pdb  (skip)
+[277/2839] 1to1.ent.pdb  (skip)
+[278/2839] 1toc.ent.pdb  (skip)
+[279/2839] 1tt5.ent.pdb  (skip)
+[280/2839] 1ty4.ent.pdb  (skip)
+[281/2839] 1tzh.ent.pdb  (skip)
+[282/2839] 1tzi.ent.pdb  (skip)
+[283/2839] 1tzn.ent.pdb  (skip)
+[284/2839] 1u0i.ent.pdb  (skip)
+[285/2839] 1u0s.ent.pdb  (skip)
+[286/2839] 1u5s.ent.pdb  (skip)
+[287/2839] 1u7f.ent.pdb  (skip)
+[288/2839] 1u7v.ent.pdb  (skip)
+[289/2839] 1uad.ent.pdb  (skip)
+[290/2839] 1uel.ent.pdb  (skip)
+[291/2839] 1uex.ent.pdb  (skip)
+[292/2839] 1ugh.ent.pdb  (skip)
+[293/2839] 1ul1.ent.pdb  (skip)
+[294/2839] 1us7.ent.pdb  (skip)
+[295/2839] 1usu.ent.pdb  (skip)
+[296/2839] 1usv.ent.pdb  (skip)
+[297/2839] 1uug.ent.pdb  (skip)
+[298/2839] 1uuz.ent.pdb  (skip)
+[299/2839] 1uwx.ent.pdb  (skip)
+[300/2839] 1v18.ent.pdb  (skip)
+[301/2839] 1v7p.ent.pdb  (skip)
+[302/2839] 1vet.ent.pdb  (skip)
+[303/2839] 1veu.ent.pdb  (skip)
+[304/2839] 1vfb.ent.pdb  (skip)
+[305/2839] 1vg0.ent.pdb  (skip)
+[306/2839] 1vpp.ent.pdb  (skip)
+[307/2839] 1vrc.ent.pdb  (skip)
+[308/2839] 1vrk.ent.pdb  (skip)
+[309/2839] 1vsq.ent.pdb  (skip)
+[310/2839] 1vyh.ent.pdb  (skip)
+[311/2839] 1vyt.ent.pdb  (skip)
+[312/2839] 1w1w.ent.pdb  (skip)
+[313/2839] 1w72.ent.pdb  (skip)
+[314/2839] 1wa7.ent.pdb  (skip)
+[315/2839] 1wa8.ent.pdb  (skip)
+[316/2839] 1wdw.ent.pdb  (skip)
+[317/2839] 1wej.ent.pdb  (skip)
+[318/2839] 1wlp.ent.pdb  (skip)
+[319/2839] 1wpx.ent.pdb  (skip)
+[320/2839] 1wq1.ent.pdb  (skip)
+[321/2839] 1wqj.ent.pdb  (skip)
+[322/2839] 1wr1.ent.pdb  (skip)
+[323/2839] 1wr6.ent.pdb  (skip)
+[324/2839] 1wrd.ent.pdb  (skip)
+[325/2839] 1wve.ent.pdb  (skip)
+[326/2839] 1x1u.ent.pdb  (skip)
+[327/2839] 1x1w.ent.pdb  (skip)
+[328/2839] 1x1x.ent.pdb  (skip)
+[329/2839] 1x1y.ent.pdb  (skip)
+[330/2839] 1x75.ent.pdb  (skip)
+[331/2839] 1xd3.ent.pdb  (skip)
+[332/2839] 1xdt.ent.pdb  (skip)
+[333/2839] 1xg2.ent.pdb  (skip)
+[334/2839] 1xj7.ent.pdb  (skip)
+[335/2839] 1xqh.ent.pdb  (skip)
+[336/2839] 1xqs.ent.pdb  (skip)
+[337/2839] 1xr0.ent.pdb  (skip)
+[338/2839] 1xt9.ent.pdb  (skip)
+[339/2839] 1xu1.ent.pdb  (skip)
+[340/2839] 1xwd.ent.pdb  (skip)
+[341/2839] 1xx9.ent.pdb  (skip)
+[342/2839] 1xxd.ent.pdb  (skip)
+[343/2839] 1xxf.ent.pdb  (skip)
+[344/2839] 1y1k.ent.pdb  (skip)
+[345/2839] 1y33.ent.pdb  (skip)
+[346/2839] 1y34.ent.pdb  (skip)
+[347/2839] 1y3b.ent.pdb  (skip)
+[348/2839] 1y3c.ent.pdb  (skip)
+[349/2839] 1y3d.ent.pdb  (skip)
+[350/2839] 1y48.ent.pdb  (skip)
+[351/2839] 1y4a.ent.pdb  (skip)
+[352/2839] 1y4d.ent.pdb  (skip)
+[353/2839] 1y6k.ent.pdb  (skip)
+[354/2839] 1y6m.ent.pdb  (skip)
+[355/2839] 1y6n.ent.pdb  (skip)
+[356/2839] 1y76.ent.pdb  (skip)
+[357/2839] 1y8n.ent.pdb  (skip)
+[358/2839] 1yc0.ent.pdb  (skip)
+[359/2839] 1ycs.ent.pdb  (skip)
+[360/2839] 1yd8.ent.pdb  (skip)
+[361/2839] 1ydi.ent.pdb  (skip)
+[362/2839] 1yk0.ent.pdb  (skip)
+[363/2839] 1yk1.ent.pdb  (skip)
+[364/2839] 1yrt.ent.pdb  (skip)
+[365/2839] 1yru.ent.pdb  (skip)
+[366/2839] 1yvb.ent.pdb  (skip)
+[367/2839] 1yx5.ent.pdb  (skip)
+[368/2839] 1yx6.ent.pdb  (skip)
+[369/2839] 1yy9.ent.pdb  (skip)
+[370/2839] 1yyl.ent.pdb  (skip)
+[371/2839] 1yym.ent.pdb  (skip)
+[372/2839] 1z0k.ent.pdb  (skip)
+[373/2839] 1z5s.ent.pdb  (skip)
+[374/2839] 1z7x.ent.pdb  (skip)
+[375/2839] 1z92.ent.pdb  (skip)
+[376/2839] 1za3.ent.pdb  (skip)
+[377/2839] 1zc3.ent.pdb  (skip)
+[378/2839] 1zc4.ent.pdb  (skip)
+[379/2839] 1ze3.ent.pdb  (skip)
+[380/2839] 1zgu.ent.pdb  (skip)
+[381/2839] 1zhi.ent.pdb  (skip)
+[382/2839] 1zjd.ent.pdb  (skip)
+[383/2839] 1zli.ent.pdb  (skip)
+[384/2839] 1zm4.ent.pdb  (skip)
+[385/2839] 1zmy.ent.pdb  (skip)
+[386/2839] 1zr0.ent.pdb  (skip)
+[387/2839] 1zsg.ent.pdb  (skip)
+[388/2839] 1zv5.ent.pdb  (skip)
+[389/2839] 1zvh.ent.pdb  (skip)
+[390/2839] 1zvy.ent.pdb  (skip)
+[391/2839] 2a24.ent.pdb  (skip)
+[392/2839] 2a6d.ent.pdb  (skip)
+[393/2839] 2a6i.ent.pdb  (skip)
+[394/2839] 2a6k.ent.pdb  (skip)
+[395/2839] 2a78.ent.pdb  (skip)
+[396/2839] 2a7u.ent.pdb  (skip)
+[397/2839] 2a9h.ent.pdb  (skip)
+[398/2839] 2a9k.ent.pdb  (skip)
+[399/2839] 2abz.ent.pdb  (skip)
+[400/2839] 2aep.ent.pdb  (skip)
+[401/2839] 2ajf.ent.pdb  (skip)
+[402/2839] 2ak4.ent.pdb  (skip)
+[403/2839] 2aq1.ent.pdb  (skip)
+[404/2839] 2aq2.ent.pdb  (skip)
+[405/2839] 2aq3.ent.pdb  (skip)
+[406/2839] 2arp.ent.pdb  (skip)
+[407/2839] 2ass.ent.pdb  (skip)
+[408/2839] 2ast.ent.pdb  (skip)
+[409/2839] 2aw2.ent.pdb  (skip)
+[410/2839] 2aze.ent.pdb  (skip)
+[411/2839] 2b0z.ent.pdb  (skip)
+[412/2839] 2b10.ent.pdb  (skip)
+[413/2839] 2b11.ent.pdb  (skip)
+[414/2839] 2b12.ent.pdb  (skip)
+[415/2839] 2b2w.ent.pdb  (skip)
+[416/2839] 2b2x.ent.pdb  (skip)
+[417/2839] 2b42.ent.pdb  (skip)
+[418/2839] 2b4j.ent.pdb  (skip)
+[419/2839] 2b5i.ent.pdb  (skip)
+[420/2839] 2b7c.ent.pdb  (skip)
+[421/2839] 2b87.ent.pdb
+[WARN] Timeout on 2b87 (atoms=73320, n_points=960); skipping
+[422/2839] 2bdn.ent.pdb
+[WRITE] 2bdn	23709.42
+[423/2839] 2be6.ent.pdb
+[WRITE] 2be6	24634.82
+[424/2839] 2bnq.ent.pdb
+[WRITE] 2bnq	38177.68
+[425/2839] 2bnr.ent.pdb
+[WRITE] 2bnr	38347.75
+[426/2839] 2bo9.ent.pdb
+[WRITE] 2bo9	42084.98
+[427/2839] 2bp7.ent.pdb
+[WRITE] 2bp7	89494.54
+[428/2839] 2bqz.ent.pdb
+[WRITE] 2bqz	20433.91
+[429/2839] 2btf.ent.pdb
+[WRITE] 2btf	22070.00
+[430/2839] 2bwe.ent.pdb
+[WRITE] 2bwe	54526.04
+[431/2839] 2byk.ent.pdb
+[WRITE] 2byk	16197.48
+[432/2839] 2bym.ent.pdb
+[WRITE] 2bym	15463.91
+[433/2839] 2c0l.ent.pdb
+[WRITE] 2c0l	18505.90
+[434/2839] 2c1m.ent.pdb
+[WRITE] 2c1m	20666.73
+[435/2839] 2c1t.ent.pdb
+[WRITE] 2c1t	38998.36
+[436/2839] 2c5d.ent.pdb
+[WRITE] 2c5d	51856.42
+[437/2839] 2c7m.ent.pdb
+[WRITE] 2c7m	8370.85
+[438/2839] 2c7n.ent.pdb
+[WRITE] 2c7n	44653.96
+[439/2839] 2cjs.ent.pdb
+[WRITE] 2cjs	20371.02
+[440/2839] 2cmr.ent.pdb
+[WRITE] 2cmr	27922.09
+[441/2839] 2cpk.ent.pdb
+[WRITE] 2cpk	15377.61
+[442/2839] 2d10.ent.pdb
+[WRITE] 2d10	62911.57
+[443/2839] 2d1k.ent.pdb
+[WRITE] 2d1k	27820.00
+[444/2839] 2dd8.ent.pdb
+[WRITE] 2dd8	28450.32
+[445/2839] 2den.ent.pdb
+[WRITE] 2den	7013.48
+[446/2839] 2djy.ent.pdb
+[WARN] Timeout on 2djy (atoms=25560, n_points=960); skipping
+[447/2839] 2dsp.ent.pdb
+[WRITE] 2dsp	8971.93
+[448/2839] 2dsq.ent.pdb
+[WRITE] 2dsq	22465.91
+[449/2839] 2dsr.ent.pdb
+[WRITE] 2dsr	12435.26
+[450/2839] 2dx5.ent.pdb
+[WRITE] 2dx5	10241.95
+[451/2839] 2efd.ent.pdb
+[WRITE] 2efd	38569.62
+[452/2839] 2efh.ent.pdb
+[WRITE] 2efh	37225.53
+[453/2839] 2erj.ent.pdb
+[WRITE] 2erj	70885.25
+[454/2839] 2es4.ent.pdb
+[WRITE] 2es4	48874.09
+[455/2839] 2f31.ent.pdb
+[WRITE] 2f31	12551.16
+[456/2839] 2f4m.ent.pdb
+[WRITE] 2f4m	18579.54
+[457/2839] 2f5z.ent.pdb
+[WRITE] 2f5z	184927.06
+[458/2839] 2f6a.ent.pdb
+[WRITE] 2f6a	63678.26
+[459/2839] 2f9z.ent.pdb
+[WRITE] 2f9z	31903.72
+[460/2839] 2fdb.ent.pdb
+[WRITE] 2fdb	29818.94
+[461/2839] 2few.ent.pdb
+[WRITE] 2few	12217.77
+[462/2839] 2fjg.ent.pdb
+[WRITE] 2fjg	46991.67
+[463/2839] 2fjh.ent.pdb
+[WRITE] 2fjh	50336.30
+[464/2839] 2fju.ent.pdb
+[WRITE] 2fju	38197.19
+[465/2839] 2ftl.ent.pdb
+[WRITE] 2ftl	11927.54
+[466/2839] 2ftm.ent.pdb
+[WRITE] 2ftm	11935.29
+[467/2839] 2fu5.ent.pdb
+[WRITE] 2fu5	26703.41
+[468/2839] 2fuh.ent.pdb
+[WARN] Timeout on 2fuh (atoms=35530, n_points=960); skipping
+[469/2839] 2fyl.ent.pdb
+[WRITE] 2fyl	10404.44
+[470/2839] 2g2u.ent.pdb
+[WRITE] 2g2u	16966.64
+[471/2839] 2g2w.ent.pdb
+[WRITE] 2g2w	17077.52
+[472/2839] 2g45.ent.pdb
+[WRITE] 2g45	20604.53
+[473/2839] 2g81.ent.pdb
+[WRITE] 2g81	11769.80
+[474/2839] 2g9h.ent.pdb
+[WRITE] 2g9h	28302.16
+[475/2839] 2gh0.ent.pdb
+[WRITE] 2gh0	29420.54
+[476/2839] 2gl7.ent.pdb
+[WRITE] 2gl7	47544.92
+[477/2839] 2gng.ent.pdb
+[WRITE] 2gng	17193.17
+[478/2839] 2gox.ent.pdb
+[WRITE] 2gox	29395.67
+[479/2839] 2gww.ent.pdb
+[WRITE] 2gww	15472.37
+[480/2839] 2h4m.ent.pdb
+[WRITE] 2h4m	74459.88
+[481/2839] 2h62.ent.pdb
+[WRITE] 2h62	19717.32
+[482/2839] 2h64.ent.pdb
+[WRITE] 2h64	18335.54
+[483/2839] 2h9g.ent.pdb
+[WRITE] 2h9g	46764.84
+[484/2839] 2hd5.ent.pdb
+[WRITE] 2hd5	15749.48
+[485/2839] 2hev.ent.pdb
+[WRITE] 2hev	16241.50
+[486/2839] 2hfg.ent.pdb
+[WRITE] 2hfg	21051.99
+[487/2839] 2hle.ent.pdb
+[WRITE] 2hle	15784.09
+[488/2839] 2hqs.ent.pdb
+[WRITE] 2hqs	81781.36
+[489/2839] 2hqw.ent.pdb
+[WRITE] 2hqw	8657.19
+[490/2839] 2hrk.ent.pdb
+[WRITE] 2hrk	15273.61
+[491/2839] 2hsq.ent.pdb
+[WRITE] 2hsq	16177.25
+[492/2839] 2hth.ent.pdb
+[WRITE] 2hth	12216.74
+[493/2839] 2hwn.ent.pdb
+[WRITE] 2hwn	12000.77
+[494/2839] 2i25.ent.pdb
+[WRITE] 2i25	22424.62
+[495/2839] 2i26.ent.pdb
+[WRITE] 2i26	34329.84
+[496/2839] 2i32.ent.pdb
+[WRITE] 2i32	18144.07
+[497/2839] 2i3s.ent.pdb
+[WRITE] 2i3s	45738.84
+[498/2839] 2i3t.ent.pdb
+[WRITE] 2i3t	60921.03
+[499/2839] 2i5y.ent.pdb
+[WRITE] 2i5y	71629.70
+[500/2839] 2i60.ent.pdb
+[WRITE] 2i60	71264.89
+[501/2839] 2i9b.ent.pdb
+[WRITE] 2i9b	75153.25
+[502/2839] 2ibf.ent.pdb
+[WRITE] 2ibf	15341.42
+[503/2839] 2iff.ent.pdb
+[WRITE] 2iff	24236.67
+[504/2839] 2ifg.ent.pdb
+[WRITE] 2ifg	49246.37
+[505/2839] 2ihs.ent.pdb
+[WRITE] 2ihs	20856.73
+[506/2839] 2ij0.ent.pdb
+[WRITE] 2ij0	28213.51
+[507/2839] 2ijo.ent.pdb
+[WRITE] 2ijo	12676.82
+[508/2839] 2iou.ent.pdb
+[WRITE] 2iou	109182.85
+[509/2839] 2iwg.ent.pdb
+[WRITE] 2iwg	37627.14
+[510/2839] 2ixq.ent.pdb
+[WRITE] 2ixq	14727.18
+[511/2839] 2iy0.ent.pdb
+[WRITE] 2iy0	22887.19
+[512/2839] 2iy1.ent.pdb
+[WRITE] 2iy1	31510.43
+[513/2839] 2iyb.ent.pdb
+[WRITE] 2iyb	34820.81
+[514/2839] 2j0t.ent.pdb
+[WRITE] 2j0t	41689.69
+[515/2839] 2j12.ent.pdb
+[WRITE] 2j12	14397.81
+[516/2839] 2j1k.ent.pdb
+[WRITE] 2j1k	137795.86
+[517/2839] 2j4w.ent.pdb
+[WRITE] 2j4w	21926.56
+[518/2839] 2j59.ent.pdb
+[WRITE] 2j59	78128.73
+[519/2839] 2j5l.ent.pdb
+[WRITE] 2j5l	21560.00
+[520/2839] 2j6e.ent.pdb
+[WRITE] 2j6e	58510.21
+[521/2839] 2j7p.ent.pdb
+[WRITE] 2j7p	44125.79
+[522/2839] 2j8s.ent.pdb
+[WRITE] 2j8s	129376.27
+[523/2839] 2j8u.ent.pdb
+[WRITE] 2j8u	77446.10
+[524/2839] 2j8x.ent.pdb
+[WRITE] 2j8x	26685.40
+[525/2839] 2jby.ent.pdb
+[WRITE] 2jby	8466.27
+[526/2839] 2jcc.ent.pdb
+[WRITE] 2jcc	77780.20
+[527/2839] 2jel.ent.pdb
+[WRITE] 2jel	23208.24
+[528/2839] 2jgz.ent.pdb
+[WRITE] 2jgz	24438.63
+[529/2839] 2jix.ent.pdb
+[WRITE] 2jix	85984.39
+[530/2839] 2jjs.ent.pdb
+[WRITE] 2jjs	23402.11
+[531/2839] 2jjt.ent.pdb
+[WRITE] 2jjt	21228.37
+[532/2839] 2jki.ent.pdb
+[WRITE] 2jki	44102.59
+[533/2839] 2jod.ent.pdb
+[WRITE] 2jod	8872.99
+[534/2839] 2jt4.ent.pdb
+[WARN] Timeout on 2jt4 (atoms=47540, n_points=960); skipping
+[535/2839] 2jti.ent.pdb
+[WARN] Timeout on 2jti (atoms=63780, n_points=960); skipping
+[536/2839] 2jtt.ent.pdb
+[WARN] Timeout on 2jtt (atoms=78120, n_points=960); skipping
+[537/2839] 2ju0.ent.pdb
+[WARN] Timeout on 2ju0 (atoms=54435, n_points=960); skipping
+[538/2839] 2jy6.ent.pdb
+[WRITE] 2jy6	7883.19
+[539/2839] 2jzn.ent.pdb
+[WRITE] 2jzn	19502.98
+[540/2839] 2k05.ent.pdb
+[WARN] Timeout on 2k05 (atoms=68580, n_points=960); skipping
+[541/2839] 2k2s.ent.pdb
+[WRITE] 2k2s	7965.89
+[542/2839] 2k2u.ent.pdb
+[WARN] Timeout on 2k2u (atoms=46380, n_points=960); skipping
+[543/2839] 2k3s.ent.pdb
+[WARN] Timeout on 2k3s (atoms=27600, n_points=960); skipping
+[544/2839] 2k3u.ent.pdb
+[WARN] Timeout on 2k3u (atoms=45975, n_points=960); skipping
+[545/2839] 2k42.ent.pdb
+[WARN] Timeout on 2k42 (atoms=33520, n_points=960); skipping
+[546/2839] 2k5b.ent.pdb
+[WARN] Timeout on 2k5b (atoms=54990, n_points=960); skipping
+[547/2839] 2k6d.ent.pdb
+[WRITE] 2k6d	8048.66
+[548/2839] 2k79.ent.pdb
+[WRITE] 2k79	9825.42
+[549/2839] 2k7a.ent.pdb
+[WARN] Timeout on 2k7a (atoms=54980, n_points=960); skipping
+[550/2839] 2k8b.ent.pdb
+[WRITE] 2k8b	10663.29
+[551/2839] 2k8c.ent.pdb
+[WRITE] 2k8c	10486.23
+[552/2839] 2k8f.ent.pdb
+[WRITE] 2k8f	10007.30
+[553/2839] 2ka4.ent.pdb
+[WARN] Timeout on 2ka4 (atoms=48940, n_points=960); skipping
+[554/2839] 2ka6.ent.pdb
+[WARN] Timeout on 2ka6 (atoms=42920, n_points=960); skipping
+[555/2839] 2kbw.ent.pdb
+[WARN] Timeout on 2kbw (atoms=30440, n_points=960); skipping
+[556/2839] 2kc8.ent.pdb
+[WARN] Timeout on 2kc8 (atoms=43080, n_points=960); skipping
+[557/2839] 2kde.ent.pdb
+[WRITE] 2kde	31476.91
+[558/2839] 2kgx.ent.pdb
+[WRITE] 2kgx	13585.45
+[559/2839] 2khs.ent.pdb
+[WARN] Timeout on 2khs (atoms=50600, n_points=960); skipping
+[560/2839] 2ki4.ent.pdb
+[WARN] Timeout on 2ki4 (atoms=150100, n_points=360); skipping
+[561/2839] 2kj4.ent.pdb
+[WARN] Timeout on 2kj4 (atoms=37820, n_points=960); skipping
+[562/2839] 2knb.ent.pdb
+[WARN] Timeout on 2knb (atoms=43960, n_points=960); skipping
+[563/2839] 2kqs.ent.pdb
+[WARN] Timeout on 2kqs (atoms=36760, n_points=960); skipping
+[564/2839] 2kri.ent.pdb
+[WRITE] 2kri	7790.52
+[565/2839] 2kt5.ent.pdb
+[WARN] Timeout on 2kt5 (atoms=49280, n_points=960); skipping
+[566/2839] 2ktf.ent.pdb
+[WARN] Timeout on 2ktf (atoms=34920, n_points=960); skipping
+[567/2839] 2kvq.ent.pdb
+[WARN] Timeout on 2kvq (atoms=39942, n_points=960); skipping
+[568/2839] 2kwi.ent.pdb
+[WARN] Timeout on 2kwi (atoms=195891, n_points=360); skipping
+[569/2839] 2kwj.ent.pdb
+[WARN] Timeout on 2kwj (atoms=40500, n_points=960); skipping
+[570/2839] 2kwk.ent.pdb
+[WARN] Timeout on 2kwk (atoms=40420, n_points=960); skipping
+[571/2839] 2kwo.ent.pdb
+[WARN] Timeout on 2kwo (atoms=39940, n_points=960); skipping
+[572/2839] 2kwu.ent.pdb
+[WARN] Timeout on 2kwu (atoms=36080, n_points=960); skipping
+[573/2839] 2kwv.ent.pdb
+[WARN] Timeout on 2kwv (atoms=36080, n_points=960); skipping
+[574/2839] 2kxh.ent.pdb
+[WARN] Timeout on 2kxh (atoms=70200, n_points=960); skipping
+[575/2839] 2kxw.ent.pdb
+[WARN] Timeout on 2kxw (atoms=34671, n_points=960); skipping
+[576/2839] 2kyg.ent.pdb
+[WARN] Timeout on 2kyg (atoms=32505, n_points=960); skipping
+[577/2839] 2l0f.ent.pdb
+[WARN] Timeout on 2l0f (atoms=39020, n_points=960); skipping
+[578/2839] 2l0t.ent.pdb
+[WARN] Timeout on 2l0t (atoms=37020, n_points=960); skipping
+[579/2839] 2l14.ent.pdb
+[WARN] Timeout on 2l14 (atoms=33860, n_points=960); skipping
+[580/2839] 2l1l.ent.pdb
+[WRITE] 2l1l	12243.54
+[581/2839] 2l29.ent.pdb
+[WARN] Timeout on 2l29 (atoms=62920, n_points=960); skipping
+[582/2839] 2l2l.ent.pdb
+[WARN] Timeout on 2l2l (atoms=26920, n_points=960); skipping
+[583/2839] 2l9s.ent.pdb
+[WARN] Timeout on 2l9s (atoms=43920, n_points=960); skipping
+[584/2839] 2ld7.ent.pdb
+[WARN] Timeout on 2ld7 (atoms=54020, n_points=960); skipping
+[585/2839] 2leh.ent.pdb
+[WARN] Timeout on 2leh (atoms=108894, n_points=480); skipping
+[586/2839] 2lfw.ent.pdb
+[WARN] Timeout on 2lfw (atoms=50955, n_points=960); skipping
+[587/2839] 2lkm.ent.pdb
+[WARN] Timeout on 2lkm (atoms=69460, n_points=960); skipping
+[588/2839] 2lnh.ent.pdb
+[WARN] Timeout on 2lnh (atoms=55640, n_points=960); skipping
+[589/2839] 2lnk.ent.pdb
+[WARN] Timeout on 2lnk (atoms=77900, n_points=960); skipping
+[590/2839] 2lox.ent.pdb
+[WARN] Timeout on 2lox (atoms=42640, n_points=960); skipping
+[591/2839] 2lp0.ent.pdb
+[WRITE] 2lp0	10005.44
+[592/2839] 2lp4.ent.pdb
+[WARN] Timeout on 2lp4 (atoms=134175, n_points=480); skipping
+[593/2839] 2lpb.ent.pdb
+[WRITE] 2lpb	27780.95
+[594/2839] 2lqc.ent.pdb
+[WARN] Timeout on 2lqc (atoms=30100, n_points=960); skipping
+[595/2839] 2lqh.ent.pdb
+[WARN] Timeout on 2lqh (atoms=42920, n_points=960); skipping
+[596/2839] 2luh.ent.pdb
+[WARN] Timeout on 2luh (atoms=71540, n_points=960); skipping
+[597/2839] 2lvo.ent.pdb
+[WARN] Timeout on 2lvo (atoms=41340, n_points=960); skipping
+[598/2839] 2lvp.ent.pdb
+[WARN] Timeout on 2lvp (atoms=65960, n_points=960); skipping
+[599/2839] 2lvq.ent.pdb
+[WARN] Timeout on 2lvq (atoms=79152, n_points=960); skipping
+[600/2839] 2lww.ent.pdb
+[WARN] Timeout on 2lww (atoms=51120, n_points=960); skipping
+[601/2839] 2lxm.ent.pdb
+[WARN] Timeout on 2lxm (atoms=31320, n_points=960); skipping
+[602/2839] 2lxp.ent.pdb
+[WARN] Timeout on 2lxp (atoms=75900, n_points=960); skipping
+[603/2839] 2ly4.ent.pdb
+[WRITE] 2ly4	24647.37
+[604/2839] 2lz6.ent.pdb
+[WRITE] 2lz6	8297.70
+[605/2839] 2m04.ent.pdb
+[WARN] Timeout on 2m04 (atoms=62500, n_points=960); skipping
+[606/2839] 2m0g.ent.pdb
+[WARN] Timeout on 2m0g (atoms=40040, n_points=960); skipping
+[607/2839] 2m0j.ent.pdb
+[WARN] Timeout on 2m0j (atoms=54880, n_points=960); skipping
+[608/2839] 2m49.ent.pdb
+[WARN] Timeout on 2m49 (atoms=69760, n_points=960); skipping
+[609/2839] 2m55.ent.pdb
+[WARN] Timeout on 2m55 (atoms=51040, n_points=960); skipping
+[610/2839] 2m5a.ent.pdb
+[WARN] Timeout on 2m5a (atoms=36460, n_points=960); skipping
+[611/2839] 2m5b.ent.pdb
+[WARN] Timeout on 2m5b (atoms=55660, n_points=960); skipping
+[612/2839] 2m86.ent.pdb
+[WRITE] 2m86	9827.73
+[613/2839] 2ma9.ent.pdb
+[WARN] Timeout on 2ma9 (atoms=46140, n_points=960); skipping
+[614/2839] 2mak.ent.pdb
+[WARN] Timeout on 2mak (atoms=69080, n_points=960); skipping
+[615/2839] 2mbb.ent.pdb
+[WARN] Timeout on 2mbb (atoms=36700, n_points=960); skipping
+[616/2839] 2mcn.ent.pdb
+[WRITE] 2mcn	7916.21
+[617/2839] 2mej.ent.pdb
+[WARN] Timeout on 2mej (atoms=66720, n_points=960); skipping
+[618/2839] 2mfq.ent.pdb
+[WARN] Timeout on 2mfq (atoms=44120, n_points=960); skipping
+[619/2839] 2mj5.ent.pdb
+[WRITE] 2mj5	8145.80
+[620/2839] 2mjw.ent.pdb
+[WARN] Timeout on 2mjw (atoms=60720, n_points=960); skipping
+[621/2839] 2mkc.ent.pdb
+[WARN] Timeout on 2mkc (atoms=54860, n_points=960); skipping
+[622/2839] 2mlx.ent.pdb
+[WARN] Timeout on 2mlx (atoms=81280, n_points=480); skipping
+[623/2839] 2mly.ent.pdb
+[WARN] Timeout on 2mly (atoms=90120, n_points=480); skipping
+[624/2839] 2mlz.ent.pdb
+[WARN] Timeout on 2mlz (atoms=83700, n_points=480); skipping
+[625/2839] 2mnu.ent.pdb
+[WARN] Timeout on 2mnu (atoms=35940, n_points=960); skipping
+[626/2839] 2mp0.ent.pdb
+[WRITE] 2mp0	20434.15
+[627/2839] 2mre.ent.pdb
+[WARN] Timeout on 2mre (atoms=35300, n_points=960); skipping
+[628/2839] 2mro.ent.pdb
+[WRITE] 2mro	7290.16
+[629/2839] 2mta.ent.pdb
+[WRITE] 2mta	31521.71
+[630/2839] 2mur.ent.pdb
+[WRITE] 2mur	7819.77
+[631/2839] 2mv7.ent.pdb
+[WRITE] 2mv7	11450.08
+[632/2839] 2mws.ent.pdb
+[WRITE] 2mws	8968.81
+[633/2839] 2mzd.ent.pdb
+[WARN] Timeout on 2mzd (atoms=26865, n_points=960); skipping
+[634/2839] 2n01.ent.pdb
+[WARN] Timeout on 2n01 (atoms=42000, n_points=960); skipping
+[635/2839] 2n13.ent.pdb
+[WARN] Timeout on 2n13 (atoms=78500, n_points=960); skipping
+[636/2839] 2n1d.ent.pdb
+[WARN] Timeout on 2n1d (atoms=73680, n_points=960); skipping
+[637/2839] 2n2h.ent.pdb
+[WARN] Timeout on 2n2h (atoms=50740, n_points=960); skipping
+[638/2839] 2n73.ent.pdb
+[WARN] Timeout on 2n73 (atoms=102735, n_points=480); skipping
+[639/2839] 2n8j.ent.pdb
+[WARN] Timeout on 2n8j (atoms=52300, n_points=960); skipping
+[640/2839] 2nbv.ent.pdb
+[WARN] Timeout on 2nbv (atoms=61740, n_points=960); skipping
+[641/2839] 2noj.ent.pdb
+[WRITE] 2noj	57287.57
+[642/2839] 2nqd.ent.pdb
+[WRITE] 2nqd	14815.96
+[643/2839] 2nup.ent.pdb
+[WRITE] 2nup	67538.34
+[644/2839] 2nut.ent.pdb
+[WRITE] 2nut	67958.13
+[645/2839] 2nyy.ent.pdb
+[WRITE] 2nyy	71687.96
+[646/2839] 2nyz.ent.pdb
+[WRITE] 2nyz	38075.85
+[647/2839] 2nz1.ent.pdb
+[WRITE] 2nz1	58946.71
+[648/2839] 2nz9.ent.pdb
+[WRITE] 2nz9	144573.13
+[649/2839] 2o3b.ent.pdb
+[WRITE] 2o3b	16617.59
+[650/2839] 2o8v.ent.pdb
+[WRITE] 2o8v	17236.90
+[651/2839] 2o98.ent.pdb
+[WRITE] 2o98	29080.38
+[652/2839] 2odg.ent.pdb
+[WRITE] 2odg	13019.44
+[653/2839] 2ody.ent.pdb
+[WRITE] 2ody	37454.79
+[654/2839] 2oin.ent.pdb
+[WRITE] 2oin	15947.46
+[655/2839] 2oje.ent.pdb
+[WRITE] 2oje	56899.29
+[656/2839] 2omt.ent.pdb
+[WRITE] 2omt	23091.54
+[657/2839] 2omu.ent.pdb
+[WRITE] 2omu	23154.16
+[658/2839] 2omv.ent.pdb
+[WRITE] 2omv	23218.38
+[659/2839] 2omw.ent.pdb
+[WRITE] 2omw	23274.98
+[660/2839] 2omx.ent.pdb
+[WRITE] 2omx	23121.29
+[661/2839] 2omy.ent.pdb
+[WRITE] 2omy	23405.02
+[662/2839] 2omz.ent.pdb
+[WRITE] 2omz	23655.64
+[663/2839] 2onl.ent.pdb
+[WRITE] 2onl	64909.94
+[664/2839] 2oob.ent.pdb
+[WRITE] 2oob	6958.33
+[665/2839] 2oor.ent.pdb
+[WRITE] 2oor	37409.94
+[666/2839] 2oqj.ent.pdb
+[WRITE] 2oqj	79695.60
+[667/2839] 2ot3.ent.pdb
+[WRITE] 2ot3	19212.25
+[668/2839] 2ot8.ent.pdb
+[WRITE] 2ot8	74073.15
+[669/2839] 2otk.ent.pdb
+[WARN] Timeout on 2otk (atoms=39720, n_points=960); skipping
+[670/2839] 2oul.ent.pdb
+[WRITE] 2oul	16583.26
+[671/2839] 2oza.ent.pdb
+[WRITE] 2oza	31158.73
+[672/2839] 2p1l.ent.pdb
+[WRITE] 2p1l	30009.48
+[673/2839] 2p3f.ent.pdb
+[WRITE] 2p3f	17429.70
+[674/2839] 2p42.ent.pdb
+[WRITE] 2p42	24572.46
+[675/2839] 2p43.ent.pdb
+[WRITE] 2p43	12438.06
+[676/2839] 2p44.ent.pdb
+[WRITE] 2p44	12585.55
+[677/2839] 2p45.ent.pdb
+[WRITE] 2p45	12679.05
+[678/2839] 2p46.ent.pdb
+[WRITE] 2p46	23318.08
+[679/2839] 2p47.ent.pdb
+[WRITE] 2p47	12630.17
+[680/2839] 2p48.ent.pdb
+[WRITE] 2p48	12730.09
+[681/2839] 2p49.ent.pdb
+[WRITE] 2p49	11961.32
+[682/2839] 2p4a.ent.pdb
+[WRITE] 2p4a	23168.11
+[683/2839] 2p5e.ent.pdb
+[WRITE] 2p5e	37693.41
+[684/2839] 2p5t.ent.pdb
+[WRITE] 2p5t	65187.20
+[685/2839] 2p8q.ent.pdb
+[WRITE] 2p8q	41750.29
+[686/2839] 2pcb.ent.pdb
+[WRITE] 2pcb	30890.80
+[687/2839] 2pcc.ent.pdb
+[WRITE] 2pcc	35561.10
+[688/2839] 2phe.ent.pdb
+[WRITE] 2phe	9429.46
+[689/2839] 2pjy.ent.pdb
+[WRITE] 2pjy	17637.39
+[690/2839] 2pkg.ent.pdb
+[WRITE] 2pkg	61302.50
+[691/2839] 2pms.ent.pdb
+[WRITE] 2pms	43085.61
+[692/2839] 2pon.ent.pdb
+[WARN] Timeout on 2pon (atoms=55920, n_points=960); skipping
+[693/2839] 2pop.ent.pdb
+[WRITE] 2pop	37608.88
+[694/2839] 2psm.ent.pdb
+[WRITE] 2psm	18853.66
+[695/2839] 2ptc.ent.pdb
+[WRITE] 2ptc	11788.16
+[696/2839] 2ptt.ent.pdb
+[WRITE] 2ptt	11453.97
+[697/2839] 2pw8.ent.pdb
+[WRITE] 2pw8	15429.18
+[698/2839] 2px9.ent.pdb
+[WARN] Timeout on 2px9 (atoms=119680, n_points=480); skipping
+[699/2839] 2pye.ent.pdb
+[WRITE] 2pye	39214.71
+[700/2839] 2q0o.ent.pdb
+[WRITE] 2q0o	31297.11
+[701/2839] 2q5d.ent.pdb
+[WRITE] 2q5d	84396.67
+[702/2839] 2q7n.ent.pdb
+[WRITE] 2q7n	63622.11
+[703/2839] 2qc1.ent.pdb
+[WRITE] 2qc1	15569.96
+[704/2839] 2qej.ent.pdb
+[WRITE] 2qej	38878.47
+[705/2839] 2qho.ent.pdb
+[WRITE] 2qho	24242.26
+[706/2839] 2qiy.ent.pdb
+[WRITE] 2qiy	15025.35
+[707/2839] 2qj9.ent.pdb
+[WRITE] 2qj9	19940.88
+[708/2839] 2qja.ent.pdb
+[WRITE] 2qja	20154.29
+[709/2839] 2qjb.ent.pdb
+[WRITE] 2qjb	19399.63
+[710/2839] 2qna.ent.pdb
+[WRITE] 2qna	37032.88
+[711/2839] 2qr0.ent.pdb
+[WRITE] 2qr0	192691.51
+[712/2839] 2qur.ent.pdb
+[WRITE] 2qur	16630.60
+[713/2839] 2qxv.ent.pdb
+[WRITE] 2qxv	15560.55
+[714/2839] 2r0k.ent.pdb
+[WRITE] 2r0k	28522.84
+[715/2839] 2r0l.ent.pdb
+[WRITE] 2r0l	29840.46
+[716/2839] 2r56.ent.pdb
+[WRITE] 2r56	51409.50
+[717/2839] 2r9p.ent.pdb
+[WRITE] 2r9p	47700.22
+[718/2839] 2ra3.ent.pdb
+[WRITE] 2ra3	24062.41
+[719/2839] 2rf9.ent.pdb
+[WRITE] 2rf9	28171.86
+[720/2839] 2rgn.ent.pdb
+[WRITE] 2rgn	79498.71
+[721/2839] 2rmk.ent.pdb
+[WARN] Timeout on 2rmk (atoms=110425, n_points=480); skipping
+[722/2839] 2rms.ent.pdb
+[WARN] Timeout on 2rms (atoms=39180, n_points=960); skipping
+[723/2839] 2rnr.ent.pdb
+[WARN] Timeout on 2rnr (atoms=54340, n_points=960); skipping
+[724/2839] 2roz.ent.pdb
+[WARN] Timeout on 2roz (atoms=50580, n_points=960); skipping
+[725/2839] 2rr3.ent.pdb
+[WARN] Timeout on 2rr3 (atoms=53780, n_points=960); skipping
+[726/2839] 2ru4.ent.pdb
+[WARN] Timeout on 2ru4 (atoms=59680, n_points=960); skipping
+[727/2839] 2ruk.ent.pdb
+[WARN] Timeout on 2ruk (atoms=41920, n_points=960); skipping
+[728/2839] 2rvb.ent.pdb
+[WARN] Timeout on 2rvb (atoms=49620, n_points=960); skipping
+[729/2839] 2sic.ent.pdb
+[WRITE] 2sic	14401.32
+[730/2839] 2sni.ent.pdb
+[WRITE] 2sni	12804.32
+[731/2839] 2tgp.ent.pdb
+[WRITE] 2tgp	12283.27
+[732/2839] 2uuy.ent.pdb
+[WRITE] 2uuy	11903.42
+[733/2839] 2uwe.ent.pdb
+[WRITE] 2uwe	76482.15
+[734/2839] 2uxn.ent.pdb
+[WRITE] 2uxn	39338.43
+[735/2839] 2uyz.ent.pdb
+[WRITE] 2uyz	12950.11
+[736/2839] 2uzi.ent.pdb
+[WRITE] 2uzi	16791.00
+[737/2839] 2v1d.ent.pdb
+[WRITE] 2v1d	38872.63
+[738/2839] 2v2w.ent.pdb
+[WRITE] 2v2w	37690.69
+[739/2839] 2v3b.ent.pdb
+[WRITE] 2v3b	19727.49
+[740/2839] 2v4z.ent.pdb
+[WRITE] 2v4z	20395.43
+[741/2839] 2v51.ent.pdb
+[WRITE] 2v51	32246.37
+[742/2839] 2v52.ent.pdb
+[WRITE] 2v52	17256.31
+[743/2839] 2v5q.ent.pdb
+[WRITE] 2v5q	36523.51
+[744/2839] 2v6x.ent.pdb
+[WRITE] 2v6x	8404.92
+[745/2839] 2v8s.ent.pdb
+[WRITE] 2v8s	13823.24
+[746/2839] 2v9t.ent.pdb
+[WRITE] 2v9t	15686.21
+[747/2839] 2vay.ent.pdb
+[WRITE] 2vay	8958.75
+[748/2839] 2vda.ent.pdb
+[WARN] Timeout on 2vda (atoms=129950, n_points=480); skipping
+[749/2839] 2vdb.ent.pdb
+[WRITE] 2vdb	31761.10
+[750/2839] 2ve7.ent.pdb
+[WRITE] 2ve7	58264.14
+[751/2839] 2ver.ent.pdb
+[WRITE] 2ver	12124.37
+[752/2839] 2vfx.ent.pdb
+[WRITE] 2vfx	132798.28
+[753/2839] 2vir.ent.pdb
+[WRITE] 2vir	30305.37
+[754/2839] 2vis.ent.pdb
+[WRITE] 2vis	30201.48
+[755/2839] 2vlj.ent.pdb
+[WRITE] 2vlj	39269.26
+[756/2839] 2vln.ent.pdb
+[WRITE] 2vln	11367.53
+[757/2839] 2vlo.ent.pdb
+[WRITE] 2vlo	12245.83
+[758/2839] 2vlp.ent.pdb
+[WRITE] 2vlp	11397.30
+[759/2839] 2vlq.ent.pdb
+[WRITE] 2vlq	11466.86
+[760/2839] 2vlr.ent.pdb
+[WRITE] 2vlr	80016.92
+[761/2839] 2vof.ent.pdb
+[WRITE] 2vof	16253.63
+[762/2839] 2vog.ent.pdb
+[WRITE] 2vog	8647.25
+[763/2839] 2voh.ent.pdb
+[WRITE] 2voh	9515.69
+[764/2839] 2voi.ent.pdb
+[WRITE] 2voi	9227.97
+[765/2839] 2vsm.ent.pdb
+[WRITE] 2vsm	23291.60
+[766/2839] 2vwe.ent.pdb
+[WRITE] 2vwe	49296.47
+[767/2839] 2vxq.ent.pdb
+[WRITE] 2vxq	22991.79
+[768/2839] 2vxs.ent.pdb
+[WRITE] 2vxs	93335.25
+[769/2839] 2vxt.ent.pdb
+[WRITE] 2vxt	26318.43
+[770/2839] 2vyr.ent.pdb
+[WRITE] 2vyr	61256.44
+[771/2839] 2w19.ent.pdb
+[WRITE] 2w19	41812.68
+[772/2839] 2w2m.ent.pdb
+[WRITE] 2w2m	18477.50
+[773/2839] 2w2n.ent.pdb
+[WRITE] 2w2n	18427.37
+[774/2839] 2w2x.ent.pdb
+[WRITE] 2w2x	27538.50
+[775/2839] 2w80.ent.pdb
+[WRITE] 2w80	69311.92
+[776/2839] 2w81.ent.pdb
+[WRITE] 2w81	49076.83
+[777/2839] 2w83.ent.pdb
+[WRITE] 2w83	30368.12
+[778/2839] 2w84.ent.pdb
+[WRITE] 2w84	6424.27
+[779/2839] 2w8b.ent.pdb
+[WRITE] 2w8b	80540.28
+[780/2839] 2w9e.ent.pdb
+[WRITE] 2w9e	24261.27
+[781/2839] 2wbj.ent.pdb
+[WRITE] 2wbj	77296.22
+[782/2839] 2wby.ent.pdb
+[WRITE] 2wby	77384.89
+[783/2839] 2wd5.ent.pdb
+[WRITE] 2wd5	19343.95
+[784/2839] 2wel.ent.pdb
+[WRITE] 2wel	24338.62
+[785/2839] 2wfx.ent.pdb
+[WRITE] 2wfx	26893.10
+[786/2839] 2wg3.ent.pdb
+[WRITE] 2wg3	51889.05
+[787/2839] 2wg4.ent.pdb
+[WRITE] 2wg4	27080.42
+[788/2839] 2wh6.ent.pdb
+[WRITE] 2wh6	8867.03
+[789/2839] 2wii.ent.pdb
+[WRITE] 2wii	81695.61
+[790/2839] 2wjv.ent.pdb
+[WRITE] 2wjv	78919.12
+[791/2839] 2wo2.ent.pdb
+[WRITE] 2wo2	15874.81
+[792/2839] 2wo3.ent.pdb
+[WRITE] 2wo3	16061.47
+[793/2839] 2wp0.ent.pdb
+[WRITE] 2wp0	26893.12
+[794/2839] 2wp3.ent.pdb
+[WRITE] 2wp3	10020.17
+[795/2839] 2wpt.ent.pdb
+[WRITE] 2wpt	10225.09
+[796/2839] 2wqz.ent.pdb
+[WRITE] 2wqz	60579.91
+[797/2839] 2wss.ent.pdb
+[WRITE] 2wss	282633.62
+[798/2839] 2wub.ent.pdb
+[WRITE] 2wub	56825.55
+[799/2839] 2wuc.ent.pdb
+[WRITE] 2wuc	28787.43
+[800/2839] 2wus.ent.pdb
+[WRITE] 2wus	39601.65
+[801/2839] 2wvw.ent.pdb
+[WRITE] 2wvw	187633.87
+[802/2839] 2wwk.ent.pdb
+[WRITE] 2wwk	10808.08
+[803/2839] 2wwx.ent.pdb
+[WRITE] 2wwx	17353.15
+[804/2839] 2wx0.ent.pdb
+[WRITE] 2wx0	18565.85
+[805/2839] 2wy2.ent.pdb
+[WARN] Timeout on 2wy2 (atoms=411648, n_points=240); skipping
+[806/2839] 2wy3.ent.pdb
+[WRITE] 2wy3	30777.25
+[807/2839] 2wy8.ent.pdb
+[WRITE] 2wy8	15835.28
+[808/2839] 2x1w.ent.pdb
+[WRITE] 2x1w	59039.33
+[809/2839] 2x1x.ent.pdb
+[WRITE] 2x1x	18119.10
+[810/2839] 2x2d.ent.pdb
+[WRITE] 2x2d	29702.84
+[811/2839] 2x89.ent.pdb
+[WRITE] 2x89	37429.75
+[812/2839] 2x9a.ent.pdb
+[WRITE] 2x9a	13557.04
+[813/2839] 2xa0.ent.pdb
+[WRITE] 2xa0	15922.04
+[814/2839] 2xb6.ent.pdb
+[WRITE] 2xb6	56814.63
+[815/2839] 2xbb.ent.pdb
+[WRITE] 2xbb	45652.39
+[816/2839] 2xdf.ent.pdb
+[WRITE] 2xdf	66954.45
+[817/2839] 2xgy.ent.pdb
+[WRITE] 2xgy	13377.62
+[818/2839] 2xhe.ent.pdb
+[WRITE] 2xhe	37702.39
+[819/2839] 2xns.ent.pdb
+[WRITE] 2xns	33856.81
+[820/2839] 2xpx.ent.pdb
+[WRITE] 2xpx	8981.72
+[821/2839] 2xqb.ent.pdb
+[WRITE] 2xqb	23560.26
+[822/2839] 2xqr.ent.pdb
+[WRITE] 2xqr	159602.14
+[823/2839] 2xqw.ent.pdb
+[WRITE] 2xqw	29680.73
+[824/2839] 2xra.ent.pdb
+[WRITE] 2xra	29846.11
+[825/2839] 2xtj.ent.pdb
+[WRITE] 2xtj	34430.77
+[826/2839] 2xtt.ent.pdb
+[WRITE] 2xtt	10507.88
+[827/2839] 2xzd.ent.pdb
+[WRITE] 2xzd	29028.97
+[828/2839] 2xze.ent.pdb
+[WRITE] 2xze	19288.75
+[829/2839] 2y0b.ent.pdb
+[WRITE] 2y0b	28723.88
+[830/2839] 2y48.ent.pdb
+[WRITE] 2y48	39431.45
+[831/2839] 2y5b.ent.pdb
+[WRITE] 2y5b	42796.15
+[832/2839] 2y6t.ent.pdb
+[WRITE] 2y6t	66204.19
+[833/2839] 2y8s.ent.pdb
+[WRITE] 2y8s	36654.29
+[834/2839] 2y8t.ent.pdb
+[WRITE] 2y8t	36420.75
+[835/2839] 2y9m.ent.pdb
+[WRITE] 2y9m	14375.77
+[836/2839] 2ybr.ent.pdb
+[WRITE] 2ybr	39977.70
+[837/2839] 2ygg.ent.pdb
+[WRITE] 2ygg	14858.39
+[838/2839] 2yj1.ent.pdb
+[WRITE] 2yj1	14997.43
+[839/2839] 2ypl.ent.pdb
+[WRITE] 2ypl	39960.65
+[840/2839] 2ypv.ent.pdb
+[WRITE] 2ypv	29041.54
+[841/2839] 2yq7.ent.pdb
+[WRITE] 2yq7	9761.51
+[842/2839] 2yvj.ent.pdb
+[WRITE] 2yvj	38633.91
+[843/2839] 2z34.ent.pdb
+[WRITE] 2z34	18788.45
+[844/2839] 2z3q.ent.pdb
+[WRITE] 2z3q	21499.94
+[845/2839] 2z3r.ent.pdb
+[WRITE] 2z3r	77175.89
+[846/2839] 2z58.ent.pdb
+[WRITE] 2z58	13869.17
+[847/2839] 2z7f.ent.pdb
+[WRITE] 2z7f	12653.83
+[848/2839] 2z8v.ent.pdb
+[WRITE] 2z8v	40676.39
+[849/2839] 2z8w.ent.pdb
+[WRITE] 2z8w	40803.57
+[850/2839] 2za4.ent.pdb
+[WRITE] 2za4	19210.23
+[851/2839] 2zvk.ent.pdb
+[WRITE] 2zvk	35845.09
+[852/2839] 2zvn.ent.pdb
+[WRITE] 2zvn	51497.29
+[853/2839] 2zvo.ent.pdb
+[WRITE] 2zvo	27682.26
+[854/2839] 2zxx.ent.pdb
+[WRITE] 2zxx	41280.30
+[855/2839] 3a4s.ent.pdb
+[WRITE] 3a4s	24537.18
+[856/2839] 3a67.ent.pdb
+[WRITE] 3a67	15040.69
+[857/2839] 3a6b.ent.pdb
+[WRITE] 3a6b	15121.78
+[858/2839] 3a6c.ent.pdb
+[WRITE] 3a6c	15079.72
+[859/2839] 3aa0.ent.pdb
+[WRITE] 3aa0	23870.92
+[860/2839] 3aa6.ent.pdb
+[WRITE] 3aa6	23744.38
+[861/2839] 3aaa.ent.pdb
+[WRITE] 3aaa	29569.36
+[862/2839] 3ajb.ent.pdb
+[WRITE] 3ajb	15053.30
+[863/2839] 3alz.ent.pdb
+[WRITE] 3alz	25320.98
+[864/2839] 3aon.ent.pdb
+[WRITE] 3aon	15897.71
+[865/2839] 3au4.ent.pdb
+[WRITE] 3au4	28982.13
+[866/2839] 3ay4.ent.pdb
+[WRITE] 3ay4	30237.42
+[867/2839] 3b08.ent.pdb
+[WRITE] 3b08	40964.83
+[868/2839] 3b23.ent.pdb
+[WRITE] 3b23	14473.63
+[869/2839] 3b2u.ent.pdb
+[WRITE] 3b2u	214276.23
+[870/2839] 3b2v.ent.pdb
+[WRITE] 3b2v	39205.06
+[871/2839] 3b4v.ent.pdb
+[WRITE] 3b4v	64409.09
+[872/2839] 3b9f.ent.pdb
+[WRITE] 3b9f	28105.46
+[873/2839] 3bdy.ent.pdb
+[WRITE] 3bdy	26302.35
+[874/2839] 3beg.ent.pdb
+[WRITE] 3beg	21525.08
+[875/2839] 3bg4.ent.pdb
+[WRITE] 3bg4	12595.47
+[876/2839] 3bgf.ent.pdb
+[WRITE] 3bgf	55667.21
+[877/2839] 3bh6.ent.pdb
+[WRITE] 3bh6	20866.21
+[878/2839] 3bik.ent.pdb
+[WRITE] 3bik	23529.81
+[879/2839] 3biw.ent.pdb
+[WRITE] 3biw	108936.16
+[880/2839] 3bk3.ent.pdb
+[WRITE] 3bk3	19975.18
+[881/2839] 3bky.ent.pdb
+[WRITE] 3bky	20780.43
+[882/2839] 3blh.ent.pdb
+[WRITE] 3blh	27502.85
+[883/2839] 3bn3.ent.pdb
+[WRITE] 3bn3	19353.40
+[884/2839] 3bow.ent.pdb
+[WRITE] 3bow	40255.23
+[885/2839] 3bp8.ent.pdb
+[WRITE] 3bp8	40401.73
+[886/2839] 3bpl.ent.pdb
+[WRITE] 3bpl	27220.91
+[887/2839] 3bpn.ent.pdb
+[WRITE] 3bpn	32144.58
+[888/2839] 3bpo.ent.pdb
+[WRITE] 3bpo	29998.24
+[889/2839] 3brt.ent.pdb
+[WRITE] 3brt	12459.88
+[890/2839] 3brv.ent.pdb
+[WRITE] 3brv	12147.24
+[891/2839] 3bs5.ent.pdb
+[WRITE] 3bs5	9580.15
+[892/2839] 3bx1.ent.pdb
+[WRITE] 3bx1	31621.52
+[893/2839] 3bzd.ent.pdb
+[WRITE] 3bzd	16362.83
+[894/2839] 3c09.ent.pdb
+[WRITE] 3c09	50322.55
+[895/2839] 3c4m.ent.pdb
+[WRITE] 3c4m	42388.33
+[896/2839] 3c4o.ent.pdb
+[WRITE] 3c4o	16904.17
+[897/2839] 3c4p.ent.pdb
+[WRITE] 3c4p	16968.40
+[898/2839] 3c59.ent.pdb
+[WRITE] 3c59	8419.54
+[899/2839] 3c5t.ent.pdb
+[WRITE] 3c5t	8661.85
+[900/2839] 3c66.ent.pdb
+[WRITE] 3c66	51032.73
+[901/2839] 3c8k.ent.pdb
+[WRITE] 3c8k	25493.30
+[902/2839] 3c9a.ent.pdb
+[WRITE] 3c9a	26873.65
+[903/2839] 3ch5.ent.pdb
+[WRITE] 3ch5	11816.00
+[904/2839] 3chw.ent.pdb
+[WRITE] 3chw	21924.19
+[905/2839] 3cqc.ent.pdb
+[WRITE] 3cqc	24490.40
+[906/2839] 3cqg.ent.pdb
+[WRITE] 3cqg	22438.98
+[907/2839] 3cqx.ent.pdb
+[WRITE] 3cqx	41568.64
+[908/2839] 3crk.ent.pdb
+[WRITE] 3crk	40813.00
+[909/2839] 3cx6.ent.pdb
+[WRITE] 3cx6	23979.48
+[910/2839] 3cx7.ent.pdb
+[WRITE] 3cx7	24326.92
+[911/2839] 3cx8.ent.pdb
+[WRITE] 3cx8	24553.70
+[912/2839] 3d1m.ent.pdb
+[WRITE] 3d1m	21978.67
+[913/2839] 3d2u.ent.pdb
+[WRITE] 3d2u	52549.90
+[914/2839] 3d39.ent.pdb
+[WRITE] 3d39	39307.58
+[915/2839] 3d3v.ent.pdb
+[WRITE] 3d3v	39638.55
+[916/2839] 3d5o.ent.pdb
+[WRITE] 3d5o	48676.20
+[917/2839] 3d5r.ent.pdb
+[WRITE] 3d5r	29393.92
+[918/2839] 3d5s.ent.pdb
+[WRITE] 3d5s	29572.34
+[919/2839] 3d7t.ent.pdb
+[WRITE] 3d7t	25912.20
+[920/2839] 3d7u.ent.pdb
+[WRITE] 3d7u	50225.31
+[921/2839] 3da7.ent.pdb
+[WRITE] 3da7	37175.24
+[922/2839] 3dbh.ent.pdb
+[WRITE] 3dbh	166107.05
+[923/2839] 3dbl.ent.pdb
+[WRITE] 3dbl	165915.55
+[924/2839] 3dbr.ent.pdb
+[WRITE] 3dbr	165468.80
+[925/2839] 3dco.ent.pdb
+[WRITE] 3dco	43015.26
+[926/2839] 3ddc.ent.pdb
+[WRITE] 3ddc	15457.96
+[927/2839] 3di2.ent.pdb
+[WRITE] 3di2	32191.81
+[928/2839] 3di3.ent.pdb
+[WRITE] 3di3	16745.20
+[929/2839] 3dmm.ent.pdb
+[WRITE] 3dmm	30575.49
+[930/2839] 3doe.ent.pdb
+[WRITE] 3doe	16230.14
+[931/2839] 3dvg.ent.pdb
+[WRITE] 3dvg	27284.19
+[932/2839] 3dvm.ent.pdb
+[WRITE] 3dvm	8801.23
+[933/2839] 3dvn.ent.pdb
+[WRITE] 3dvn	52039.08
+[934/2839] 3dvu.ent.pdb
+[WRITE] 3dvu	16027.67
+[935/2839] 3dxa.ent.pdb
+[WRITE] 3dxa	115016.00
+[936/2839] 3dxc.ent.pdb
+[WRITE] 3dxc	14778.39
+[937/2839] 3dxd.ent.pdb
+[WRITE] 3dxd	14893.65
+[938/2839] 3dxe.ent.pdb
+[WRITE] 3dxe	15035.30
+[939/2839] 3e1z.ent.pdb
+[WRITE] 3e1z	14167.75
+[940/2839] 3e2h.ent.pdb
+[WRITE] 3e2h	17971.15
+[941/2839] 3e2k.ent.pdb
+[WRITE] 3e2k	32439.36
+[942/2839] 3e2l.ent.pdb
+[WRITE] 3e2l	32602.63
+[943/2839] 3e2u.ent.pdb
+[WRITE] 3e2u	18924.00
+[944/2839] 3e3q.ent.pdb
+[WRITE] 3e3q	130648.57
+[945/2839] 3eab.ent.pdb
+[WRITE] 3eab	42525.93
+[946/2839] 3eba.ent.pdb
+[WRITE] 3eba	11582.87
+[947/2839] 3ech.ent.pdb
+[WRITE] 3ech	15260.61
+[948/2839] 3eg5.ent.pdb
+[WRITE] 3eg5	51414.10
+[949/2839] 3egg.ent.pdb
+[WRITE] 3egg	33895.51
+[950/2839] 3ehu.ent.pdb
+[WRITE] 3ehu	40445.76
+[951/2839] 3eiq.ent.pdb
+[WRITE] 3eiq	49362.40
+[952/2839] 3ejh.ent.pdb
+[WRITE] 3ejh	14244.27
+[953/2839] 3ejj.ent.pdb
+[WRITE] 3ejj	29673.92
+[954/2839] 3eo1.ent.pdb
+[WRITE] 3eo1	98426.20
+[955/2839] 3eoa.ent.pdb
+[WRITE] 3eoa	53826.49
+[956/2839] 3eob.ent.pdb
+[WRITE] 3eob	54149.46
+[957/2839] 3eoy.ent.pdb
+[WRITE] 3eoy	61461.60
+[958/2839] 3etb.ent.pdb
+[WRITE] 3etb	64065.04
+[959/2839] 3ew3.ent.pdb
+[WRITE] 3ew3	30605.76
+[960/2839] 3f1p.ent.pdb
+[WRITE] 3f1p	11496.51
+[961/2839] 3f4y.ent.pdb
+[WRITE] 3f4y	11855.19
+[962/2839] 3f50.ent.pdb
+[WRITE] 3f50	5296.10
+[963/2839] 3f5c.ent.pdb
+[WRITE] 3f5c	32718.84
+[964/2839] 3f7p.ent.pdb
+[WRITE] 3f7p	49489.70
+[965/2839] 3ff7.ent.pdb
+[WRITE] 3ff7	20359.66
+[966/2839] 3ff8.ent.pdb
+[WRITE] 3ff8	20547.42
+[967/2839] 3ffc.ent.pdb
+[WRITE] 3ffc	73878.82
+[968/2839] 3fhc.ent.pdb
+[WRITE] 3fhc	27302.71
+[969/2839] 3fie.ent.pdb
+[WRITE] 3fie	36515.74
+[970/2839] 3fii.ent.pdb
+[WRITE] 3fii	18742.96
+[971/2839] 3fju.ent.pdb
+[WRITE] 3fju	15306.03
+[972/2839] 3fku.ent.pdb
+[WRITE] 3fku	186830.56
+[973/2839] 3fp6.ent.pdb
+[WRITE] 3fp6	12010.55
+[974/2839] 3fpu.ent.pdb
+[WRITE] 3fpu	9769.36
+[975/2839] 3fsh.ent.pdb
+[WRITE] 3fsh	19200.25
+[976/2839] 3fxd.ent.pdb
+[WRITE] 3fxd	10301.94
+[977/2839] 3g3a.ent.pdb
+[WRITE] 3g3a	46783.97
+[978/2839] 3g3b.ent.pdb
+[WRITE] 3g3b	46333.37
+[979/2839] 3g6d.ent.pdb
+[WRITE] 3g6d	24834.23
+[980/2839] 3g6j.ent.pdb
+[WRITE] 3g6j	175928.03
+[981/2839] 3g7a.ent.pdb
+[WRITE] 3g7a	5654.65
+[982/2839] 3g7z.ent.pdb
+[WRITE] 3g7z	11518.36
+[983/2839] 3g9v.ent.pdb
+[WRITE] 3g9v	29200.13
+[984/2839] 3g9w.ent.pdb
+[WRITE] 3g9w	29169.23
+[985/2839] 3gb8.ent.pdb
+[WRITE] 3gb8	56446.13
+[986/2839] 3gc3.ent.pdb
+[WRITE] 3gc3	32189.91
+[987/2839] 3gd1.ent.pdb
+[WRITE] 3gd1	47950.00
+[988/2839] 3gj3.ent.pdb
+[WRITE] 3gj3	11387.94
+[989/2839] 3gj4.ent.pdb
+[WRITE] 3gj4	21396.08
+[990/2839] 3gj5.ent.pdb
+[WRITE] 3gj5	21737.17
+[991/2839] 3gj6.ent.pdb
+[WRITE] 3gj6	11401.80
+[992/2839] 3gj7.ent.pdb
+[WRITE] 3gj7	21677.10
+[993/2839] 3gj8.ent.pdb
+[WRITE] 3gj8	22448.02
+[994/2839] 3gjf.ent.pdb
+[WRITE] 3gjf	73415.96
+[995/2839] 3gjn.ent.pdb
+[WRITE] 3gjn	20222.02
+[996/2839] 3gmw.ent.pdb
+[WRITE] 3gmw	32261.48
+[997/2839] 3gni.ent.pdb
+[WRITE] 3gni	31698.51
+[998/2839] 3gqi.ent.pdb
+[WRITE] 3gqi	27331.29
+[999/2839] 3gs2.ent.pdb
+[WRITE] 3gs2	15534.19
+[1000/2839] 3gsn.ent.pdb
+[WRITE] 3gsn	39181.37
+[1001/2839] 3gty.ent.pdb
+[WRITE] 3gty	34618.84
+[1002/2839] 3gxu.ent.pdb
+[WRITE] 3gxu	15875.50
+[1003/2839] 3h2u.ent.pdb
+[WRITE] 3h2u	43653.02
+[1004/2839] 3h2v.ent.pdb
+[WRITE] 3h2v	47970.82
+[1005/2839] 3h3g.ent.pdb
+[WRITE] 3h3g	23845.67
+[1006/2839] 3h3p.ent.pdb
+[WRITE] 3h3p	22153.73
+[1007/2839] 3h42.ent.pdb
+[WRITE] 3h42	42668.67
+[1008/2839] 3h6g.ent.pdb
+[WRITE] 3h6g	32654.99
+[1009/2839] 3h6s.ent.pdb
+[WRITE] 3h6s	62350.13
+[1010/2839] 3h7b.ent.pdb
+[WRITE] 3h7b	37871.89
+[1011/2839] 3h8d.ent.pdb
+[WRITE] 3h8d	32182.95
+[1012/2839] 3h8k.ent.pdb
+[WRITE] 3h8k	10485.86
+[1013/2839] 3h9h.ent.pdb
+[WRITE] 3h9h	37913.36
+[1014/2839] 3hae.ent.pdb
+[WRITE] 3hae	147699.55
+[1015/2839] 3hct.ent.pdb
+[WRITE] 3hct	14780.40
+[1016/2839] 3hcu.ent.pdb
+[WRITE] 3hcu	27305.65
+[1017/2839] 3he6.ent.pdb
+[WRITE] 3he6	41531.36
+[1018/2839] 3he7.ent.pdb
+[WRITE] 3he7	41143.22
+[1019/2839] 3hg0.ent.pdb
+[WRITE] 3hg0	21126.09
+[1020/2839] 3hh2.ent.pdb
+[WRITE] 3hh2	40265.58
+[1021/2839] 3hi1.ent.pdb
+[WRITE] 3hi1	66291.39
+[1022/2839] 3hi6.ent.pdb
+[WRITE] 3hi6	52542.10
+[1023/2839] 3ho5.ent.pdb
+[WRITE] 3ho5	49939.55
+[1024/2839] 3hpw.ent.pdb
+[WRITE] 3hpw	10988.28
+[1025/2839] 3htu.ent.pdb
+[WRITE] 3htu	25407.25
+[1026/2839] 3hug.ent.pdb
+[WRITE] 3hug	59615.26
+[1027/2839] 3huj.ent.pdb
+[WRITE] 3huj	78290.32
+[1028/2839] 3ia3.ent.pdb
+[WRITE] 3ia3	23487.49
+[1029/2839] 3idb.ent.pdb
+[WRITE] 3idb	22245.75
+[1030/2839] 3idc.ent.pdb
+[WRITE] 3idc	23349.10
+[1031/2839] 3idx.ent.pdb
+[WRITE] 3idx	36448.51
+[1032/2839] 3idy.ent.pdb
+[WRITE] 3idy	71538.04
+[1033/2839] 3ifq.ent.pdb
+[WRITE] 3ifq	53811.59
+[1034/2839] 3im4.ent.pdb
+[WRITE] 3im4	7645.35
+[1035/2839] 3inb.ent.pdb
+[WRITE] 3inb	50871.30
+[1036/2839] 3iol.ent.pdb
+[WRITE] 3iol	8106.28
+[1037/2839] 3it8.ent.pdb
+[WRITE] 3it8	119863.08
+[1038/2839] 3iu3.ent.pdb
+[WRITE] 3iu3	77631.99
+[1039/2839] 3ixa.ent.pdb
+[WRITE] 3ixa	37477.73
+[1040/2839] 3ixe.ent.pdb
+[WRITE] 3ixe	13461.55
+[1041/2839] 3ixs.ent.pdb
+[WRITE] 3ixs	41739.83
+[1042/2839] 3ixt.ent.pdb
+[WRITE] 3ixt	39326.30
+[1043/2839] 3jrm.ent.pdb
+[WRITE] 3jrm	168343.79
+[1044/2839] 3jse.ent.pdb
+[WRITE] 3jse	170650.93
+[1045/2839] 3jsv.ent.pdb
+[WRITE] 3jsv	21389.47
+[1046/2839] 3jtl.ent.pdb
+[WRITE] 3jtl	170103.84
+[1047/2839] 3jvf.ent.pdb
+[WRITE] 3jvf	23343.13
+[1048/2839] 3jza.ent.pdb
+[WRITE] 3jza	16633.86
+[1049/2839] 3k1r.ent.pdb
+[WRITE] 3k1r	15229.31
+[1050/2839] 3k2m.ent.pdb
+[WRITE] 3k2m	19114.67
+[1051/2839] 3k2u.ent.pdb
+[WRITE] 3k2u	28506.09
+[1052/2839] 3k3q.ent.pdb
+[WRITE] 3k3q	25166.71
+[1053/2839] 3k6g.ent.pdb
+[WRITE] 3k6g	21119.52
+[1054/2839] 3k75.ent.pdb
+[WRITE] 3k75	38150.11
+[1055/2839] 3k8p.ent.pdb
+[WRITE] 3k8p	46638.82
+[1056/2839] 3k9m.ent.pdb
+[WRITE] 3k9m	29216.34
+[1057/2839] 3kbt.ent.pdb
+[WRITE] 3kbt	51981.30
+[1058/2839] 3kj0.ent.pdb
+[WRITE] 3kj0	9600.40
+[1059/2839] 3kj1.ent.pdb
+[WRITE] 3kj1	9027.72
+[1060/2839] 3kj2.ent.pdb
+[WRITE] 3kj2	8944.30
+[1061/2839] 3kls.ent.pdb
+[WRITE] 3kls	160556.93
+[1062/2839] 3knb.ent.pdb
+[WRITE] 3knb	9584.95
+[1063/2839] 3kpr.ent.pdb
+[WRITE] 3kpr	76267.78
+[1064/2839] 3kps.ent.pdb
+[WRITE] 3kps	39072.75
+[1065/2839] 3kr3.ent.pdb
+[WRITE] 3kr3	22127.96
+[1066/2839] 3kuc.ent.pdb
+[WRITE] 3kuc	12397.04
+[1067/2839] 3kud.ent.pdb
+[WRITE] 3kud	12067.67
+[1068/2839] 3kv4.ent.pdb
+[WRITE] 3kv4	20748.96
+[1069/2839] 3kw5.ent.pdb
+[WRITE] 3kw5	14349.66
+[1070/2839] 3kxf.ent.pdb
+[WRITE] 3kxf	154735.40
+[1071/2839] 3kyi.ent.pdb
+[WRITE] 3kyi	11766.59
+[1072/2839] 3kz0.ent.pdb
+[WRITE] 3kz0	16790.76
+[1073/2839] 3kz1.ent.pdb
+[WRITE] 3kz1	54006.96
+[1074/2839] 3l33.ent.pdb
+[WRITE] 3l33	46360.55
+[1075/2839] 3l5n.ent.pdb
+[WRITE] 3l5n	76367.30
+[1076/2839] 3l5w.ent.pdb
+[WRITE] 3l5w	48334.05
+[1077/2839] 3l5x.ent.pdb
+[WRITE] 3l5x	24732.70
+[1078/2839] 3l89.ent.pdb
+[WRITE] 3l89	156341.21
+[1079/2839] 3l95.ent.pdb
+[WRITE] 3l95	56241.01
+[1080/2839] 3l9j.ent.pdb
+[WRITE] 3l9j	13929.51
+[1081/2839] 3laq.ent.pdb
+[WRITE] 3laq	37858.50
+[1082/2839] 3lb6.ent.pdb
+[WRITE] 3lb6	38761.23
+[1083/2839] 3lb8.ent.pdb
+[WRITE] 3lb8	45491.14
+[1084/2839] 3lbx.ent.pdb
+[WRITE] 3lbx	22409.33
+[1085/2839] 3lev.ent.pdb
+[WRITE] 3lev	30077.13
+[1086/2839] 3lh2.ent.pdb
+[WRITE] 3lh2	50879.91
+[1087/2839] 3lhp.ent.pdb
+[WRITE] 3lhp	32748.52
+[1088/2839] 3lk2.ent.pdb
+[WRITE] 3lk2	24983.85
+[1089/2839] 3lk3.ent.pdb
+[WRITE] 3lk3	24730.77
+[1090/2839] 3lk4.ent.pdb
+[WRITE] 3lk4	275017.97
+[1091/2839] 3lms.ent.pdb
+[WRITE] 3lms	15552.36
+[1092/2839] 3lqa.ent.pdb
+[WRITE] 3lqa	43115.29
+[1093/2839] 3m0a.ent.pdb
+[WRITE] 3m0a	14274.68
+[1094/2839] 3m18.ent.pdb
+[WRITE] 3m18	16221.54
+[1095/2839] 3m63.ent.pdb
+[WRITE] 3m63	50520.86
+[1096/2839] 3m9d.ent.pdb
+[WRITE] 3m9d	136411.21
+[1097/2839] 3ma2.ent.pdb
+[WRITE] 3ma2	26454.36
+[1098/2839] 3ma9.ent.pdb
+[WRITE] 3ma9	28929.64
+[1099/2839] 3mac.ent.pdb
+[WRITE] 3mac	29447.29
+[1100/2839] 3mc0.ent.pdb
+[WRITE] 3mc0	30088.02
+[1101/2839] 3mca.ent.pdb
+[WRITE] 3mca	36605.11
+[1102/2839] 3me2.ent.pdb
+[WRITE] 3me2	18560.46
+[1103/2839] 3mhp.ent.pdb
+[WRITE] 3mhp	27789.68
+[1104/2839] 3mj7.ent.pdb
+[WRITE] 3mj7	23728.35
+[1105/2839] 3mj9.ent.pdb
+[WRITE] 3mj9	30000.72
+[1106/2839] 3mjh.ent.pdb
+[WRITE] 3mjh	18967.29
+[1107/2839] 3mv7.ent.pdb
+[WRITE] 3mv7	39035.21
+[1108/2839] 3mv8.ent.pdb
+[WRITE] 3mv8	39502.38
+[1109/2839] 3mv9.ent.pdb
+[WRITE] 3mv9	39676.21
+[1110/2839] 3mxw.ent.pdb
+[WRITE] 3mxw	25553.08
+[1111/2839] 3mzg.ent.pdb
+[WRITE] 3mzg	20329.04
+[1112/2839] 3mzw.ent.pdb
+[WRITE] 3mzw	30571.16
+[1113/2839] 3n00.ent.pdb
+[WRITE] 3n00	10148.25
+[1114/2839] 3n06.ent.pdb
+[WRITE] 3n06	19927.04
+[1115/2839] 3n0p.ent.pdb
+[WRITE] 3n0p	20331.40
+[1116/2839] 3n4i.ent.pdb
+[WRITE] 3n4i	16821.03
+[1117/2839] 3n85.ent.pdb
+[WRITE] 3n85	49459.42
+[1118/2839] 3ncb.ent.pdb
+[WRITE] 3ncb	20484.43
+[1119/2839] 3ncc.ent.pdb
+[WRITE] 3ncc	20499.18
+[1120/2839] 3nfp.ent.pdb
+[WRITE] 3nfp	57152.41
+[1121/2839] 3ngb.ent.pdb
+[WRITE] 3ngb	137372.68
+[1122/2839] 3nh7.ent.pdb
+[WRITE] 3nh7	91095.68
+[1123/2839] 3noc.ent.pdb
+[WRITE] 3noc	126529.90
+[1124/2839] 3nog.ent.pdb
+[WRITE] 3nog	134009.36
+[1125/2839] 3nps.ent.pdb
+[WRITE] 3nps	28601.10
+[1126/2839] 3npz.ent.pdb
+[WRITE] 3npz	29389.73
+[1127/2839] 3nvn.ent.pdb
+[WRITE] 3nvn	38297.31
+[1128/2839] 3nvq.ent.pdb
+[WRITE] 3nvq	94064.80
+[1129/2839] 3o34.ent.pdb
+[WRITE] 3o34	12094.38
+[1130/2839] 3o40.ent.pdb
+[WRITE] 3o40	11251.66
+[1131/2839] 3o43.ent.pdb
+[WRITE] 3o43	11292.44
+[1132/2839] 3o4o.ent.pdb
+[WRITE] 3o4o	41738.07
+[1133/2839] 3o5t.ent.pdb
+[WRITE] 3o5t	17713.90
+[1134/2839] 3o6b.ent.pdb
+[WRITE] 3o6b	70445.26
+[1135/2839] 3o6f.ent.pdb
+[WRITE] 3o6f	73471.33
+[1136/2839] 3o6q.ent.pdb
+[WRITE] 3o6q	17674.00
+[1137/2839] 3o8x.ent.pdb
+[WRITE] 3o8x	39506.07
+[1138/2839] 3o9w.ent.pdb
+[WRITE] 3o9w	39744.24
+[1139/2839] 3oak.ent.pdb
+[WRITE] 3oak	19500.69
+[1140/2839] 3oed.ent.pdb
+[WRITE] 3oed	36258.94
+[1141/2839] 3ogo.ent.pdb
+[WRITE] 3ogo	61052.64
+[1142/2839] 3ohm.ent.pdb
+[WRITE] 3ohm	47660.28
+[1143/2839] 3oiq.ent.pdb
+[WRITE] 3oiq	12663.70
+[1144/2839] 3oj2.ent.pdb
+[WRITE] 3oj2	31846.99
+[1145/2839] 3ojm.ent.pdb
+[WRITE] 3ojm	17681.58
+[1146/2839] 3oky.ent.pdb
+[WRITE] 3oky	49654.01
+[1147/2839] 3ol2.ent.pdb
+[WRITE] 3ol2	48167.63
+[1148/2839] 3olm.ent.pdb
+[WRITE] 3olm	26346.72
+[1149/2839] 3ona.ent.pdb
+[WRITE] 3ona	12002.22
+[1150/2839] 3onl.ent.pdb
+[WRITE] 3onl	19248.99
+[1151/2839] 3onw.ent.pdb
+[WRITE] 3onw	33695.92
+[1152/2839] 3opz.ent.pdb
+[WRITE] 3opz	125324.62
+[1153/2839] 3orv.ent.pdb
+[WRITE] 3orv	63859.84
+[1154/2839] 3osl.ent.pdb
+[WRITE] 3osl	30303.81
+[1155/2839] 3oun.ent.pdb
+[WRITE] 3oun	17096.56
+[1156/2839] 3ouw.ent.pdb
+[WRITE] 3ouw	23253.76
+[1157/2839] 3oux.ent.pdb
+[WRITE] 3oux	24344.71
+[1158/2839] 3owt.ent.pdb
+[WRITE] 3owt	17120.94
+[1159/2839] 3oxu.ent.pdb
+[WRITE] 3oxu	55892.54
+[1160/2839] 3p0y.ent.pdb
+[WRITE] 3p0y	27681.12
+[1161/2839] 3p11.ent.pdb
+[WRITE] 3p11	44439.12
+[1162/2839] 3p6z.ent.pdb
+[WRITE] 3p6z	26993.51
+[1163/2839] 3p71.ent.pdb
+[WRITE] 3p71	25329.27
+[1164/2839] 3p8m.ent.pdb
+[WRITE] 3p8m	13177.51
+[1165/2839] 3p92.ent.pdb
+[WRITE] 3p92	12468.09
+[1166/2839] 3p95.ent.pdb
+[WRITE] 3p95	12236.43
+[1167/2839] 3p9w.ent.pdb
+[WRITE] 3p9w	41845.06
+[1168/2839] 3pbp.ent.pdb
+[WRITE] 3pbp	117180.08
+[1169/2839] 3pl6.ent.pdb
+[WRITE] 3pl6	37775.56
+[1170/2839] 3pmh.ent.pdb
+[WRITE] 3pmh	27097.86
+[1171/2839] 3pnr.ent.pdb
+[WRITE] 3pnr	17158.26
+[1172/2839] 3pp4.ent.pdb
+[WRITE] 3pp4	21435.99
+[1173/2839] 3pvm.ent.pdb
+[WRITE] 3pvm	267927.96
+[1174/2839] 3q1s.ent.pdb
+[WRITE] 3q1s	26324.91
+[1175/2839] 3q3g.ent.pdb
+[WRITE] 3q3g	107813.02
+[1176/2839] 3q4f.ent.pdb
+[WRITE] 3q4f	75231.54
+[1177/2839] 3q9n.ent.pdb
+[WRITE] 3q9n	27767.44
+[1178/2839] 3q9u.ent.pdb
+[WRITE] 3q9u	28475.78
+[1179/2839] 3qbq.ent.pdb
+[WRITE] 3qbq	33938.64
+[1180/2839] 3qbr.ent.pdb
+[WRITE] 3qbr	18468.04
+[1181/2839] 3qbt.ent.pdb
+[WRITE] 3qbt	59577.65
+[1182/2839] 3qbv.ent.pdb
+[WRITE] 3qbv	48219.69
+[1183/2839] 3qc8.ent.pdb
+[WRITE] 3qc8	12865.28
+[1184/2839] 3qdg.ent.pdb
+[WRITE] 3qdg	38469.56
+[1185/2839] 3qdj.ent.pdb
+[WRITE] 3qdj	38641.94
+[1186/2839] 3qdm.ent.pdb
+[WRITE] 3qdm	39353.05
+[1187/2839] 3qeq.ent.pdb
+[WRITE] 3qeq	39263.72
+[1188/2839] 3qht.ent.pdb
+[WRITE] 3qht	17337.09
+[1189/2839] 3qhy.ent.pdb
+[WRITE] 3qhy	19601.48
+[1190/2839] 3qi2.ent.pdb
+[WRITE] 3qi2	33302.10
+[1191/2839] 3qib.ent.pdb
+[WRITE] 3qib	35516.71
+[1192/2839] 3qiu.ent.pdb
+[WRITE] 3qiu	35630.67
+[1193/2839] 3qiw.ent.pdb
+[WRITE] 3qiw	35308.61
+[1194/2839] 3qlu.ent.pdb
+[WRITE] 3qlu	61989.52
+[1195/2839] 3qml.ent.pdb
+[WRITE] 3qml	58683.46
+[1196/2839] 3qq8.ent.pdb
+[WRITE] 3qq8	13630.41
+[1197/2839] 3qs7.ent.pdb
+[WRITE] 3qs7	79844.26
+[1198/2839] 3qsk.ent.pdb
+[WRITE] 3qsk	12163.17
+[1199/2839] 3qt2.ent.pdb
+[WRITE] 3qt2	54645.01
+[1200/2839] 3qtl.ent.pdb
+[WRITE] 3qtl	30575.86
+[1201/2839] 3qux.ent.pdb
+[WRITE] 3qux	39419.21
+[1202/2839] 3quy.ent.pdb
+[WRITE] 3quy	37555.58
+[1203/2839] 3quz.ent.pdb
+[WRITE] 3quz	39725.29
+[1204/2839] 3qwo.ent.pdb
+[WRITE] 3qwo	41013.40
+[1205/2839] 3qwq.ent.pdb
+[WRITE] 3qwq	35386.05
+[1206/2839] 3qwr.ent.pdb
+[WRITE] 3qwr	25949.83
+[1207/2839] 3r0l.ent.pdb
+[WRITE] 3r0l	9747.30
+[1208/2839] 3r1g.ent.pdb
+[WRITE] 3r1g	34241.98
+[1209/2839] 3r2x.ent.pdb
+[WRITE] 3r2x	27679.49
+[1210/2839] 3r4d.ent.pdb
+[WRITE] 3r4d	42868.47
+[1211/2839] 3r85.ent.pdb
+[WRITE] 3r85	29989.59
+[1212/2839] 3r9a.ent.pdb
+[WRITE] 3r9a	51376.99
+[1213/2839] 3rbb.ent.pdb
+[WRITE] 3rbb	21125.32
+[1214/2839] 3rdt.ent.pdb
+[WRITE] 3rdt	36474.10
+[1215/2839] 3rdz.ent.pdb
+[WRITE] 3rdz	23867.65
+[1216/2839] 3rea.ent.pdb
+[WRITE] 3rea	20612.53
+[1217/2839] 3reb.ent.pdb
+[WRITE] 3reb	19389.87
+[1218/2839] 3rgf.ent.pdb
+[WRITE] 3rgf	29257.50
+[1219/2839] 3rgv.ent.pdb
+[WRITE] 3rgv	39086.77
+[1220/2839] 3rk3.ent.pdb
+[WRITE] 3rk3	18321.49
+[1221/2839] 3rkd.ent.pdb
+[WRITE] 3rkd	49295.73
+[1222/2839] 3ro2.ent.pdb
+[WRITE] 3ro2	16615.97
+[1223/2839] 3rpg.ent.pdb
+[WRITE] 3rpg	18234.10
+[1224/2839] 3rt0.ent.pdb
+[WRITE] 3rt0	43906.78
+[1225/2839] 3rtq.ent.pdb
+[WRITE] 3rtq	38694.13
+[1226/2839] 3ru8.ent.pdb
+[WRITE] 3ru8	30125.66
+[1227/2839] 3rug.ent.pdb
+[WRITE] 3rug	75773.85
+[1228/2839] 3rvv.ent.pdb
+[WRITE] 3rvv	28672.65
+[1229/2839] 3rvw.ent.pdb
+[WRITE] 3rvw	28931.26
+[1230/2839] 3ry6.ent.pdb
+[WRITE] 3ry6	32619.60
+[1231/2839] 3rzc.ent.pdb
+[WRITE] 3rzc	39172.68
+[1232/2839] 3rzw.ent.pdb
+[WRITE] 3rzw	18247.06
+[1233/2839] 3s2k.ent.pdb
+[WRITE] 3s2k	54919.35
+[1234/2839] 3s4s.ent.pdb
+[WRITE] 3s4s	51565.54
+[1235/2839] 3s5l.ent.pdb
+[WRITE] 3s5l	52901.33
+[1236/2839] 3s8v.ent.pdb
+[WRITE] 3s8v	53333.44
+[1237/2839] 3scm.ent.pdb
+[WRITE] 3scm	40598.68
+[1238/2839] 3sda.ent.pdb
+[WRITE] 3sda	41379.78
+[1239/2839] 3sdc.ent.pdb
+[WRITE] 3sdc	40335.54
+[1240/2839] 3sdd.ent.pdb
+[WRITE] 3sdd	40557.15
+[1241/2839] 3sdy.ent.pdb
+[WRITE] 3sdy	41955.22
+[1242/2839] 3sf4.ent.pdb
+[WRITE] 3sf4	53673.66
+[1243/2839] 3sgb.ent.pdb
+[WRITE] 3sgb	9810.36
+[1244/2839] 3sgk.ent.pdb
+[WRITE] 3sgk	30309.86
+[1245/2839] 3sip.ent.pdb
+[WRITE] 3sip	30665.97
+[1246/2839] 3sja.ent.pdb
+[WRITE] 3sja	101819.01
+[1247/2839] 3sjd.ent.pdb
+[WRITE] 3sjd	47359.82
+[1248/2839] 3sjh.ent.pdb
+[WRITE] 3sjh	17564.09
+[1249/2839] 3sjv.ent.pdb
+[WRITE] 3sjv	155441.35
+[1250/2839] 3skj.ent.pdb
+[WRITE] 3skj	52376.92
+[1251/2839] 3sku.ent.pdb
+[WRITE] 3sku	61063.54
+[1252/2839] 3so3.ent.pdb
+[WRITE] 3so3	27862.28
+[1253/2839] 3sqo.ent.pdb
+[WRITE] 3sqo	43801.12
+[1254/2839] 3sri.ent.pdb
+[WRITE] 3sri	14203.50
+[1255/2839] 3ssb.ent.pdb
+[WRITE] 3ssb	30553.09
+[1256/2839] 3sua.ent.pdb
+[WRITE] 3sua	95083.08
+[1257/2839] 3swp.ent.pdb
+[WRITE] 3swp	33587.08
+[1258/2839] 3syn.ent.pdb
+[WRITE] 3syn	46598.07
+[1259/2839] 3t04.ent.pdb
+[WRITE] 3t04	11149.45
+[1260/2839] 3t0y.ent.pdb
+[WRITE] 3t0y	15197.21
+[1261/2839] 3t1q.ent.pdb
+[WRITE] 3t1q	20198.25
+[1262/2839] 3t2n.ent.pdb
+[WRITE] 3t2n	64367.63
+[1263/2839] 3t4a.ent.pdb
+[WRITE] 3t4a	107584.25
+[1264/2839] 3t6g.ent.pdb
+[WRITE] 3t6g	38974.15
+[1265/2839] 3tac.ent.pdb
+[WRITE] 3tac	28336.27
+[1266/2839] 3tei.ent.pdb
+[WRITE] 3tei	17210.99
+[1267/2839] 3tg1.ent.pdb
+[WRITE] 3tg1	23167.61
+[1268/2839] 3tgk.ent.pdb
+[WRITE] 3tgk	12070.10
+[1269/2839] 3thm.ent.pdb
+[WRITE] 3thm	24247.07
+[1270/2839] 3tje.ent.pdb
+[WRITE] 3tje	25688.50
+[1271/2839] 3tjz.ent.pdb
+[WRITE] 3tjz	50768.59
+[1272/2839] 3tkl.ent.pdb
+[WRITE] 3tkl	19016.34
+[1273/2839] 3tl8.ent.pdb
+[WRITE] 3tl8	71504.87
+[1274/2839] 3tn0.ent.pdb
+[WRITE] 3tn0	40787.71
+[1275/2839] 3tnf.ent.pdb
+[WRITE] 3tnf	30161.58
+[1276/2839] 3to4.ent.pdb
+[WRITE] 3to4	39527.17
+[1277/2839] 3tq7.ent.pdb
+[WRITE] 3tq7	14497.27
+[1278/2839] 3tsr.ent.pdb
+[WRITE] 3tsr	83619.62
+[1279/2839] 3tu3.ent.pdb
+[WRITE] 3tu3	31858.49
+[1280/2839] 3tvj.ent.pdb
+[WRITE] 3tvj	17105.71
+[1281/2839] 3tvm.ent.pdb
+[WRITE] 3tvm	74863.58
+[1282/2839] 3twi.ent.pdb
+[WRITE] 3twi	35310.02
+[1283/2839] 3tz1.ent.pdb
+[WRITE] 3tz1	6148.62
+[1284/2839] 3u1j.ent.pdb
+[WRITE] 3u1j	12588.40
+[1285/2839] 3u43.ent.pdb
+[WRITE] 3u43	12430.63
+[1286/2839] 3u82.ent.pdb
+[WRITE] 3u82	26932.48
+[1287/2839] 3u8x.ent.pdb
+[WRITE] 3u8x	35771.17
+[1288/2839] 3u9d.ent.pdb
+[WRITE] 3u9d	35484.40
+[1289/2839] 3u9z.ent.pdb
+[WRITE] 3u9z	17322.29
+[1290/2839] 3uai.ent.pdb
+[WRITE] 3uai	39661.44
+[1291/2839] 3uaj.ent.pdb
+[WRITE] 3uaj	76683.11
+[1292/2839] 3uc0.ent.pdb
+[WRITE] 3uc0	50370.34
+[1293/2839] 3uez.ent.pdb
+[WRITE] 3uez	66622.40
+[1294/2839] 3uir.ent.pdb
+[WRITE] 3uir	25101.26
+[1295/2839] 3ujg.ent.pdb
+[WRITE] 3ujg	27365.40
+[1296/2839] 3ukw.ent.pdb
+[WRITE] 3ukw	19015.24
+[1297/2839] 3ukx.ent.pdb
+[WRITE] 3ukx	19307.81
+[1298/2839] 3ukz.ent.pdb
+[WRITE] 3ukz	19324.65
+[1299/2839] 3ul0.ent.pdb
+[WRITE] 3ul0	19270.29
+[1300/2839] 3ul1.ent.pdb
+[WRITE] 3ul1	18990.29
+[1301/2839] 3ul4.ent.pdb
+[WRITE] 3ul4	10255.01
+[1302/2839] 3ula.ent.pdb
+[WRITE] 3ula	41267.57
+[1303/2839] 3uts.ent.pdb
+[WRITE] 3uts	80691.01
+[1304/2839] 3ux9.ent.pdb
+[WRITE] 3ux9	30516.25
+[1305/2839] 3uyo.ent.pdb
+[WRITE] 3uyo	11087.34
+[1306/2839] 3uyp.ent.pdb
+[WRITE] 3uyp	14853.50
+[1307/2839] 3uz0.ent.pdb
+[WRITE] 3uz0	26173.72
+[1308/2839] 3uze.ent.pdb
+[WRITE] 3uze	28799.82
+[1309/2839] 3uzq.ent.pdb
+[WRITE] 3uzq	15034.15
+[1310/2839] 3uzv.ent.pdb
+[WRITE] 3uzv	15181.15
+[1311/2839] 3v1c.ent.pdb
+[WRITE] 3v1c	6700.71
+[1312/2839] 3v3k.ent.pdb
+[WRITE] 3v3k	139575.58
+[1313/2839] 3v4y.ent.pdb
+[WRITE] 3v4y	54025.58
+[1314/2839] 3v62.ent.pdb
+[WRITE] 3v62	36780.68
+[1315/2839] 3v6b.ent.pdb
+[WRITE] 3v6b	16137.32
+[1316/2839] 3v6o.ent.pdb
+[WRITE] 3v6o	57083.45
+[1317/2839] 3v6z.ent.pdb
+[WRITE] 3v6z	53513.88
+[1318/2839] 3v96.ent.pdb
+[WRITE] 3v96	15849.70
+[1319/2839] 3ve0.ent.pdb
+[WRITE] 3ve0	39009.68
+[1320/2839] 3vep.ent.pdb
+[WRITE] 3vep	27324.73
+[1321/2839] 3vfm.ent.pdb
+[WRITE] 3vfm	19507.25
+[1322/2839] 3vfn.ent.pdb
+[WRITE] 3vfn	18645.33
+[1323/2839] 3vfo.ent.pdb
+[WRITE] 3vfo	19464.41
+[1324/2839] 3vfp.ent.pdb
+[WRITE] 3vfp	19546.98
+[1325/2839] 3vfr.ent.pdb
+[WRITE] 3vfr	19009.11
+[1326/2839] 3vfs.ent.pdb
+[WRITE] 3vfs	19230.47
+[1327/2839] 3vft.ent.pdb
+[WRITE] 3vft	19519.24
+[1328/2839] 3vfu.ent.pdb
+[WRITE] 3vfu	18918.08
+[1329/2839] 3vfv.ent.pdb
+[WRITE] 3vfv	19164.16
+[1330/2839] 3vfw.ent.pdb
+[WRITE] 3vfw	19463.76
+[1331/2839] 3vg9.ent.pdb
+[WRITE] 3vg9	33866.13
+[1332/2839] 3vh8.ent.pdb
+[WRITE] 3vh8	65189.32
+[1333/2839] 3vhx.ent.pdb
+[WRITE] 3vhx	50029.28
+[1334/2839] 3vpj.ent.pdb
+[WRITE] 3vpj	48888.94
+[1335/2839] 3vux.ent.pdb
+[WRITE] 3vux	17733.83
+[1336/2839] 3vv2.ent.pdb
+[WRITE] 3vv2	13877.77
+[1337/2839] 3vwj.ent.pdb
+[WRITE] 3vwj	37050.94
+[1338/2839] 3vwk.ent.pdb
+[WRITE] 3vwk	37881.64
+[1339/2839] 3vxr.ent.pdb
+[WRITE] 3vxr	39022.92
+[1340/2839] 3vxs.ent.pdb
+[WRITE] 3vxs	39077.53
+[1341/2839] 3vxu.ent.pdb
+[WRITE] 3vxu	78232.60
+[1342/2839] 3vyr.ent.pdb
+[WRITE] 3vyr	19321.03
+[1343/2839] 3vys.ent.pdb
+[WRITE] 3vys	30138.59
+[1344/2839] 3vza.ent.pdb
+[WRITE] 3vza	19227.14
+[1345/2839] 3w2d.ent.pdb
+[WRITE] 3w2d	29689.89
+[1346/2839] 3w6j.ent.pdb
+[WRITE] 3w6j	46870.18
+[1347/2839] 3w8h.ent.pdb
+[WRITE] 3w8h	13143.91
+[1348/2839] 3w8i.ent.pdb
+[WRITE] 3w8i	13163.45
+[1349/2839] 3w9e.ent.pdb
+[WRITE] 3w9e	29082.03
+[1350/2839] 3wa0.ent.pdb
+[WRITE] 3wa0	92871.75
+[1351/2839] 3wa5.ent.pdb
+[WRITE] 3wa5	22683.82
+[1352/2839] 3wd5.ent.pdb
+[WRITE] 3wd5	26221.84
+[1353/2839] 3wdg.ent.pdb
+[WRITE] 3wdg	15067.54
+[1354/2839] 3wih.ent.pdb
+[WRITE] 3wih	47014.36
+[1355/2839] 3wkn.ent.pdb
+[WRITE] 3wkn	99419.51
+[1356/2839] 3wkt.ent.pdb
+[WRITE] 3wkt	72252.01
+[1357/2839] 3wn5.ent.pdb
+[WRITE] 3wn5	60664.41
+[1358/2839] 3wn7.ent.pdb
+[WRITE] 3wn7	25129.45
+[1359/2839] 3wo3.ent.pdb
+[WRITE] 3wo3	121650.77
+[1360/2839] 3wo4.ent.pdb
+[WRITE] 3wo4	38047.63
+[1361/2839] 3wqb.ent.pdb
+[WRITE] 3wqb	25520.44
+[1362/2839] 3wrx.ent.pdb
+[WRITE] 3wrx	72279.82
+[1363/2839] 3wry.ent.pdb
+[WRITE] 3wry	72239.25
+[1364/2839] 3wwk.ent.pdb
+[WRITE] 3wwk	72463.33
+[1365/2839] 3wwn.ent.pdb
+[WRITE] 3wwn	15086.09
+[1366/2839] 3wwq.ent.pdb
+[WRITE] 3wwq	39006.23
+[1367/2839] 3zet.ent.pdb
+[WRITE] 3zet	23807.18
+[1368/2839] 3zeu.ent.pdb
+[WRITE] 3zeu	42836.98
+[1369/2839] 3zia.ent.pdb
+[WRITE] 3zia	245154.84
+[1370/2839] 3zjy.ent.pdb
+[WRITE] 3zjy	152331.36
+[1371/2839] 3zkq.ent.pdb
+[WRITE] 3zkq	21061.45
+[1372/2839] 3znz.ent.pdb
+[WRITE] 3znz	18074.81
+[1373/2839] 3zo0.ent.pdb
+[WRITE] 3zo0	19680.09
+[1374/2839] 3zrz.ent.pdb
+[WRITE] 3zrz	11715.55
+[1375/2839] 3zs8.ent.pdb
+[WRITE] 3zs8	35547.59
+[1376/2839] 3zs9.ent.pdb
+[WRITE] 3zs9	29234.73
+[1377/2839] 3zu7.ent.pdb
+[WRITE] 3zu7	22978.81
+[1378/2839] 3zuv.ent.pdb
+[WRITE] 3zuv	44949.17
+[1379/2839] 3zv0.ent.pdb
+[WRITE] 3zv0	44000.03
+[1380/2839] 3zwh.ent.pdb
+[WRITE] 3zwh	12237.71
+[1381/2839] 3zwl.ent.pdb
+[WRITE] 3zwl	36208.16
+[1382/2839] 3zwz.ent.pdb
+[WRITE] 3zwz	15049.92
+[1383/2839] 3zyi.ent.pdb
+[WRITE] 3zyi	32265.57
+[1384/2839] 3zyj.ent.pdb
+[WRITE] 3zyj	70652.62
+[1385/2839] 4a1s.ent.pdb
+[WRITE] 4a1s	33594.26
+[1386/2839] 4a1u.ent.pdb
+[WRITE] 4a1u	9951.56
+[1387/2839] 4a49.ent.pdb
+[WRITE] 4a49	11860.51
+[1388/2839] 4a94.ent.pdb
+[WRITE] 4a94	27691.06
+[1389/2839] 4aei.ent.pdb
+[WRITE] 4aei	65699.81
+[1390/2839] 4afq.ent.pdb
+[WRITE] 4afq	25013.69
+[1391/2839] 4afz.ent.pdb
+[WRITE] 4afz	25417.52
+[1392/2839] 4ag2.ent.pdb
+[WRITE] 4ag2	25979.56
+[1393/2839] 4al8.ent.pdb
+[WRITE] 4al8	24792.65
+[1394/2839] 4ala.ent.pdb
+[WRITE] 4ala	23913.35
+[1395/2839] 4am0.ent.pdb
+[WRITE] 4am0	91985.26
+[1396/2839] 4an7.ent.pdb
+[WRITE] 4an7	15971.47
+[1397/2839] 4aoq.ent.pdb
+[WRITE] 4aoq	29357.05
+[1398/2839] 4aor.ent.pdb
+[WRITE] 4aor	28897.99
+[1399/2839] 4ap2.ent.pdb
+[WRITE] 4ap2	30465.61
+[1400/2839] 4apf.ent.pdb
+[WRITE] 4apf	29882.47
+[1401/2839] 4apx.ent.pdb
+[WRITE] 4apx	23768.20
+[1402/2839] 4aqe.ent.pdb
+[WRITE] 4aqe	23879.32
+[1403/2839] 4asw.ent.pdb
+[WRITE] 4asw	12211.85
+[1404/2839] 4auo.ent.pdb
+[WRITE] 4auo	43662.49
+[1405/2839] 4auq.ent.pdb
+[WRITE] 4auq	25683.43
+[1406/2839] 4awx.ent.pdb
+[WRITE] 4awx	14550.71
+[1407/2839] 4ayd.ent.pdb
+[WRITE] 4ayd	50037.26
+[1408/2839] 4aye.ent.pdb
+[WRITE] 4aye	49523.71
+[1409/2839] 4ayi.ent.pdb
+[WRITE] 4ayi	24602.98
+[1410/2839] 4b0m.ent.pdb
+[WRITE] 4b0m	23309.63
+[1411/2839] 4b1v.ent.pdb
+[WRITE] 4b1v	32743.09
+[1412/2839] 4b1x.ent.pdb
+[WRITE] 4b1x	17128.70
+[1413/2839] 4b1y.ent.pdb
+[WRITE] 4b1y	17824.47
+[1414/2839] 4b93.ent.pdb
+[WRITE] 4b93	16852.84
+[1415/2839] 4bd9.ent.pdb
+[WRITE] 4bd9	20132.14
+[1416/2839] 4bfi.ent.pdb
+[WRITE] 4bfi	21359.45
+[1417/2839] 4bj5.ent.pdb
+[WRITE] 4bj5	44540.41
+[1418/2839] 4bkl.ent.pdb
+[WRITE] 4bkl	23559.54
+[1419/2839] 4bkx.ent.pdb
+[WRITE] 4bkx	22302.70
+[1420/2839] 4boh.ent.pdb
+[WRITE] 4boh	25376.80
+[1421/2839] 4bpk.ent.pdb
+[WRITE] 4bpk	14848.45
+[1422/2839] 4bpx.ent.pdb
+[WRITE] 4bpx	57188.34
+[1423/2839] 4bq6.ent.pdb
+[WRITE] 4bq6	33629.58
+[1424/2839] 4bqd.ent.pdb
+[WRITE] 4bqd	11820.85
+[1425/2839] 4bru.ent.pdb
+[WRITE] 4bru	18897.67
+[1426/2839] 4brw.ent.pdb
+[WRITE] 4brw	19576.07
+[1427/2839] 4bsr.ent.pdb
+[WRITE] 4bsr	53485.16
+[1428/2839] 4bwq.ent.pdb
+[WRITE] 4bwq	32458.76
+[1429/2839] 4bxl.ent.pdb
+[WRITE] 4bxl	7152.45
+[1430/2839] 4bxz.ent.pdb
+[WRITE] 4bxz	155756.38
+[1431/2839] 4byf.ent.pdb
+[WRITE] 4byf	78324.63
+[1432/2839] 4c1n.ent.pdb
+[WRITE] 4c1n	186163.75
+[1433/2839] 4c2a.ent.pdb
+[WRITE] 4c2a	20803.66
+[1434/2839] 4c2b.ent.pdb
+[WRITE] 4c2b	80342.20
+[1435/2839] 4c4k.ent.pdb
+[WRITE] 4c4k	9831.49
+[1436/2839] 4c4p.ent.pdb
+[WRITE] 4c4p	13072.73
+[1437/2839] 4c5g.ent.pdb
+[WRITE] 4c5g	22487.31
+[1438/2839] 4c7n.ent.pdb
+[WRITE] 4c7n	7681.06
+[1439/2839] 4c99.ent.pdb
+[WRITE] 4c99	26090.53
+[1440/2839] 4c9b.ent.pdb
+[WRITE] 4c9b	31662.19
+[1441/2839] 4cc4.ent.pdb
+[WRITE] 4cc4	47899.83
+[1442/2839] 4cdk.ent.pdb
+[WRITE] 4cdk	52037.38
+[1443/2839] 4cj0.ent.pdb
+[WRITE] 4cj0	22367.81
+[1444/2839] 4cj1.ent.pdb
+[WRITE] 4cj1	23950.11
+[1445/2839] 4cj2.ent.pdb
+[WRITE] 4cj2	17997.38
+[1446/2839] 4cmh.ent.pdb
+[WRITE] 4cmh	30428.85
+[1447/2839] 4cmm.ent.pdb
+[WRITE] 4cmm	12173.04
+[1448/2839] 4cni.ent.pdb
+[WRITE] 4cni	55702.38
+[1449/2839] 4ct0.ent.pdb
+[WRITE] 4ct0	24755.32
+[1450/2839] 4cu4.ent.pdb
+[WRITE] 4cu4	28357.49
+[1451/2839] 4cvw.ent.pdb
+[WRITE] 4cvw	70484.91
+[1452/2839] 4d0g.ent.pdb
+[WRITE] 4d0g	11837.29
+[1453/2839] 4d0n.ent.pdb
+[WRITE] 4d0n	26681.11
+[1454/2839] 4d2g.ent.pdb
+[WRITE] 4d2g	36398.21
+[1455/2839] 4d9q.ent.pdb
+[WRITE] 4d9q	54864.27
+[1456/2839] 4d9r.ent.pdb
+[WRITE] 4d9r	55314.35
+[1457/2839] 4day.ent.pdb
+[WRITE] 4day	13765.38
+[1458/2839] 4dbg.ent.pdb
+[WRITE] 4dbg	13398.92
+[1459/2839] 4dck.ent.pdb
+[WRITE] 4dck	22870.90
+[1460/2839] 4dcn.ent.pdb
+[WRITE] 4dcn	37094.51
+[1461/2839] 4dg4.ent.pdb
+[WRITE] 4dg4	44071.44
+[1462/2839] 4dge.ent.pdb
+[WRITE] 4dge	28782.96
+[1463/2839] 4dgi.ent.pdb
+[WRITE] 4dgi	25684.08
+[1464/2839] 4dh2.ent.pdb
+[WRITE] 4dh2	20459.66
+[1465/2839] 4di3.ent.pdb
+[WRITE] 4di3	64246.95
+[1466/2839] 4did.ent.pdb
+[WRITE] 4did	15556.49
+[1467/2839] 4dj9.ent.pdb
+[WRITE] 4dj9	14374.61
+[1468/2839] 4djz.ent.pdb
+[WRITE] 4djz	41001.77
+[1469/2839] 4dkd.ent.pdb
+[WRITE] 4dkd	30153.49
+[1470/2839] 4dke.ent.pdb
+[WRITE] 4dke	52606.26
+[1471/2839] 4dm6.ent.pdb
+[WRITE] 4dm6	21898.65
+[1472/2839] 4dm8.ent.pdb
+[WRITE] 4dm8	22065.77
+[1473/2839] 4dn4.ent.pdb
+[WRITE] 4dn4	22134.05
+[1474/2839] 4doh.ent.pdb
+[WRITE] 4doh	51107.97
+[1475/2839] 4doq.ent.pdb
+[WRITE] 4doq	30757.41
+[1476/2839] 4dpg.ent.pdb
+[WRITE] 4dpg	159623.01
+[1477/2839] 4dra.ent.pdb
+[WRITE] 4dra	33179.52
+[1478/2839] 4drb.ent.pdb
+[WRITE] 4drb	59188.64
+[1479/2839] 4drx.ent.pdb
+[WRITE] 4drx	73967.29
+[1480/2839] 4ds8.ent.pdb
+[WRITE] 4ds8	20431.72
+[1481/2839] 4dt1.ent.pdb
+[WRITE] 4dt1	19185.11
+[1482/2839] 4dtg.ent.pdb
+[WRITE] 4dtg	22693.27
+[1483/2839] 4dx8.ent.pdb
+[WRITE] 4dx8	53292.25
+[1484/2839] 4dxa.ent.pdb
+[WRITE] 4dxa	22758.04
+[1485/2839] 4dzu.ent.pdb
+[WRITE] 4dzu	11272.98
+[1486/2839] 4dzv.ent.pdb
+[WRITE] 4dzv	11182.43
+[1487/2839] 4e05.ent.pdb
+[WRITE] 4e05	13668.75
+[1488/2839] 4e41.ent.pdb
+[WRITE] 4e41	71546.86
+[1489/2839] 4e42.ent.pdb
+[WRITE] 4e42	38873.73
+[1490/2839] 4eah.ent.pdb
+[WRITE] 4eah	129733.61
+[1491/2839] 4edw.ent.pdb
+[WRITE] 4edw	25905.46
+[1492/2839] 4eee.ent.pdb
+[WRITE] 4eee	26725.48
+[1493/2839] 4eef.ent.pdb
+[WRITE] 4eef	69136.09
+[1494/2839] 4ehq.ent.pdb
+[WRITE] 4ehq	11096.08
+[1495/2839] 4ei5.ent.pdb
+[WRITE] 4ei5	80919.13
+[1496/2839] 4eig.ent.pdb
+[WRITE] 4eig	12805.90
+[1497/2839] 4eiz.ent.pdb
+[WRITE] 4eiz	25833.16
+[1498/2839] 4ekc.ent.pdb
+[WRITE] 4ekc	43617.43
+[1499/2839] 4ekd.ent.pdb
+[WRITE] 4ekd	22257.89
+[1500/2839] 4elm.ent.pdb
+[WRITE] 4elm	73519.80
+[1501/2839] 4en3.ent.pdb
+[WRITE] 4en3	37255.47
+[1502/2839] 4eo5.ent.pdb
+[WRITE] 4eo5	17038.05
+[1503/2839] 4eoz.ent.pdb
+[WRITE] 4eoz	43477.60
+[1504/2839] 4eqa.ent.pdb
+[WRITE] 4eqa	25469.44
+[1505/2839] 4ers.ent.pdb
+[WRITE] 4ers	27155.20
+[1506/2839] 4etp.ent.pdb
+[WRITE] 4etp	35482.35
+[1507/2839] 4etq.ent.pdb
+[WRITE] 4etq	56448.26
+[1508/2839] 4etw.ent.pdb
+[WRITE] 4etw	28706.06
+[1509/2839] 4euk.ent.pdb
+[WRITE] 4euk	14784.07
+[1510/2839] 4exp.ent.pdb
+[WRITE] 4exp	24505.45
+[1511/2839] 4f0a.ent.pdb
+[WRITE] 4f0a	22303.93
+[1512/2839] 4f0z.ent.pdb
+[WRITE] 4f0z	23855.56
+[1513/2839] 4f37.ent.pdb
+[WRITE] 4f37	54166.81
+[1514/2839] 4f38.ent.pdb
+[WRITE] 4f38	20129.06
+[1515/2839] 4f3f.ent.pdb
+[WRITE] 4f3f	21690.44
+[1516/2839] 4f48.ent.pdb
+[WRITE] 4f48	17659.53
+[1517/2839] 4f6r.ent.pdb
+[WRITE] 4f6r	41890.77
+[1518/2839] 4f9l.ent.pdb
+[WRITE] 4f9l	39507.33
+[1519/2839] 4f9p.ent.pdb
+[WRITE] 4f9p	42151.48
+[1520/2839] 4fao.ent.pdb
+[WRITE] 4fao	151697.91
+[1521/2839] 4ffy.ent.pdb
+[WRITE] 4ffy	14635.63
+[1522/2839] 4ffz.ent.pdb
+[WRITE] 4ffz	46772.54
+[1523/2839] 4fq0.ent.pdb
+[WRITE] 4fq0	22587.12
+[1524/2839] 4fqi.ent.pdb
+[WRITE] 4fqi	43430.49
+[1525/2839] 4fqj.ent.pdb
+[WRITE] 4fqj	32354.71
+[1526/2839] 4fqr.ent.pdb
+[WRITE] 4fqr	450667.98
+[1527/2839] 4fqv.ent.pdb
+[WRITE] 4fqv	114289.27
+[1528/2839] 4fqy.ent.pdb
+[WRITE] 4fqy	41517.98
+[1529/2839] 4ft4.ent.pdb
+[WRITE] 4ft4	61717.51
+[1530/2839] 4fxg.ent.pdb
+[WRITE] 4fxg	181838.26
+[1531/2839] 4fza.ent.pdb
+[WRITE] 4fza	30053.85
+[1532/2839] 4fzv.ent.pdb
+[WRITE] 4fzv	25205.74
+[1533/2839] 4g01.ent.pdb
+[WRITE] 4g01	19688.93
+[1534/2839] 4g35.ent.pdb
+[WRITE] 4g35	8398.15
+[1535/2839] 4g3y.ent.pdb
+[WRITE] 4g3y	25817.69
+[1536/2839] 4g4s.ent.pdb
+[WRITE] 4g4s	138155.01
+[1537/2839] 4g59.ent.pdb
+[WRITE] 4g59	38991.71
+[1538/2839] 4g6f.ent.pdb
+[WRITE] 4g6f	43932.71
+[1539/2839] 4g6j.ent.pdb
+[WRITE] 4g6j	25729.15
+[1540/2839] 4g6m.ent.pdb
+[WRITE] 4g6m	26901.62
+[1541/2839] 4g6u.ent.pdb
+[WRITE] 4g6u	18825.04
+[1542/2839] 4g6v.ent.pdb
+[WRITE] 4g6v	38251.02
+[1543/2839] 4g8a.ent.pdb
+[WRITE] 4g8a	62463.55
+[1544/2839] 4g8g.ent.pdb
+[WRITE] 4g8g	38411.39
+[1545/2839] 4g9f.ent.pdb
+[WRITE] 4g9f	39719.33
+[1546/2839] 4gaf.ent.pdb
+[WRITE] 4gaf	22719.15
+[1547/2839] 4geh.ent.pdb
+[WRITE] 4geh	26648.61
+[1548/2839] 4geq.ent.pdb
+[WRITE] 4geq	17130.54
+[1549/2839] 4gg6.ent.pdb
+[WRITE] 4gg6	68540.00
+[1550/2839] 4gh7.ent.pdb
+[WRITE] 4gh7	45836.44
+[1551/2839] 4gi3.ent.pdb
+[WRITE] 4gi3	12517.56
+[1552/2839] 4giq.ent.pdb
+[WRITE] 4giq	17874.53
+[1553/2839] 4gko.ent.pdb
+[WRITE] 4gko	100071.94
+[1554/2839] 4gla.ent.pdb
+[WRITE] 4gla	21228.39
+[1555/2839] 4glv.ent.pdb
+[WRITE] 4glv	39607.52
+[1556/2839] 4gms.ent.pdb
+[WRITE] 4gms	108966.48
+[1557/2839] 4gn3.ent.pdb
+[WRITE] 4gn3	93968.53
+[1558/2839] 4gn4.ent.pdb
+[WRITE] 4gn4	10988.32
+[1559/2839] 4gn5.ent.pdb
+[WRITE] 4gn5	21040.95
+[1560/2839] 4gnk.ent.pdb
+[WRITE] 4gnk	117461.87
+[1561/2839] 4grl.ent.pdb

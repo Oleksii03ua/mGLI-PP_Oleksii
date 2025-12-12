@@ -1,0 +1,424 @@
+Imports OK
+[INFO] CWD: /vast/palmer/home.mccleary/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing
+[INFO] Writing to: /vast/palmer/home.mccleary/op98/protein_design/mGLI-pp_Oleksii/src/data/data_processing/all_pdb_sasa.txt
+[1/2839] 1a22.ent.pdb  (skip)
+[2/2839] 1a2k.ent.pdb  (skip)
+[3/2839] 1a3b.ent.pdb  (skip)
+[4/2839] 1a4y.ent.pdb  (skip)
+[5/2839] 1acb.ent.pdb  (skip)
+[6/2839] 1ahw.ent.pdb  (skip)
+[7/2839] 1ak4.ent.pdb  (skip)
+[8/2839] 1akj.ent.pdb  (skip)
+[9/2839] 1an1.ent.pdb  (skip)
+[10/2839] 1atn.ent.pdb  (skip)
+[11/2839] 1ava.ent.pdb  (skip)
+[12/2839] 1avg.ent.pdb  (skip)
+[13/2839] 1avx.ent.pdb  (skip)
+[14/2839] 1avz.ent.pdb  (skip)
+[15/2839] 1axi.ent.pdb  (skip)
+[16/2839] 1ay7.ent.pdb  (skip)
+[17/2839] 1azz.ent.pdb  (skip)
+[18/2839] 1b27.ent.pdb  (skip)
+[19/2839] 1b2s.ent.pdb  (skip)
+[20/2839] 1b2u.ent.pdb  (skip)
+[21/2839] 1b3s.ent.pdb  (skip)
+[22/2839] 1b6c.ent.pdb  (skip)
+[23/2839] 1bj1.ent.pdb  (skip)
+[24/2839] 1bql.ent.pdb  (skip)
+[25/2839] 1brs.ent.pdb  (skip)
+[26/2839] 1bth.ent.pdb  (skip)
+[27/2839] 1buh.ent.pdb  (skip)
+[28/2839] 1bvk.ent.pdb  (skip)
+[29/2839] 1bvn.ent.pdb  (skip)
+[30/2839] 1c9p.ent.pdb  (skip)
+[31/2839] 1c9t.ent.pdb  (skip)
+[32/2839] 1ca0.ent.pdb  (skip)
+[33/2839] 1cbw.ent.pdb  (skip)
+[34/2839] 1clv.ent.pdb  (skip)
+[35/2839] 1cmx.ent.pdb  (skip)
+[36/2839] 1cn4.ent.pdb  (skip)
+[37/2839] 1cz8.ent.pdb  (skip)
+[38/2839] 1d6r.ent.pdb  (skip)
+[39/2839] 1de4.ent.pdb  (skip)
+[40/2839] 1dee.ent.pdb  (skip)
+[41/2839] 1dfj.ent.pdb  (skip)
+[42/2839] 1dhk.ent.pdb  (skip)
+[43/2839] 1dit.ent.pdb  (skip)
+[44/2839] 1djs.ent.pdb  (skip)
+[45/2839] 1dp5.ent.pdb  (skip)
+[46/2839] 1dpj.ent.pdb  (skip)
+[47/2839] 1dqj.ent.pdb  (skip)
+[48/2839] 1du3.ent.pdb  (skip)
+[49/2839] 1dzb.ent.pdb  (skip)
+[50/2839] 1e3u.ent.pdb  (skip)
+[51/2839] 1e4k.ent.pdb  (skip)
+[52/2839] 1e6e.ent.pdb  (skip)
+[53/2839] 1e6j.ent.pdb  (skip)
+[54/2839] 1e96.ent.pdb  (skip)
+[55/2839] 1eaw.ent.pdb  (skip)
+[56/2839] 1eer.ent.pdb  (skip)
+[57/2839] 1ees.ent.pdb  (skip)
+[58/2839] 1efn.ent.pdb  (skip)
+[59/2839] 1efx.ent.pdb  (skip)
+[60/2839] 1eja.ent.pdb  (skip)
+[61/2839] 1emv.ent.pdb  (skip)
+[62/2839] 1eo8.ent.pdb  (skip)
+[63/2839] 1es0.ent.pdb  (skip)
+[64/2839] 1ewy.ent.pdb  (skip)
+[65/2839] 1ezs.ent.pdb  (skip)
+[66/2839] 1ezu.ent.pdb  (skip)
+[67/2839] 1f34.ent.pdb  (skip)
+[68/2839] 1f3v.ent.pdb  (skip)
+[69/2839] 1f5r.ent.pdb  (skip)
+[70/2839] 1f7z.ent.pdb  (skip)
+[71/2839] 1fak.ent.pdb  (skip)
+[72/2839] 1fc2.ent.pdb  (skip)
+[73/2839] 1fe8.ent.pdb  (skip)
+[74/2839] 1ffw.ent.pdb  (skip)
+[75/2839] 1ffx.ent.pdb  (skip)
+[76/2839] 1fg9.ent.pdb  (skip)
+[77/2839] 1fle.ent.pdb  (skip)
+[78/2839] 1flt.ent.pdb  (skip)
+[79/2839] 1fmo.ent.pdb  (skip)
+[80/2839] 1fqj.ent.pdb  (skip)
+[81/2839] 1fsk.ent.pdb
+[82/2839] 1fy8.ent.pdb
+[83/2839] 1g0v.ent.pdb
+[84/2839] 1g5j.ent.pdb
+[85/2839] 1g6v.ent.pdb
+[86/2839] 1g9i.ent.pdb
+[87/2839] 1gcq.ent.pdb
+[88/2839] 1gl0.ent.pdb
+[89/2839] 1gl1.ent.pdb
+[90/2839] 1gla.ent.pdb
+[91/2839] 1gng.ent.pdb
+[92/2839] 1go4.ent.pdb
+[93/2839] 1gpw.ent.pdb
+[94/2839] 1grn.ent.pdb
+[95/2839] 1gua.ent.pdb
+[96/2839] 1gxd.ent.pdb
+[97/2839] 1h0t.ent.pdb
+[98/2839] 1h1v.ent.pdb
+[99/2839] 1h59.ent.pdb
+[100/2839] 1hcf.ent.pdb
+[101/2839] 1he8.ent.pdb
+[102/2839] 1hez.ent.pdb
+[103/2839] 1hia.ent.pdb
+[104/2839] 1hqr.ent.pdb
+[105/2839] 1hrt.ent.pdb
+[106/2839] 1hxy.ent.pdb
+[107/2839] 1i2m.ent.pdb
+[108/2839] 1i3o.ent.pdb
+[109/2839] 1i4d.ent.pdb
+[110/2839] 1i4e.ent.pdb
+[111/2839] 1i51.ent.pdb
+[112/2839] 1i5k.ent.pdb
+[113/2839] 1i8k.ent.pdb
+[114/2839] 1i8l.ent.pdb
+[115/2839] 1ib1.ent.pdb
+[116/2839] 1ibr.ent.pdb
+[117/2839] 1icf.ent.pdb
+[118/2839] 1id5.ent.pdb
+[119/2839] 1ihs.ent.pdb
+[120/2839] 1ijk.ent.pdb
+[121/2839] 1iqd.ent.pdb
+[122/2839] 1j2j.ent.pdb
+[123/2839] 1j7d.ent.pdb
+[124/2839] 1j7v.ent.pdb
+[125/2839] 1jgn.ent.pdb
+[126/2839] 1jh4.ent.pdb
+[127/2839] 1jiw.ent.pdb
+[128/2839] 1jmo.ent.pdb
+[129/2839] 1jps.ent.pdb
+[130/2839] 1jrh.ent.pdb
+[131/2839] 1jsp.ent.pdb
+[132/2839] 1jtd.ent.pdb
+[133/2839] 1jtg.ent.pdb
+[134/2839] 1jwh.ent.pdb
+[135/2839] 1k2d.ent.pdb
+[136/2839] 1k5d.ent.pdb
+[137/2839] 1k93.ent.pdb
+[138/2839] 1kac.ent.pdb
+[139/2839] 1kbh.ent.pdb
+[140/2839] 1kgy.ent.pdb
+[141/2839] 1kig.ent.pdb
+[142/2839] 1kkl.ent.pdb
+[143/2839] 1ktk.ent.pdb
+[144/2839] 1ktz.ent.pdb
+[145/2839] 1kxp.ent.pdb
+[146/2839] 1kxq.ent.pdb
+[147/2839] 1kxt.ent.pdb
+[148/2839] 1kxv.ent.pdb
+[149/2839] 1l0x.ent.pdb
+[150/2839] 1l2w.ent.pdb
+[151/2839] 1l4d.ent.pdb
+[152/2839] 1l4z.ent.pdb
+[153/2839] 1l8c.ent.pdb
+[154/2839] 1ldt.ent.pdb
+[155/2839] 1lfd.ent.pdb
+[156/2839] 1lj2.ent.pdb
+[157/2839] 1lm8.ent.pdb
+[158/2839] 1lp1.ent.pdb
+[159/2839] 1lqb.ent.pdb
+[160/2839] 1lqs.ent.pdb
+[161/2839] 1lw6.ent.pdb
+[162/2839] 1lx5.ent.pdb
+[163/2839] 1lzw.ent.pdb
+[164/2839] 1m10.ent.pdb
+[165/2839] 1m1e.ent.pdb
+[166/2839] 1m5n.ent.pdb
+[167/2839] 1mah.ent.pdb
+[168/2839] 1mcv.ent.pdb
+[169/2839] 1mhh.ent.pdb
+[170/2839] 1mi5.ent.pdb
+[171/2839] 1mlc.ent.pdb
+[172/2839] 1mq8.ent.pdb
+[173/2839] 1mtn.ent.pdb
+[174/2839] 1mxe.ent.pdb
+[175/2839] 1mzw.ent.pdb
+[176/2839] 1n64.ent.pdb
+[177/2839] 1nb5.ent.pdb
+[178/2839] 1nca.ent.pdb
+[179/2839] 1nez.ent.pdb
+[180/2839] 1nf3.ent.pdb
+[181/2839] 1nl0.ent.pdb
+[182/2839] 1nm5.ent.pdb
+[183/2839] 1nma.ent.pdb
+[184/2839] 1nsn.ent.pdb
+[185/2839] 1nvu.ent.pdb
+[186/2839] 1nw9.ent.pdb
+[187/2839] 1nys.ent.pdb
+[188/2839] 1nyu.ent.pdb
+[189/2839] 1o94.ent.pdb
+[190/2839] 1o95.ent.pdb
+[191/2839] 1o9a.ent.pdb
+[192/2839] 1ob1.ent.pdb
+[193/2839] 1oc0.ent.pdb
+[194/2839] 1oey.ent.pdb
+[195/2839] 1ogy.ent.pdb
+[196/2839] 1op9.ent.pdb
+[197/2839] 1oph.ent.pdb
+[198/2839] 1oqe.ent.pdb
+[199/2839] 1otr.ent.pdb
+[200/2839] 1oyh.ent.pdb
+[201/2839] 1oyv.ent.pdb
+[202/2839] 1ozs.ent.pdb
+[203/2839] 1p0s.ent.pdb
+[204/2839] 1p1z.ent.pdb
+[205/2839] 1p22.ent.pdb
+[206/2839] 1p27.ent.pdb
+[207/2839] 1p2c.ent.pdb
+[208/2839] 1p3q.ent.pdb
+[209/2839] 1p4b.ent.pdb
+[210/2839] 1p4l.ent.pdb
+[211/2839] 1p69.ent.pdb
+[212/2839] 1p6a.ent.pdb
+[213/2839] 1p9d.ent.pdb
+[214/2839] 1p9m.ent.pdb
+[215/2839] 1pd7.ent.pdb
+[216/2839] 1pjm.ent.pdb
+[217/2839] 1pjn.ent.pdb
+[218/2839] 1pk1.ent.pdb
+[219/2839] 1ppe.ent.pdb
+[220/2839] 1psb.ent.pdb
+[221/2839] 1pvh.ent.pdb
+[222/2839] 1pxv.ent.pdb
+[223/2839] 1q0w.ent.pdb
+[224/2839] 1q5w.ent.pdb
+[225/2839] 1q68.ent.pdb
+[226/2839] 1q69.ent.pdb
+[227/2839] 1qa9.ent.pdb
+[228/2839] 1qfu.ent.pdb
+[229/2839] 1qfw.ent.pdb
+[230/2839] 1qse.ent.pdb
+[231/2839] 1qty.ent.pdb
+[232/2839] 1qur.ent.pdb
+[233/2839] 1r0r.ent.pdb
+[234/2839] 1r6q.ent.pdb
+[235/2839] 1r8u.ent.pdb
+[236/2839] 1ri8.ent.pdb
+[237/2839] 1rjc.ent.pdb
+[238/2839] 1rkc.ent.pdb
+[239/2839] 1rke.ent.pdb
+[240/2839] 1rlb.ent.pdb
+[241/2839] 1rpq.ent.pdb
+[242/2839] 1rv6.ent.pdb
+[243/2839] 1rvj.ent.pdb
+[244/2839] 1ry7.ent.pdb
+[245/2839] 1s1q.ent.pdb
+[246/2839] 1s4y.ent.pdb
+[247/2839] 1sb0.ent.pdb
+[248/2839] 1sbb.ent.pdb
+[249/2839] 1sg1.ent.pdb
+[250/2839] 1shy.ent.pdb
+[251/2839] 1shz.ent.pdb
+[252/2839] 1smf.ent.pdb
+[253/2839] 1sq0.ent.pdb
+[254/2839] 1sv0.ent.pdb
+[255/2839] 1sy6.ent.pdb
+[256/2839] 1syq.ent.pdb
+[257/2839] 1t01.ent.pdb
+[258/2839] 1t0p.ent.pdb
+[259/2839] 1t44.ent.pdb
+[260/2839] 1t5z.ent.pdb
+[261/2839] 1t63.ent.pdb
+[262/2839] 1t6b.ent.pdb
+[263/2839] 1ta3.ent.pdb
+[264/2839] 1taw.ent.pdb
+[265/2839] 1tba.ent.pdb
+[266/2839] 1tbq.ent.pdb
+[267/2839] 1tbr.ent.pdb
+[268/2839] 1tdq.ent.pdb
+[269/2839] 1te1.ent.pdb
+[270/2839] 1th1.ent.pdb
+[271/2839] 1tlh.ent.pdb
+[272/2839] 1tm1.ent.pdb
+[273/2839] 1tm3.ent.pdb
+[274/2839] 1tm4.ent.pdb
+[275/2839] 1tm5.ent.pdb
+[276/2839] 1tm7.ent.pdb
+[277/2839] 1to1.ent.pdb
+[278/2839] 1toc.ent.pdb
+[279/2839] 1tt5.ent.pdb
+[280/2839] 1ty4.ent.pdb
+[281/2839] 1tzh.ent.pdb
+[282/2839] 1tzi.ent.pdb
+[283/2839] 1tzn.ent.pdb
+[284/2839] 1u0i.ent.pdb
+[285/2839] 1u0s.ent.pdb
+[286/2839] 1u5s.ent.pdb
+[287/2839] 1u7f.ent.pdb
+[288/2839] 1u7v.ent.pdb
+[289/2839] 1uad.ent.pdb
+[290/2839] 1uel.ent.pdb
+[291/2839] 1uex.ent.pdb
+[292/2839] 1ugh.ent.pdb
+[293/2839] 1ul1.ent.pdb
+[294/2839] 1us7.ent.pdb
+[295/2839] 1usu.ent.pdb
+[296/2839] 1usv.ent.pdb
+[297/2839] 1uug.ent.pdb
+[298/2839] 1uuz.ent.pdb
+[299/2839] 1uwx.ent.pdb
+[300/2839] 1v18.ent.pdb
+[301/2839] 1v7p.ent.pdb
+[302/2839] 1vet.ent.pdb
+[303/2839] 1veu.ent.pdb
+[304/2839] 1vfb.ent.pdb
+[305/2839] 1vg0.ent.pdb
+[306/2839] 1vpp.ent.pdb
+[307/2839] 1vrc.ent.pdb
+[308/2839] 1vrk.ent.pdb
+[309/2839] 1vsq.ent.pdb
+[310/2839] 1vyh.ent.pdb
+[311/2839] 1vyt.ent.pdb
+[312/2839] 1w1w.ent.pdb
+[313/2839] 1w72.ent.pdb
+[314/2839] 1wa7.ent.pdb
+[315/2839] 1wa8.ent.pdb
+[316/2839] 1wdw.ent.pdb
+[317/2839] 1wej.ent.pdb
+[318/2839] 1wlp.ent.pdb
+[319/2839] 1wpx.ent.pdb
+[320/2839] 1wq1.ent.pdb
+[321/2839] 1wqj.ent.pdb
+[322/2839] 1wr1.ent.pdb
+[323/2839] 1wr6.ent.pdb
+[324/2839] 1wrd.ent.pdb
+[325/2839] 1wve.ent.pdb
+[326/2839] 1x1u.ent.pdb
+[327/2839] 1x1w.ent.pdb
+[328/2839] 1x1x.ent.pdb
+[329/2839] 1x1y.ent.pdb
+[330/2839] 1x75.ent.pdb
+[331/2839] 1xd3.ent.pdb
+[332/2839] 1xdt.ent.pdb
+[333/2839] 1xg2.ent.pdb
+[334/2839] 1xj7.ent.pdb
+[335/2839] 1xqh.ent.pdb
+[336/2839] 1xqs.ent.pdb
+[337/2839] 1xr0.ent.pdb
+[338/2839] 1xt9.ent.pdb
+[339/2839] 1xu1.ent.pdb
+[340/2839] 1xwd.ent.pdb
+[341/2839] 1xx9.ent.pdb
+[342/2839] 1xxd.ent.pdb
+[343/2839] 1xxf.ent.pdb
+[344/2839] 1y1k.ent.pdb
+[345/2839] 1y33.ent.pdb
+[346/2839] 1y34.ent.pdb
+[347/2839] 1y3b.ent.pdb
+[348/2839] 1y3c.ent.pdb
+[349/2839] 1y3d.ent.pdb
+[350/2839] 1y48.ent.pdb
+[351/2839] 1y4a.ent.pdb
+[352/2839] 1y4d.ent.pdb
+[353/2839] 1y6k.ent.pdb
+[354/2839] 1y6m.ent.pdb
+[355/2839] 1y6n.ent.pdb
+[356/2839] 1y76.ent.pdb
+[357/2839] 1y8n.ent.pdb
+[358/2839] 1yc0.ent.pdb
+[359/2839] 1ycs.ent.pdb
+[360/2839] 1yd8.ent.pdb
+[361/2839] 1ydi.ent.pdb
+[362/2839] 1yk0.ent.pdb
+[363/2839] 1yk1.ent.pdb
+[364/2839] 1yrt.ent.pdb
+[365/2839] 1yru.ent.pdb
+[366/2839] 1yvb.ent.pdb
+[367/2839] 1yx5.ent.pdb
+[368/2839] 1yx6.ent.pdb
+[369/2839] 1yy9.ent.pdb
+[370/2839] 1yyl.ent.pdb
+[371/2839] 1yym.ent.pdb
+[372/2839] 1z0k.ent.pdb
+[373/2839] 1z5s.ent.pdb
+[374/2839] 1z7x.ent.pdb
+[375/2839] 1z92.ent.pdb
+[376/2839] 1za3.ent.pdb
+[377/2839] 1zc3.ent.pdb
+[378/2839] 1zc4.ent.pdb
+[379/2839] 1ze3.ent.pdb
+[380/2839] 1zgu.ent.pdb
+[381/2839] 1zhi.ent.pdb
+[382/2839] 1zjd.ent.pdb
+[383/2839] 1zli.ent.pdb
+[384/2839] 1zm4.ent.pdb
+[385/2839] 1zmy.ent.pdb
+[386/2839] 1zr0.ent.pdb
+[387/2839] 1zsg.ent.pdb
+[388/2839] 1zv5.ent.pdb
+[389/2839] 1zvh.ent.pdb
+[390/2839] 1zvy.ent.pdb
+[391/2839] 2a24.ent.pdb
+[392/2839] 2a6d.ent.pdb
+[393/2839] 2a6i.ent.pdb
+[394/2839] 2a6k.ent.pdb
+[395/2839] 2a78.ent.pdb
+[396/2839] 2a7u.ent.pdb
+[397/2839] 2a9h.ent.pdb
+[398/2839] 2a9k.ent.pdb
+[399/2839] 2abz.ent.pdb
+[400/2839] 2aep.ent.pdb
+[401/2839] 2ajf.ent.pdb
+[402/2839] 2ak4.ent.pdb
+[403/2839] 2aq1.ent.pdb
+[404/2839] 2aq2.ent.pdb
+[405/2839] 2aq3.ent.pdb
+[406/2839] 2arp.ent.pdb
+[407/2839] 2ass.ent.pdb
+[408/2839] 2ast.ent.pdb
+[409/2839] 2aw2.ent.pdb
+[410/2839] 2aze.ent.pdb
+[411/2839] 2b0z.ent.pdb
+[412/2839] 2b10.ent.pdb
+[413/2839] 2b11.ent.pdb
+[414/2839] 2b12.ent.pdb
+[415/2839] 2b2w.ent.pdb
+[416/2839] 2b2x.ent.pdb
+[417/2839] 2b42.ent.pdb
+[418/2839] 2b4j.ent.pdb
+[419/2839] 2b5i.ent.pdb
+[420/2839] 2b7c.ent.pdb
+[421/2839] 2b87.ent.pdb
