@@ -1,0 +1,7 @@
+
+# local-only model artifacts (do not push)
+*.joblib
+notebooks/runs/
+model/
+.ipynb_checkpoints/
+__pycache__/
