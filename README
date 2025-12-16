@@ -1,0 +1,16 @@
+For mGLI-pp_Oleksii
+1. model -- contains three versions of the model
+- trained on all of the valid PDB data (2 proteins, have biophysical feauture) : /home/op98/protein_design/mGLI-pp_Oleksii/model/deltaH_combo_model.joblib
+- trained on all the valid PDB data EXCEPT for the one used in SKEMPI 1.1. : /home/op98/protein_design/mGLI-pp_Oleksii/model/deltaH_combo_model_for_skempi.joblib
+- trained on all the valid PDB data EXCEPT for the one used in PRODIGY model: /home/op98/protein_design/mGLI-pp_Oleksii/model/deltaH_combo_model_for_prodigy.joblib
+    -- also containd three notebooks for appropriate models benchmarking, models training 
+1.1 benchmarking -- contains datasets for SKEMPI 1.1., SKEMPI 2.0, and PRODIGY
+2. notebooks 
+- Model performance -- contains the final version of model, results for mGLI and biophysics alone and together
+- data_analysis -- pdb ids set analysis: distribution of number of resideus, delta G distribution, correlations, etc
+- 979 - just like Model performance, but for earlier smaller dataset
+3. src 
+3.1. data
+3.1.1. data_files -- txt and csv files
+3.1.2 data_processing -- python files for data processing
+3.2 features -- codes used to generate and run latest feature generation
